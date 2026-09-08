@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="" />
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Add new project configuration files">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -43,61 +50,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000000109" />
-      <entry key="MS500" value="1.0025586639803743" />
-      <entry key="S2" value="1.271902399488595" />
-      <entry key="S5" value="2.176702481737707" />
-      <entry key="S10" value="4.345246902019403" />
-      <entry key="S30" value="11.314821415497462" />
-      <entry key="S60" value="15.615458743696534" />
-      <entry key="M2" value="19.25838883549237" />
-      <entry key="M5" value="27.88015360741933" />
-      <entry key="M10" value="44.66568463388615" />
-      <entry key="M15" value="59.81155241883164" />
-      <entry key="M30" value="89.5776578794388" />
-      <entry key="H1" value="115.3096808267241" />
-      <entry key="H2" value="132.63551228156908" />
-      <entry key="H4" value="142.75117833356757" />
-      <entry key="D1" value="152.04059327004984" />
-      <entry key="W1" value="153.71793074134595" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0004601714008183" />
+      <entry key="S2" value="1.1782070545998349" />
+      <entry key="S5" value="1.846971632821438" />
+      <entry key="S10" value="2.668539432435373" />
+      <entry key="S30" value="4.8015947949743945" />
+      <entry key="S60" value="6.339633534484349" />
+      <entry key="M2" value="8.050681552102738" />
+      <entry key="M5" value="15.203043522184679" />
+      <entry key="M10" value="30.82782415578415" />
+      <entry key="M15" value="46.26551906019566" />
+      <entry key="M30" value="79.80884271801371" />
+      <entry key="H1" value="111.54603419069842" />
+      <entry key="H2" value="134.08592533008525" />
+      <entry key="H4" value="147.6305462932828" />
+      <entry key="D1" value="160.30039533007402" />
+      <entry key="W1" value="162.6108031570268" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="4.650022134615188E-101" />
-      <entry key="S5" value="7.361765985820663E-41" />
-      <entry key="S10" value="8.580073417996294E-21" />
-      <entry key="S30" value="2.047216004620128E-7" />
-      <entry key="S60" value="4.524730899302961E-4" />
-      <entry key="M2" value="0.021477697256932948" />
-      <entry key="M5" value="0.2933841952568196" />
-      <entry key="M10" value="1.086881777519177" />
-      <entry key="M15" value="1.8839605715397798" />
-      <entry key="M30" value="3.4995732314871444" />
-      <entry key="H1" value="4.902900599716426" />
-      <entry key="H2" value="5.844451882664277" />
-      <entry key="H4" value="6.392379954929607" />
-      <entry key="D1" value="6.8942903314089445" />
-      <entry key="W1" value="6.984785819294741" />
+      <entry key="S2" value="2.567197372898448E-192" />
+      <entry key="S5" value="2.310913575527667E-77" />
+      <entry key="S10" value="4.807196246802981E-39" />
+      <entry key="S30" value="1.6877079030113307E-13" />
+      <entry key="S60" value="4.10827553571152E-7" />
+      <entry key="M2" value="6.47174088033025E-4" />
+      <entry key="M5" value="0.07228531469843744" />
+      <entry key="M10" value="0.5394969431983762" />
+      <entry key="M15" value="1.1810716997505986" />
+      <entry key="M30" value="2.7708774153112423" />
+      <entry key="H1" value="4.362688469355864" />
+      <entry key="H2" value="5.513080629959144" />
+      <entry key="H4" value="6.208516781549995" />
+      <entry key="D1" value="6.860837210666505" />
+      <entry key="W1" value="6.979933972922876" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9395227492141172" />
-      <entry key="MS500" value="0.9901415163178843" />
-      <entry key="S2" value="1.2670255466207618" />
-      <entry key="S5" value="2.1665950050396687" />
-      <entry key="S10" value="4.315279747793724" />
-      <entry key="S30" value="11.268127349577489" />
-      <entry key="S60" value="15.580682602609203" />
-      <entry key="M2" value="19.257145753688143" />
-      <entry key="M5" value="28.15572956572397" />
-      <entry key="M10" value="45.732289206543925" />
-      <entry key="M15" value="61.67429537905587" />
-      <entry key="M30" value="93.05832665611585" />
-      <entry key="H1" value="120.1992748751196" />
-      <entry key="H2" value="138.47196163797824" />
-      <entry key="H4" value="149.1391551426514" />
-      <entry key="D1" value="158.93408745881115" />
-      <entry key="W1" value="160.7026012086842" />
+      <entry key="MS100" value="0.9526379980439373" />
+      <entry key="MS500" value="0.9908004983044308" />
+      <entry key="S2" value="1.1755197519493579" />
+      <entry key="S5" value="1.8454503393044641" />
+      <entry key="S10" value="2.6674805709002074" />
+      <entry key="S30" value="4.800955031199895" />
+      <entry key="S60" value="6.339176380256239" />
+      <entry key="M2" value="8.05039139064182" />
+      <entry key="M5" value="15.270828020632502" />
+      <entry key="M10" value="31.357197245408685" />
+      <entry key="M15" value="47.43324950737474" />
+      <entry key="M30" value="82.56473190572834" />
+      <entry key="H1" value="115.8968721167596" />
+      <entry key="H2" value="139.59145207924638" />
+      <entry key="H4" value="153.83478402919988" />
+      <entry key="D1" value="167.16043983613534" />
+      <entry key="W1" value="169.5906217973805" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -114,12 +121,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "git.auto.fetch.suggestion.counter": "1",
     "javascript.nodejs.core.library.configured.version": "24.20.0",
     "javascript.nodejs.core.library.typings.version": "24.13.3",
     "javascript.preferred.runtime.type.id": "node",
@@ -137,7 +148,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -165,6 +176,15 @@
       <option name="presentableId" value="Default" />
       <updated>1788847330107</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add new project configuration files">
+      <option name="closed" value="true" />
+      <created>1788853465151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788853465151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,11 +195,29 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;20260908&quot;&#10;&#10;This reverts commit 965f4f55f63e25189d3c87cb6360768208e011d3." />
+    <MESSAGE value="20260908:&#10; " />
+    <MESSAGE value="Add new project configuration files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new project configuration files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
