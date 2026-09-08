@@ -1,1 +1,0 @@
-document.write("script01.js 파일에서 가져온 것<hr>");
