@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="857" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "bestcar137"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/bestcar137/web_xml_programming.git",
+    "accountId": "7988b648-9604-4240-a870-846f9ff01712"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000000000109" />
+      <entry key="MS500" value="1.0025586639803743" />
+      <entry key="S2" value="1.271902399488595" />
+      <entry key="S5" value="2.176702481737707" />
+      <entry key="S10" value="4.345246902019403" />
+      <entry key="S30" value="11.314821415497462" />
+      <entry key="S60" value="15.615458743696534" />
+      <entry key="M2" value="19.25838883549237" />
+      <entry key="M5" value="27.88015360741933" />
+      <entry key="M10" value="44.66568463388615" />
+      <entry key="M15" value="59.81155241883164" />
+      <entry key="M30" value="89.5776578794388" />
+      <entry key="H1" value="115.3096808267241" />
+      <entry key="H2" value="132.63551228156908" />
+      <entry key="H4" value="142.75117833356757" />
+      <entry key="D1" value="152.04059327004984" />
+      <entry key="W1" value="153.71793074134595" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.650022134615188E-101" />
+      <entry key="S5" value="7.361765985820663E-41" />
+      <entry key="S10" value="8.580073417996294E-21" />
+      <entry key="S30" value="2.047216004620128E-7" />
+      <entry key="S60" value="4.524730899302961E-4" />
+      <entry key="M2" value="0.021477697256932948" />
+      <entry key="M5" value="0.2933841952568196" />
+      <entry key="M10" value="1.086881777519177" />
+      <entry key="M15" value="1.8839605715397798" />
+      <entry key="M30" value="3.4995732314871444" />
+      <entry key="H1" value="4.902900599716426" />
+      <entry key="H2" value="5.844451882664277" />
+      <entry key="H4" value="6.392379954929607" />
+      <entry key="D1" value="6.8942903314089445" />
+      <entry key="W1" value="6.984785819294741" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9395227492141172" />
+      <entry key="MS500" value="0.9901415163178843" />
+      <entry key="S2" value="1.2670255466207618" />
+      <entry key="S5" value="2.1665950050396687" />
+      <entry key="S10" value="4.315279747793724" />
+      <entry key="S30" value="11.268127349577489" />
+      <entry key="S60" value="15.580682602609203" />
+      <entry key="M2" value="19.257145753688143" />
+      <entry key="M5" value="28.15572956572397" />
+      <entry key="M10" value="45.732289206543925" />
+      <entry key="M15" value="61.67429537905587" />
+      <entry key="M30" value="93.05832665611585" />
+      <entry key="H1" value="120.1992748751196" />
+      <entry key="H2" value="138.47196163797824" />
+      <entry key="H4" value="149.1391551426514" />
+      <entry key="D1" value="158.93408745881115" />
+      <entry key="W1" value="160.7026012086842" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J28eTSGIfnCxee7pZ05bvDH1EK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "javascript.nodejs.core.library.configured.version": "24.20.0",
+    "javascript.nodejs.core.library.typings.version": "24.13.3",
+    "javascript.preferred.runtime.type.id": "node",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/bestc/AppData/Roaming/JetBrains/IntelliJIdea2026.2/node/versions/24.20.0/node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bestc\IdeaProjects\xmlprogramming\source" />
+      <recent name="C:\Users\bestc\IdeaProjects\xmlprogramming" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="" />
+      <created>1788847330107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788847330107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
