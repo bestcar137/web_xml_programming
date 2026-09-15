@@ -4,839 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="crashed file reload">
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="delete error folder: source/HTML5">
+      <change afterPath="$PROJECT_DIR$/practice/chap02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_bigmac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_bob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_bulkoki.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_cheese.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_chicken.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_double.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_psy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_whopper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/buger1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/buger2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/cider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/cola.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/email.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/fries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/logo_bking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/logo_lotte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/logo_mac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/logo_moms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/morning_vow.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/phone.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/media/set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/prac01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/prac02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/prac02_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_01/CSS/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_01/CSS/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_01/CSS/styles_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_01/HTML/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_01/HTML/index_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_01/index_01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_01/jscript/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_01/jscript/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_01/jscript/script_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_01/jscript/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-10_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-11_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-12_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-13_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-14_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-15_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-16_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-17_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-1_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-2_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-3_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-4_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-5_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-6_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-7_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-8_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/ex2-9_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/html/milk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/index_02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/index_02s2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/b_bigmac.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/b_bob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/b_bulkoki.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/b_cheese.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/b_chicken.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/b_double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/b_psy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/b_whopper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/buger1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/buger2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/cider.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/cola.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/email.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/fries.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/logo_bking.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/logo_lotte.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/logo_mac.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/logo_moms.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/morning_vow.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/phone.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/media/set.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_02/project/홍길동_20230808.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-10_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-11_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-12_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-13_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-14_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-15_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-16_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-17_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-18.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-18_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-1_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-2_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-3_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-4_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-5_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-6_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-7_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-8_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/html/ex3-9_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/index_03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/index_03_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/index_03s2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/project/홍길동_20230808.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/project/홍길동_20230808_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_03/project/홍길동_20230808_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-10_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-11_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-12_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-13_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-14_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-15_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-16_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-17_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-18.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-18_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-19.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-19_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-1_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-20.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-20_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-2_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-3_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-4_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-5_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-6_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-7_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-8_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/ex4-9_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/html/style_04.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/index_04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/index_04s2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/BBQ1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/BBQ2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/apple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/bacon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/banana1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/banana2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/bibimbab.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/bread.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/burger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/cake1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/cake2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/cake3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/cheese.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/cherry.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/chicken1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/chicken2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/chicken3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/chicken4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/chinese_food.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/chips.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/chocolate1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/chocolate2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/coconut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/coffee_hot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/coffee_ice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/cookies1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/cookies2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/corn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/crab.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/crepes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/croissant.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/curry.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/donut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/dumpling1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/dumpling2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/egg1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/egg2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/fish1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/fish2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/fried_rice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/fried_rice1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/fried_rice2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/grapes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/hotdog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/ice_cream.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/kababs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/kimbob.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/kiwi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/lasagna.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/lobster1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/lobster2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/mango.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/milk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/pancakes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/pasta1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/pasta2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/pie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/pineapple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/pizza1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/pizza2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/popcorn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/pork_cutlet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/pretzel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/pudding.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/quesadilla.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/ramen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/salad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/salmon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/sandwich1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/sandwich2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/sausage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/shrimp1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/shrimp2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/squid_fry.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/steak1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/steak2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/strawberry.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/sushi1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/sushi2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/sushi3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/taco.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/tomato.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/udong.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/watermelon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/yogurt1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/media/yogurt2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_04/project/홍길동_20230808.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-10_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-11_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-12_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-13_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-14_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-15_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-16_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-17_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-18.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-18_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-19.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-19_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-1_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-20.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-20_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-2_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-3_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-4_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-5_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-6_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-7_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-8_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/html/ex5-9_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/index_05.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/index_05s2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/africa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/africa1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/africa2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/africa3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/australia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/australia1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/australia2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/australia3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/brazil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/brazil1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/brazil2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/brazil3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/canada.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/canada1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/canada2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/canada3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/china.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/china1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/china2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/china3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/cuba.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/cuba1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/cuba2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/cuba3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/czech.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/czech1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/czech2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/czech3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/egypt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/egypt1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/egypt2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/egypt3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/england.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/england1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/england2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/england4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/england5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/france.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/france1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/france2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/france3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/france4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/france5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/france6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/germany.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/germany1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/germany2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/germany3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/greece.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/greece1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/greece2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/guam.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/guam1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/hongkong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/hongkong1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/hongkong2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/india.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/india1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/india2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/india3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/italy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/italy1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/italy2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/italy3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/italy4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/italy5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/japan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/japan1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/japan2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/japan3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/korea.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/korea1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/korea2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/korea3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/korea4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/mexico.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/mexico1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/mexico2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/mexico3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/netherland.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/netherlands1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/netherlands2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/netherlands3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/netherlands4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/russia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/russia1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/russia2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/russia3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/singapore.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/singapore1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/singapore2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/spain.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/spain1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/spain2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/spain3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/swiss.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/swiss1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/swiss2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/thailand.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/thailand1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/thailand2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/thailand3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/usa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/usa1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/usa2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/usa3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/usa4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/media/usa5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/project/20230808.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_05/project/홍길동_20230808.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-10_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-11_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-12_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-13_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-14_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-15_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-16_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-17_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-18.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-18_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-19.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-19_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-1_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-20.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-20_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-21.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-21_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-22.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-22_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-2_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-3_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-4_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-5_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-6_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-7_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-8_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/ex6-9_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/script01.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/html/style_js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/index_06.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/index_06s2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/media/chicken.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/media/food1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/media/food2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/media/food3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/media/rpc0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/media/rpc1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/media/rpc2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/project/p1_홍길동_20230808.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/project/p2_홍길동_20230808.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_06/project/style_js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-10_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-11_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-12_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-1_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-2_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-3_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-4_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-5_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-6_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-7_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-8_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/ex7-9_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/html/style_js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_07/index_07.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-10_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-11_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-12_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-13_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-14_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-15_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-1_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-2_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-3_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-4_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-5_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-6_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-7_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-8_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/ex8-9_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/html/style_js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/index_08.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/media/photo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_08/media/photo2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-10_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-11_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-12_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-13_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-14_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-15_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-1_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-2_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-3_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-4_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-5_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-6_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-7_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-8_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/ex9-9_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/html/style_js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/index_09.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/media/photo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/media/photo2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/media/photo3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/media/photo4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/media/photo5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/media/photo6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_09/media/photo7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-10_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-11_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-12_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-13_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-14_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-15_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-16_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-17_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-18.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-18_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-19.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-19_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-1_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-20.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-20_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-2_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-3_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-4_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-5_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-6_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-7_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-8_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/ex10-9_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/html/style_js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/index_10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/index_10s2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_10/media/photo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-10_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-11_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-12_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-13_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-14_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-15_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-16_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-1_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-2_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-3_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-4_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-5_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-6_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-7_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-8_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/html/ex11-9_c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/index_11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_11/media/airplane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_12/horse/horse.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_12/index_12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_12/rainbow/rainbow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/chap_12/slot/slot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_!.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_g.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_i.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_j.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_k.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_l.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_m.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_o.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_p.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_que.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_r.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_sp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_t.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_u.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_v.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_y.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/font/font_z.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/image.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/armadillo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/bear1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/bear2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/bear3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/bear4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/bear5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/bird1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/button1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/button2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/button3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/button4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cat1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cat2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cat3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cat4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cat5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cat6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cat7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cat8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cat9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/chick1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/chick2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cow1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/cow2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/deer1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/deer2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/deer3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/deer4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/deer5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dog1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dog10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dog2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dog3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dog4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dog5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dog6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dog7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dog8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dog9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dragon1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dragon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dragon3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/dragon4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/duck.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/elephant1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/elephant2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/elephant3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/elephant4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/fish.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/fox1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/fox2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/fox3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/fox4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/fox5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/fox6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/fox7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/fox8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/fox9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/giraffa1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/giraffa2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/giraffa3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/giraffa4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/glider.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/goat1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/goat2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/goat3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/goat4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/goat5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/hedgehog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/hippo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/iguana1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/iguana2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/jack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/koala1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/koala2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/koala3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/koala4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/koala5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lama1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lama2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lama3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lama4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lama5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lama6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lama7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lama8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lion1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lion2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lion3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lion4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lion5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lion6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/lion7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/meerkat1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/meerkat2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/meerkat3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/meerkat4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/meerkat5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/meerkat6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/meerkat7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/meerkat8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/mouse1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/mouse2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/mouse3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/mouse5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/mouse6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/mouse7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/mouse8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/mouse9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/otter1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/otter2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/otter3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/otter4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/otter5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/otter6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/owl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/panda1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/panda2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/panda3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/panther1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/panther2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/panther3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/panther4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/panther5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/pig1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/pig2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/pig3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/pony1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/pony2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/rabbit1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/rabbit2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/rabbit3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/rabbit4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/rabbit5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/rabbit6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/rabbit7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/rabbit8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/rabbit9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/raccoon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/red_panda1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/red_panda2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/red_panda3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/red_panda4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/red_panda5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/red_panda6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/rhino.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/sheep.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/sloth1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/squirrel1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/squirrel2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/squirrel3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/squirrel4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/squirrel5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/squirrel6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/squirrel7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/weasel1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/media/weasel2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/snow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/style_xmp.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/xmlprogramming/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/xmlprogramming/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/HTML5/xmlprogramming/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-13.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -844,7 +41,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1059" />
+    <option name="cachedIndexableFilesCount" value="1085" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -878,60 +75,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000089728641532" />
-      <entry key="S2" value="1.0547309231118387" />
-      <entry key="S5" value="1.3128189898461766" />
-      <entry key="S10" value="1.5593022347945489" />
-      <entry key="S30" value="1.8239190089725306" />
-      <entry key="S60" value="1.913700226433885" />
-      <entry key="M2" value="2.1961875214422006" />
-      <entry key="M5" value="5.398062569881555" />
-      <entry key="M10" value="15.64436429658823" />
-      <entry key="M15" value="28.43705081001594" />
-      <entry key="M30" value="62.688283142469956" />
-      <entry key="H1" value="101.18627320139315" />
-      <entry key="H2" value="131.36738578051077" />
-      <entry key="H4" value="150.48746811565002" />
-      <entry key="D1" value="168.98552727607472" />
-      <entry key="W1" value="172.41969488415444" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000001177242264" />
+      <entry key="S5" value="1.0021280688792449" />
+      <entry key="S10" value="1.0845135844982734" />
+      <entry key="S30" value="2.690147398591696" />
+      <entry key="S60" value="5.730992849981259" />
+      <entry key="M2" value="10.770335313808092" />
+      <entry key="M5" value="20.467244781522055" />
+      <entry key="M10" value="30.809376795474435" />
+      <entry key="M15" value="39.43306426138726" />
+      <entry key="M30" value="64.76681490144173" />
+      <entry key="H1" value="115.28471068773844" />
+      <entry key="H2" value="185.64249295725295" />
+      <entry key="H4" value="250.35922536400682" />
+      <entry key="D1" value="331.6261783599747" />
+      <entry key="W1" value="348.99081780619576" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="2.7655165956272034E-137" />
-      <entry key="S10" value="5.258817923856277E-69" />
-      <entry key="S30" value="1.738985836865795E-23" />
-      <entry key="S60" value="4.170219779166142E-12" />
-      <entry key="M2" value="2.061915249567251E-6" />
-      <entry key="M5" value="0.00725019941954304" />
-      <entry key="M10" value="0.17085941943919075" />
-      <entry key="M15" value="0.5487521337909641" />
-      <entry key="M30" value="1.8887187519943687" />
-      <entry key="H1" value="3.6018796010010368" />
-      <entry key="H2" value="5.009355333420087" />
-      <entry key="H4" value="5.918090562980634" />
-      <entry key="D1" value="6.806273648066846" />
-      <entry key="W1" value="6.971976706318001" />
+      <entry key="MS500" value="1.740863174845114E-114" />
+      <entry key="S2" value="3.6323790287367817E-29" />
+      <entry key="S5" value="4.208007099460969E-12" />
+      <entry key="S10" value="2.0513431653361238E-6" />
+      <entry key="S30" value="0.012816547594819941" />
+      <entry key="S60" value="0.12744485282921683" />
+      <entry key="M2" value="0.507175600313886" />
+      <entry key="M5" value="1.4928866691516012" />
+      <entry key="M10" value="2.9696475234804547" />
+      <entry key="M15" value="4.472783009201631" />
+      <entry key="M30" value="8.17776992265394" />
+      <entry key="H1" value="12.837510538614554" />
+      <entry key="H2" value="17.5995019901377" />
+      <entry key="H4" value="21.424979081387843" />
+      <entry key="D1" value="25.909496543434166" />
+      <entry key="W1" value="26.839594302115007" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8950250709279725" />
-      <entry key="MS500" value="0.9780723596593943" />
-      <entry key="S2" value="1.049068474668008" />
-      <entry key="S5" value="1.310299962770191" />
-      <entry key="S10" value="1.5579225047466112" />
-      <entry key="S30" value="1.8234161519410979" />
-      <entry key="S60" value="1.9134403545333616" />
-      <entry key="M2" value="2.19602484694031" />
-      <entry key="M5" value="5.404700086778209" />
-      <entry key="M10" value="15.811879070384713" />
-      <entry key="M15" value="28.979491620455185" />
-      <entry key="M30" value="64.56671610624535" />
-      <entry key="H1" value="104.77833032228821" />
-      <entry key="H2" value="136.36985708545362" />
-      <entry key="H4" value="156.40146935351734" />
-      <entry key="D1" value="175.791012742873" />
-      <entry key="W1" value="179.39155613397452" />
+      <entry key="MS100" value="4.716485981078345E-4" />
+      <entry key="MS500" value="0.2161343078269663" />
+      <entry key="S2" value="0.6818376840251793" />
+      <entry key="S5" value="0.8600110183452154" />
+      <entry key="S10" value="1.005968217888749" />
+      <entry key="S30" value="2.626700042878382" />
+      <entry key="S60" value="5.77190600144367" />
+      <entry key="M2" value="11.193799974399253" />
+      <entry key="M5" value="21.898323718730264" />
+      <entry key="M10" value="33.734742051919696" />
+      <entry key="M15" value="43.86904556498243" />
+      <entry key="M30" value="72.91666423258944" />
+      <entry key="H1" value="128.10064064007375" />
+      <entry key="H2" value="203.2264666266657" />
+      <entry key="H4" value="271.7743355671548" />
+      <entry key="D1" value="357.533594323614" />
+      <entry key="W1" value="375.83010161422175" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -942,45 +139,50 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3J28eTSGIfnCxee7pZ05bvDH1EK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;24.20.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;24.13.3&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap01&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/bestc/AppData/Roaming/JetBrains/IntelliJIdea2026.2/node/versions/24.20.0/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "git.auto.fetch.suggestion.counter": "1",
+    "javascript.nodejs.core.library.configured.version": "24.20.0",
+    "javascript.nodejs.core.library.typings.version": "24.13.3",
+    "javascript.preferred.runtime.type.id": "node",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/bestc/AppData/Roaming/JetBrains/IntelliJIdea2026.2/node/versions/24.20.0/node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "two.files.diff.last.used.file": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap02" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -1036,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789447306974</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="delete error folder: source/HTML5">
+      <option name="closed" value="true" />
+      <created>1789448621932</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789448621932</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1070,7 +280,8 @@
     <MESSAGE value="20260908:&#10; " />
     <MESSAGE value="Add new project configuration files" />
     <MESSAGE value="crashed file reload" />
-    <option name="LAST_COMMIT_MESSAGE" value="crashed file reload" />
+    <MESSAGE value="delete error folder: source/HTML5" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete error folder: source/HTML5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
