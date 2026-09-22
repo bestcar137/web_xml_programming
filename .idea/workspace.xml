@@ -4,36 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="delete error folder: source/HTML5">
-      <change afterPath="$PROJECT_DIR$/practice/chap02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_bigmac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_bob.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_bulkoki.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_cheese.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_chicken.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_double.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_psy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/b_whopper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/buger1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/buger2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/cider.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/cola.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/email.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/email.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/fries.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/logo_bking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/logo_lotte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/logo_mac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/logo_moms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/morning_vow.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/phone.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/media/set.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/prac01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/prac02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/prac02_1.html" afterDir="false" />
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Add practice/chap03&#10;20260922">
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-10_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-11_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-12_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-13_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-14_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-15_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-16_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-17_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-18_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-1_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-2_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-3_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-4_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-5_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-6_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-7_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-8_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-9_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/index_03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/index_03_c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/index_03s2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/mini_project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_결과.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/leftframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/make_frame_in_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/prac01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/prac01_결과.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/prac01_코드.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/prac02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/rightframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/test_iframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/test_iframe_결과.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/test_iframe_코드.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/project/차민규_24117000.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/project/홍길동_20230808_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/project/홍길동_20230808_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/snow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/style_xmp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +76,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1085" />
+    <option name="cachedIndexableFilesCount" value="1146" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -53,6 +88,7 @@
   </component>
   <component name="Git.Settings">
     <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -76,59 +112,59 @@
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000001177242264" />
-      <entry key="S5" value="1.0021280688792449" />
-      <entry key="S10" value="1.0845135844982734" />
-      <entry key="S30" value="2.690147398591696" />
-      <entry key="S60" value="5.730992849981259" />
-      <entry key="M2" value="10.770335313808092" />
-      <entry key="M5" value="20.467244781522055" />
-      <entry key="M10" value="30.809376795474435" />
-      <entry key="M15" value="39.43306426138726" />
-      <entry key="M30" value="64.76681490144173" />
-      <entry key="H1" value="115.28471068773844" />
-      <entry key="H2" value="185.64249295725295" />
-      <entry key="H4" value="250.35922536400682" />
-      <entry key="D1" value="331.6261783599747" />
-      <entry key="W1" value="348.99081780619576" />
+      <entry key="S2" value="1.0000000000044909" />
+      <entry key="S5" value="1.0000608262543316" />
+      <entry key="S10" value="1.0159176293395118" />
+      <entry key="S30" value="1.8308337315998569" />
+      <entry key="S60" value="3.48724254004443" />
+      <entry key="M2" value="5.471858168879837" />
+      <entry key="M5" value="10.964751449339513" />
+      <entry key="M10" value="28.39396806563665" />
+      <entry key="M15" value="46.75963564714272" />
+      <entry key="M30" value="89.77286500443215" />
+      <entry key="H1" value="149.94152405282705" />
+      <entry key="H2" value="241.24278613644003" />
+      <entry key="H4" value="354.6715541689365" />
+      <entry key="D1" value="548.5759960509829" />
+      <entry key="W1" value="598.1142641052251" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.740863174845114E-114" />
-      <entry key="S2" value="3.6323790287367817E-29" />
-      <entry key="S5" value="4.208007099460969E-12" />
-      <entry key="S10" value="2.0513431653361238E-6" />
-      <entry key="S30" value="0.012816547594819941" />
-      <entry key="S60" value="0.12744485282921683" />
-      <entry key="M2" value="0.507175600313886" />
-      <entry key="M5" value="1.4928866691516012" />
-      <entry key="M10" value="2.9696475234804547" />
-      <entry key="M15" value="4.472783009201631" />
-      <entry key="M30" value="8.17776992265394" />
-      <entry key="H1" value="12.837510538614554" />
-      <entry key="H2" value="17.5995019901377" />
-      <entry key="H4" value="21.424979081387843" />
-      <entry key="D1" value="25.909496543434166" />
-      <entry key="W1" value="26.839594302115007" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="6.9385088572101375E-186" />
+      <entry key="S5" value="8.639855097391755E-75" />
+      <entry key="S10" value="9.295083921212665E-38" />
+      <entry key="S30" value="4.556242828416042E-13" />
+      <entry key="S60" value="7.255617678261903E-7" />
+      <entry key="M2" value="0.001109618153923795" />
+      <entry key="M5" value="0.1485126393651185" />
+      <entry key="M10" value="1.042864510327454" />
+      <entry key="M15" value="2.1974167033568524" />
+      <entry key="M30" value="5.406647511899953" />
+      <entry key="H1" value="10.514706723893623" />
+      <entry key="H2" value="18.22851234282446" />
+      <entry key="H4" value="27.067806267474023" />
+      <entry key="D1" value="40.989713167937595" />
+      <entry key="W1" value="44.39428618621851" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.716485981078345E-4" />
-      <entry key="MS500" value="0.2161343078269663" />
-      <entry key="S2" value="0.6818376840251793" />
-      <entry key="S5" value="0.8600110183452154" />
-      <entry key="S10" value="1.005968217888749" />
-      <entry key="S30" value="2.626700042878382" />
-      <entry key="S60" value="5.77190600144367" />
-      <entry key="M2" value="11.193799974399253" />
-      <entry key="M5" value="21.898323718730264" />
-      <entry key="M10" value="33.734742051919696" />
-      <entry key="M15" value="43.86904556498243" />
-      <entry key="M30" value="72.91666423258944" />
-      <entry key="H1" value="128.10064064007375" />
-      <entry key="H2" value="203.2264666266657" />
-      <entry key="H4" value="271.7743355671548" />
-      <entry key="D1" value="357.533594323614" />
-      <entry key="W1" value="375.83010161422175" />
+      <entry key="MS100" value="0.678302163723836" />
+      <entry key="MS500" value="0.9253044280378523" />
+      <entry key="S2" value="0.9807790039930255" />
+      <entry key="S5" value="0.9923275625887953" />
+      <entry key="S10" value="1.0120351686283051" />
+      <entry key="S30" value="1.8294152126634489" />
+      <entry key="S60" value="3.486417257134291" />
+      <entry key="M2" value="5.472333137914888" />
+      <entry key="M5" value="11.108227901794486" />
+      <entry key="M10" value="29.422095953846384" />
+      <entry key="M15" value="48.937348521966406" />
+      <entry key="M30" value="95.15472613179183" />
+      <entry key="H1" value="160.43077871405657" />
+      <entry key="H2" value="259.44921049173973" />
+      <entry key="H4" value="381.7231870006764" />
+      <entry key="D1" value="589.561683875292" />
+      <entry key="W1" value="642.5079287547616" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -163,7 +199,7 @@
     "javascript.nodejs.core.library.typings.version": "24.13.3",
     "javascript.preferred.runtime.type.id": "node",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02",
+    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -176,12 +212,13 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "two.files.diff.last.used.file": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap02" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap01" />
     </key>
@@ -281,7 +318,8 @@
     <MESSAGE value="Add new project configuration files" />
     <MESSAGE value="crashed file reload" />
     <MESSAGE value="delete error folder: source/HTML5" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete error folder: source/HTML5" />
+    <MESSAGE value="Add practice/chap03&#10;20260922" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add practice/chap03&#10;20260922" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

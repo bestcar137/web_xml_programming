@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>인라인 프레임으로 2개의 신문 사이트 출력</title>
+</head>
+<body>
+<p>
+  <a href="https://www.etnews.com" target="left_frame">전자신문</a>
+  <a href="https://www.mk.co.kr" target="right_frame">매일경제</a>
+</p>
+
+<iframe src="https://www.etnews.com"
+        name="left_frame" width="450" height="600"
+        title="전자신문"></iframe>
+<iframe src="https://www.mk.co.kr"
+        name="right_frame" width="450" height="600"
+        title="매일경제"></iframe>
+</body>
+</html>
