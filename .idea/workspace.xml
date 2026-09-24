@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="mini_project.html 완성">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap02/mini_project/mini.project.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap02/mini_project/mini.project.html" afterDir="false" />
-    </list>
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,61 +45,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000114610444653" />
-      <entry key="S2" value="1.0999289234499237" />
-      <entry key="S5" value="1.7696647493171784" />
-      <entry key="S10" value="2.9389490792143063" />
-      <entry key="S30" value="6.157240117083772" />
-      <entry key="S60" value="9.618794689657467" />
-      <entry key="M2" value="14.518988358457246" />
-      <entry key="M5" value="25.34372101455007" />
-      <entry key="M10" value="36.25237412166773" />
-      <entry key="M15" value="43.507127498360234" />
-      <entry key="M30" value="62.63420656754966" />
-      <entry key="H1" value="112.53939949941267" />
-      <entry key="H2" value="227.86161112551912" />
-      <entry key="H4" value="413.03664580130226" />
-      <entry key="D1" value="835.3187688726955" />
-      <entry key="W1" value="964.8399823558926" />
+      <entry key="MS100" value="1.0000006696915043" />
+      <entry key="MS500" value="1.0592876029334488" />
+      <entry key="S2" value="1.791931619002098" />
+      <entry key="S5" value="3.0362892283573695" />
+      <entry key="S10" value="4.271525770511213" />
+      <entry key="S30" value="6.206152773707534" />
+      <entry key="S60" value="7.803636678783145" />
+      <entry key="M2" value="11.72463699586454" />
+      <entry key="M5" value="23.801280236355836" />
+      <entry key="M10" value="37.681795967695955" />
+      <entry key="M15" value="46.91050621699872" />
+      <entry key="M30" value="68.52353510171801" />
+      <entry key="H1" value="119.13618471445747" />
+      <entry key="H2" value="234.39350284189754" />
+      <entry key="H4" value="420.1749189873487" />
+      <entry key="D1" value="846.3401451431761" />
+      <entry key="W1" value="977.5133543415263" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="6.916628360665852E-305" />
-      <entry key="S2" value="9.119554230797228E-77" />
-      <entry key="S5" value="3.836979192810576E-31" />
-      <entry key="S10" value="6.194335471065943E-16" />
-      <entry key="S30" value="8.524421334722662E-6" />
-      <entry key="S60" value="0.0029196611677937325" />
-      <entry key="M2" value="0.05403388906782232" />
-      <entry key="M5" value="0.3112192780452761" />
-      <entry key="M10" value="0.5578861021422551" />
-      <entry key="M15" value="0.6786732650808258" />
-      <entry key="M30" value="0.9194658331877666" />
-      <entry key="H1" value="2.3449513856771884" />
-      <entry key="H2" value="8.292139312177149" />
-      <entry key="H4" value="20.234439452860407" />
-      <entry key="D1" value="49.349271609252106" />
-      <entry key="W1" value="58.32744706143741" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.575087962076596E-121" />
+      <entry key="S5" value="7.314081230902889E-49" />
+      <entry key="S10" value="8.552240192430797E-25" />
+      <entry key="S30" value="9.492048819721644E-9" />
+      <entry key="S60" value="9.742714621562944E-5" />
+      <entry key="M2" value="0.009870519044894714" />
+      <entry key="M5" value="0.1576652546208341" />
+      <entry key="M10" value="0.39708208659320654" />
+      <entry key="M15" value="0.5410248873346692" />
+      <entry key="M30" value="0.8209445927527278" />
+      <entry key="H1" value="2.2157612807754195" />
+      <entry key="H2" value="8.060484600247733" />
+      <entry key="H4" value="19.949796003136292" />
+      <entry key="D1" value="49.23288591149231" />
+      <entry key="W1" value="58.30777575621706" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.5703818579342118" />
-      <entry key="MS500" value="0.8937956480552184" />
-      <entry key="S2" value="1.0700761989318457" />
-      <entry key="S5" value="1.752063556279446" />
-      <entry key="S10" value="2.925604626895996" />
-      <entry key="S30" value="6.148127029368722" />
-      <entry key="S60" value="9.61196351037574" />
-      <entry key="M2" value="14.558438092657248" />
-      <entry key="M5" value="25.63432135735225" />
-      <entry key="M10" value="36.79213433640317" />
-      <entry key="M15" value="44.169944572988534" />
-      <entry key="M30" value="63.53988417306023" />
-      <entry key="H1" value="114.86876532124846" />
-      <entry key="H2" value="236.13505915667596" />
-      <entry key="H4" value="433.2529352596568" />
-      <entry key="D1" value="884.6618172581648" />
-      <entry key="W1" value="1023.1664049597804" />
+      <entry key="MS100" value="0.9862333604028117" />
+      <entry key="MS500" value="1.0562727961306" />
+      <entry key="S2" value="1.7904200826948071" />
+      <entry key="S5" value="3.0351823692857294" />
+      <entry key="S10" value="4.2707101741743285" />
+      <entry key="S30" value="6.205718050216255" />
+      <entry key="S60" value="7.803140669045082" />
+      <entry key="M2" value="11.731673510778895" />
+      <entry key="M5" value="23.94841460747563" />
+      <entry key="M10" value="38.065929913283966" />
+      <entry key="M15" value="47.438858577463805" />
+      <entry key="M30" value="69.33215216707781" />
+      <entry key="H1" value="121.33721057645889" />
+      <entry key="H2" value="242.4358140403195" />
+      <entry key="H4" value="440.1068181607539" />
+      <entry key="D1" value="895.566822147045" />
+      <entry key="W1" value="1035.8201059341309" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -231,7 +228,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790236019685</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update: add mini_project.html">
+      <option name="closed" value="true" />
+      <created>1790236851131</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1790236851131</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html">
+      <option name="closed" value="true" />
+      <created>1790237067320</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1790237067320</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +281,9 @@
     <MESSAGE value="delete error folder: source/HTML5" />
     <MESSAGE value="Add practice/chap03&#10;20260922" />
     <MESSAGE value="mini_project.html 완성" />
-    <option name="LAST_COMMIT_MESSAGE" value="mini_project.html 완성" />
+    <MESSAGE value="update: add mini_project.html" />
+    <MESSAGE value="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
