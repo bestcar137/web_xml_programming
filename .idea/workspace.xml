@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Add practice/chap03&#10;20260922">
-      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/IMG_7973.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/IMG_7974.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/KakaoTalk_20260924_104649736.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/KakaoTalk_20260924_104649736_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/KakaoTalk_20260924_104649736_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/mini.project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/test.html" afterDir="false" />
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="mini_project.html 완성">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/index_02s2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/index_02s2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/project/홍길동_20230808.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/project/24117000_차민규.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap02/prac01.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap02/prac01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap02/mini_project/mini.project.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap02/mini_project/mini.project.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,60 +49,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000147805161" />
-      <entry key="S2" value="1.0187195395246722" />
-      <entry key="S5" value="1.369403643146483" />
-      <entry key="S10" value="2.038722120209761" />
-      <entry key="S30" value="3.0998406253957445" />
-      <entry key="S60" value="3.5088447787320485" />
-      <entry key="M2" value="3.7448255123827523" />
-      <entry key="M5" value="4.341386544761255" />
-      <entry key="M10" value="7.190085935676234" />
-      <entry key="M15" value="11.083622220072698" />
-      <entry key="M30" value="28.41491178301594" />
-      <entry key="H1" value="81.6971936296043" />
-      <entry key="H2" value="200.61744167122774" />
-      <entry key="H4" value="384.5046624412459" />
-      <entry key="D1" value="790.735339894899" />
-      <entry key="W1" value="913.230881169153" />
+      <entry key="MS500" value="1.0000114610444653" />
+      <entry key="S2" value="1.0999289234499237" />
+      <entry key="S5" value="1.7696647493171784" />
+      <entry key="S10" value="2.9389490792143063" />
+      <entry key="S30" value="6.157240117083772" />
+      <entry key="S60" value="9.618794689657467" />
+      <entry key="M2" value="14.518988358457246" />
+      <entry key="M5" value="25.34372101455007" />
+      <entry key="M10" value="36.25237412166773" />
+      <entry key="M15" value="43.507127498360234" />
+      <entry key="M30" value="62.63420656754966" />
+      <entry key="H1" value="112.53939949941267" />
+      <entry key="H2" value="227.86161112551912" />
+      <entry key="H4" value="413.03664580130226" />
+      <entry key="D1" value="835.3187688726955" />
+      <entry key="W1" value="964.8399823558926" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="2.1537465432562213E-258" />
-      <entry key="S30" value="1.2914121393202025E-86" />
-      <entry key="S60" value="1.1364031602964084E-43" />
-      <entry key="M2" value="3.371270134084423E-22" />
-      <entry key="M5" value="2.6836699358869894E-9" />
-      <entry key="M10" value="7.140261384382941E-5" />
-      <entry key="M15" value="0.002726087439549017" />
-      <entry key="M30" value="0.15915036594568896" />
-      <entry key="H1" value="1.8485996117266426" />
-      <entry key="H2" value="8.32279418225814" />
-      <entry key="H4" value="20.507829335586155" />
-      <entry key="D1" value="48.8625289616471" />
-      <entry key="W1" value="57.41388571516994" />
+      <entry key="MS500" value="6.916628360665852E-305" />
+      <entry key="S2" value="9.119554230797228E-77" />
+      <entry key="S5" value="3.836979192810576E-31" />
+      <entry key="S10" value="6.194335471065943E-16" />
+      <entry key="S30" value="8.524421334722662E-6" />
+      <entry key="S60" value="0.0029196611677937325" />
+      <entry key="M2" value="0.05403388906782232" />
+      <entry key="M5" value="0.3112192780452761" />
+      <entry key="M10" value="0.5578861021422551" />
+      <entry key="M15" value="0.6786732650808258" />
+      <entry key="M30" value="0.9194658331877666" />
+      <entry key="H1" value="2.3449513856771884" />
+      <entry key="H2" value="8.292139312177149" />
+      <entry key="H4" value="20.234439452860407" />
+      <entry key="D1" value="49.349271609252106" />
+      <entry key="W1" value="58.32744706143741" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9659363289248456" />
-      <entry key="MS500" value="0.9930925101181858" />
-      <entry key="S2" value="1.0169532847651555" />
-      <entry key="S5" value="1.368373874484757" />
-      <entry key="S10" value="2.0378553388703504" />
-      <entry key="S30" value="3.099350111810638" />
-      <entry key="S60" value="3.5085591169887986" />
-      <entry key="M2" value="3.744662766212342" />
-      <entry key="M5" value="4.340355303173452" />
-      <entry key="M10" value="7.186394075233393" />
-      <entry key="M15" value="11.080802070297256" />
-      <entry key="M30" value="28.56502613689747" />
-      <entry key="H1" value="83.53163153200411" />
-      <entry key="H2" value="208.92175874579857" />
-      <entry key="H4" value="404.99447119641127" />
-      <entry key="D1" value="839.5917909312008" />
-      <entry key="W1" value="970.6437708443345" />
+      <entry key="MS100" value="0.5703818579342118" />
+      <entry key="MS500" value="0.8937956480552184" />
+      <entry key="S2" value="1.0700761989318457" />
+      <entry key="S5" value="1.752063556279446" />
+      <entry key="S10" value="2.925604626895996" />
+      <entry key="S30" value="6.148127029368722" />
+      <entry key="S60" value="9.61196351037574" />
+      <entry key="M2" value="14.558438092657248" />
+      <entry key="M5" value="25.63432135735225" />
+      <entry key="M10" value="36.79213433640317" />
+      <entry key="M15" value="44.169944572988534" />
+      <entry key="M30" value="63.53988417306023" />
+      <entry key="H1" value="114.86876532124846" />
+      <entry key="H2" value="236.13505915667596" />
+      <entry key="H4" value="433.2529352596568" />
+      <entry key="D1" value="884.6618172581648" />
+      <entry key="W1" value="1023.1664049597804" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -237,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789448621932</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="mini_project.html 완성">
+      <option name="closed" value="true" />
+      <created>1790236019685</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1790236019685</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +267,8 @@
     <MESSAGE value="crashed file reload" />
     <MESSAGE value="delete error folder: source/HTML5" />
     <MESSAGE value="Add practice/chap03&#10;20260922" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add practice/chap03&#10;20260922" />
+    <MESSAGE value="mini_project.html 완성" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini_project.html 완성" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
