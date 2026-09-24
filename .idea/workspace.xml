@@ -5,70 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Add practice/chap03&#10;20260922">
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-10_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-11_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-12_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-13_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-14_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-15_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-16_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-17.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-17_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-18_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-1_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-2_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-3_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-4_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-5_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-6_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-7_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-8_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/html/ex3-9_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/index_03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/index_03_c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/index_03s2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/mini_project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_결과.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/leftframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/make_frame_in_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/prac01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/prac01_결과.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/prac01_코드.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/prac02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/rightframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/test_iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/test_iframe_결과.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac/test_iframe_코드.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/project/차민규_24117000.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/project/홍길동_20230808_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap03/project/홍길동_20230808_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/snow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/style_xmp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/IMG_7973.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/IMG_7974.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/KakaoTalk_20260924_104649736.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/KakaoTalk_20260924_104649736_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/KakaoTalk_20260924_104649736_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/mini.project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap02/mini_project/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/html/ex2-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/index_02s2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/index_02s2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/project/홍길동_20230808.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/project/24117000_차민규.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap02/prac01.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap02/prac01.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1146" />
+    <option name="cachedIndexableFilesCount" value="1161" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -111,60 +63,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000044909" />
-      <entry key="S5" value="1.0000608262543316" />
-      <entry key="S10" value="1.0159176293395118" />
-      <entry key="S30" value="1.8308337315998569" />
-      <entry key="S60" value="3.48724254004443" />
-      <entry key="M2" value="5.471858168879837" />
-      <entry key="M5" value="10.964751449339513" />
-      <entry key="M10" value="28.39396806563665" />
-      <entry key="M15" value="46.75963564714272" />
-      <entry key="M30" value="89.77286500443215" />
-      <entry key="H1" value="149.94152405282705" />
-      <entry key="H2" value="241.24278613644003" />
-      <entry key="H4" value="354.6715541689365" />
-      <entry key="D1" value="548.5759960509829" />
-      <entry key="W1" value="598.1142641052251" />
+      <entry key="MS500" value="1.0000000147805161" />
+      <entry key="S2" value="1.0187195395246722" />
+      <entry key="S5" value="1.369403643146483" />
+      <entry key="S10" value="2.038722120209761" />
+      <entry key="S30" value="3.0998406253957445" />
+      <entry key="S60" value="3.5088447787320485" />
+      <entry key="M2" value="3.7448255123827523" />
+      <entry key="M5" value="4.341386544761255" />
+      <entry key="M10" value="7.190085935676234" />
+      <entry key="M15" value="11.083622220072698" />
+      <entry key="M30" value="28.41491178301594" />
+      <entry key="H1" value="81.6971936296043" />
+      <entry key="H2" value="200.61744167122774" />
+      <entry key="H4" value="384.5046624412459" />
+      <entry key="D1" value="790.735339894899" />
+      <entry key="W1" value="913.230881169153" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="6.9385088572101375E-186" />
-      <entry key="S5" value="8.639855097391755E-75" />
-      <entry key="S10" value="9.295083921212665E-38" />
-      <entry key="S30" value="4.556242828416042E-13" />
-      <entry key="S60" value="7.255617678261903E-7" />
-      <entry key="M2" value="0.001109618153923795" />
-      <entry key="M5" value="0.1485126393651185" />
-      <entry key="M10" value="1.042864510327454" />
-      <entry key="M15" value="2.1974167033568524" />
-      <entry key="M30" value="5.406647511899953" />
-      <entry key="H1" value="10.514706723893623" />
-      <entry key="H2" value="18.22851234282446" />
-      <entry key="H4" value="27.067806267474023" />
-      <entry key="D1" value="40.989713167937595" />
-      <entry key="W1" value="44.39428618621851" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="2.1537465432562213E-258" />
+      <entry key="S30" value="1.2914121393202025E-86" />
+      <entry key="S60" value="1.1364031602964084E-43" />
+      <entry key="M2" value="3.371270134084423E-22" />
+      <entry key="M5" value="2.6836699358869894E-9" />
+      <entry key="M10" value="7.140261384382941E-5" />
+      <entry key="M15" value="0.002726087439549017" />
+      <entry key="M30" value="0.15915036594568896" />
+      <entry key="H1" value="1.8485996117266426" />
+      <entry key="H2" value="8.32279418225814" />
+      <entry key="H4" value="20.507829335586155" />
+      <entry key="D1" value="48.8625289616471" />
+      <entry key="W1" value="57.41388571516994" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.678302163723836" />
-      <entry key="MS500" value="0.9253044280378523" />
-      <entry key="S2" value="0.9807790039930255" />
-      <entry key="S5" value="0.9923275625887953" />
-      <entry key="S10" value="1.0120351686283051" />
-      <entry key="S30" value="1.8294152126634489" />
-      <entry key="S60" value="3.486417257134291" />
-      <entry key="M2" value="5.472333137914888" />
-      <entry key="M5" value="11.108227901794486" />
-      <entry key="M10" value="29.422095953846384" />
-      <entry key="M15" value="48.937348521966406" />
-      <entry key="M30" value="95.15472613179183" />
-      <entry key="H1" value="160.43077871405657" />
-      <entry key="H2" value="259.44921049173973" />
-      <entry key="H4" value="381.7231870006764" />
-      <entry key="D1" value="589.561683875292" />
-      <entry key="W1" value="642.5079287547616" />
+      <entry key="MS100" value="0.9659363289248456" />
+      <entry key="MS500" value="0.9930925101181858" />
+      <entry key="S2" value="1.0169532847651555" />
+      <entry key="S5" value="1.368373874484757" />
+      <entry key="S10" value="2.0378553388703504" />
+      <entry key="S30" value="3.099350111810638" />
+      <entry key="S60" value="3.5085591169887986" />
+      <entry key="M2" value="3.744662766212342" />
+      <entry key="M5" value="4.340355303173452" />
+      <entry key="M10" value="7.186394075233393" />
+      <entry key="M15" value="11.080802070297256" />
+      <entry key="M30" value="28.56502613689747" />
+      <entry key="H1" value="83.53163153200411" />
+      <entry key="H2" value="208.92175874579857" />
+      <entry key="H4" value="404.99447119641127" />
+      <entry key="D1" value="839.5917909312008" />
+      <entry key="W1" value="970.6437708443345" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -182,40 +134,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "git.auto.fetch.suggestion.counter": "1",
-    "javascript.nodejs.core.library.configured.version": "24.20.0",
-    "javascript.nodejs.core.library.typings.version": "24.13.3",
-    "javascript.preferred.runtime.type.id": "node",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "C:/Users/bestc/AppData/Roaming/JetBrains/IntelliJIdea2026.2/node/versions/24.20.0/node",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "two.files.diff.last.used.file": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;24.19.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;24.13.6&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bestc/IdeaProjects/web_xml_programming/practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice" />
@@ -223,6 +176,7 @@
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MinGyu\IdeaProjects\web_xml_programming\practice\chap02\mini_project" />
       <recent name="C:\Users\bestc\IdeaProjects\xmlprogramming\source" />
       <recent name="C:\Users\bestc\IdeaProjects\xmlprogramming" />
     </key>
@@ -230,8 +184,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
       </set>
     </attachedChunks>
   </component>
