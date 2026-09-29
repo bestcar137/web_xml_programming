@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Update project configuration and rename files under `practice/chap03` and `HTML5/chap_03`&#10;&#10;sketch: hw_chap03">
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Update project configuration and refactor `prac_chap03_2/prac01_inputText.html` structure">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/prac02_1_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/prac02_2_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/prac02_3_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/실습1_결과_차민규_24117000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/실습1_코드_차민규_24117000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/실습2_1_차민규_24117000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/실습2_2_차민규_24117000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/실습2_3_차민규_24117000.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-15.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/prac01_inputText.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/prac01_inputText.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +25,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1162" />
+    <option name="cachedIndexableFilesCount" value="1164" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -31,12 +42,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;bestcar137&quot;
-  }
-}</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/bestcar137/web_xml_programming.git&quot;,
@@ -49,61 +57,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000001688" />
-      <entry key="MS500" value="1.0027890702728224" />
-      <entry key="S2" value="1.2298078524032254" />
-      <entry key="S5" value="1.5553383646120662" />
-      <entry key="S10" value="1.7490734774018255" />
-      <entry key="S30" value="2.073866489922019" />
-      <entry key="S60" value="2.6212659723712113" />
-      <entry key="M2" value="4.789536146733303" />
-      <entry key="M5" value="15.412323339803484" />
-      <entry key="M10" value="31.54700735496552" />
-      <entry key="M15" value="42.894482489077724" />
-      <entry key="M30" value="66.91290365865295" />
-      <entry key="H1" value="110.95993767969819" />
-      <entry key="H2" value="211.26737583666136" />
-      <entry key="H4" value="401.66279554137105" />
-      <entry key="D1" value="936.6555495744127" />
-      <entry key="W1" value="1121.6022763553142" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000001359149762" />
+      <entry key="S10" value="1.0003695498695993" />
+      <entry key="S30" value="1.0865554539507918" />
+      <entry key="S60" value="1.5047561343868763" />
+      <entry key="M2" value="2.816304056586537" />
+      <entry key="M5" value="6.763964152735104" />
+      <entry key="M10" value="11.140561236430898" />
+      <entry key="M15" value="15.662569669269033" />
+      <entry key="M30" value="33.44114327886693" />
+      <entry key="H1" value="75.05486554353712" />
+      <entry key="H2" value="170.82275968185593" />
+      <entry key="H4" value="360.2420358802458" />
+      <entry key="D1" value="933.0574117366052" />
+      <entry key="W1" value="1140.001793483032" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.4618147863773303E-90" />
-      <entry key="S2" value="4.3134618086004736E-23" />
-      <entry key="S5" value="1.1322242627927437E-9" />
-      <entry key="S10" value="3.372199969046293E-5" />
-      <entry key="S30" value="0.03647371298623599" />
-      <entry key="S60" value="0.24466228492865927" />
-      <entry key="M2" value="0.712376219709213" />
-      <entry key="M5" value="2.0114750188736767" />
-      <entry key="M10" value="3.6933253211083037" />
-      <entry key="M15" value="4.817763478510821" />
-      <entry key="M30" value="7.040631250953861" />
-      <entry key="H1" value="9.850853465343633" />
-      <entry key="H2" value="14.938928483932884" />
-      <entry key="H4" value="25.90243200251847" />
-      <entry key="D1" value="60.3685856913482" />
-      <entry key="W1" value="72.64316381027666" />
+      <entry key="MS500" value="4.990400737894362E-123" />
+      <entry key="S2" value="2.6578707356750764E-31" />
+      <entry key="S5" value="5.885908984061106E-13" />
+      <entry key="S10" value="7.671967794549913E-7" />
+      <entry key="S30" value="0.009154520264295989" />
+      <entry key="S60" value="0.09567925723158345" />
+      <entry key="M2" value="0.3093213306187583" />
+      <entry key="M5" value="0.6293753849403556" />
+      <entry key="M10" value="0.9095077984540042" />
+      <entry key="M15" value="1.3153319698839563" />
+      <entry key="M30" value="3.097051462124075" />
+      <entry key="H1" value="6.543364489181864" />
+      <entry key="H2" value="12.368890071056216" />
+      <entry key="H4" value="23.696490956782434" />
+      <entry key="D1" value="60.64521677393278" />
+      <entry key="W1" value="74.34390098126396" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="6.632903213660583E-5" />
-      <entry key="MS500" value="0.14635040632856938" />
-      <entry key="S2" value="0.7553516691811041" />
-      <entry key="S5" value="1.2767908033873678" />
-      <entry key="S10" value="1.584323696445745" />
-      <entry key="S30" value="2.0451793501707125" />
-      <entry key="S60" value="2.8237668742403352" />
-      <entry key="M2" value="5.469241524778584" />
-      <entry key="M5" value="17.393995818778677" />
-      <entry key="M10" value="35.21256106078462" />
-      <entry key="M15" value="47.687717532975064" />
-      <entry key="M30" value="73.93540013832491" />
-      <entry key="H1" value="120.79658908913675" />
-      <entry key="H2" value="226.19178337699532" />
-      <entry key="H4" value="427.54981582070786" />
-      <entry key="D1" value="997.0176418087732" />
-      <entry key="W1" value="1194.2443207962874" />
+      <entry key="MS100" value="0.9395227492140118" />
+      <entry key="MS500" value="0.9876008614453725" />
+      <entry key="S2" value="0.9968856972203758" />
+      <entry key="S5" value="0.9987532488123387" />
+      <entry key="S10" value="0.9997462868143564" />
+      <entry key="S30" value="1.0949476759844976" />
+      <entry key="S60" value="1.5974658965250312" />
+      <entry key="M2" value="3.1207682742250107" />
+      <entry key="M5" value="7.389067439968722" />
+      <entry key="M10" value="12.046614384873354" />
+      <entry key="M15" value="16.97393672650339" />
+      <entry key="M30" value="36.532045397370226" />
+      <entry key="H1" value="81.59015051488272" />
+      <entry key="H2" value="183.18083049839086" />
+      <entry key="H4" value="383.92527194473666" />
+      <entry key="D1" value="993.6962702606521" />
+      <entry key="W1" value="1214.3445727586127" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -139,7 +147,7 @@
     "javascript.nodejs.core.library.typings.version": "24.13.6",
     "javascript.preferred.runtime.type.id": "node",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice",
+    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap03/prac_chap03_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -152,12 +160,13 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
     "two.files.diff.last.used.file": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap03\prac_chap03_2" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap02" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap01" />
@@ -257,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790657875469</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update project configuration and refactor `prac_chap03_2/prac01_inputText.html` structure">
+      <option name="closed" value="true" />
+      <created>1790658239999</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1790658239999</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +314,8 @@
     <MESSAGE value="update: add mini_project.html" />
     <MESSAGE value="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html" />
     <MESSAGE value="Update project configuration and rename files under `practice/chap03` and `HTML5/chap_03`&#10;&#10;sketch: hw_chap03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update project configuration and rename files under `practice/chap03` and `HTML5/chap_03`&#10;&#10;sketch: hw_chap03" />
+    <MESSAGE value="Update project configuration and refactor `prac_chap03_2/prac01_inputText.html` structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update project configuration and refactor `prac_chap03_2/prac01_inputText.html` structure" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
