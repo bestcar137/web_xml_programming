@@ -4,19 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html" />
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html">
+      <change afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/prac01_inputText.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/index_03s2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/index_03s2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/홍길동_20230808.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/홍길동_20230808_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/홍길동_20230808_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_결과.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/HTML5_문서_구조화_연습_HTML_텍스트_결과.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/HTML5_문서_구조화_연습_HTML_텍스트_코드_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/HTML5_문서_구조화_연습_HTML_텍스트_코드_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/HTML5_문서_구조화_연습_HTML_텍스트_코드_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/leftframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/leftframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/make_frame_in_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/make_frame_in_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/prac01.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/prac01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/prac01_결과.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/prac01_결과.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/prac01_코드.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/prac01_코드.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/prac02.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/prac02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/rightframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/rightframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/test_iframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/test_iframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/test_iframe_결과.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/test_iframe_결과.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/test_iframe_코드.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/test_iframe_코드.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1161" />
+    <option name="cachedIndexableFilesCount" value="1162" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -45,61 +71,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000006696915043" />
-      <entry key="MS500" value="1.0592876029334488" />
-      <entry key="S2" value="1.791931619002098" />
-      <entry key="S5" value="3.0362892283573695" />
-      <entry key="S10" value="4.271525770511213" />
-      <entry key="S30" value="6.206152773707534" />
-      <entry key="S60" value="7.803636678783145" />
-      <entry key="M2" value="11.72463699586454" />
-      <entry key="M5" value="23.801280236355836" />
-      <entry key="M10" value="37.681795967695955" />
-      <entry key="M15" value="46.91050621699872" />
-      <entry key="M30" value="68.52353510171801" />
-      <entry key="H1" value="119.13618471445747" />
-      <entry key="H2" value="234.39350284189754" />
-      <entry key="H4" value="420.1749189873487" />
-      <entry key="D1" value="846.3401451431761" />
-      <entry key="W1" value="977.5133543415263" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000002985667" />
+      <entry key="S2" value="1.0089260863941831" />
+      <entry key="S5" value="1.2181272922653061" />
+      <entry key="S10" value="1.7155835786598765" />
+      <entry key="S30" value="3.86001237693419" />
+      <entry key="S60" value="7.198573577982899" />
+      <entry key="M2" value="12.992027735103829" />
+      <entry key="M5" value="26.198273781647764" />
+      <entry key="M10" value="38.71126107325969" />
+      <entry key="M15" value="46.30492611207681" />
+      <entry key="M30" value="64.70835656994791" />
+      <entry key="H1" value="105.94130478642792" />
+      <entry key="H2" value="205.72285468609476" />
+      <entry key="H4" value="395.5595615200005" />
+      <entry key="D1" value="923.2792752201342" />
+      <entry key="W1" value="1104.3927643845411" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="4.575087962076596E-121" />
-      <entry key="S5" value="7.314081230902889E-49" />
-      <entry key="S10" value="8.552240192430797E-25" />
-      <entry key="S30" value="9.492048819721644E-9" />
-      <entry key="S60" value="9.742714621562944E-5" />
-      <entry key="M2" value="0.009870519044894714" />
-      <entry key="M5" value="0.1576652546208341" />
-      <entry key="M10" value="0.39708208659320654" />
-      <entry key="M15" value="0.5410248873346692" />
-      <entry key="M30" value="0.8209445927527278" />
-      <entry key="H1" value="2.2157612807754195" />
-      <entry key="H2" value="8.060484600247733" />
-      <entry key="H4" value="19.949796003136292" />
-      <entry key="D1" value="49.23288591149231" />
-      <entry key="W1" value="58.30777575621706" />
+      <entry key="MS500" value="1.8975821482535232E-109" />
+      <entry key="S2" value="6.601131552631252E-28" />
+      <entry key="S5" value="1.4029724814358193E-11" />
+      <entry key="S10" value="4.764600373789526E-6" />
+      <entry key="S30" value="0.03206308856848988" />
+      <entry key="S60" value="0.33027284107556387" />
+      <entry key="M2" value="1.220779977482983" />
+      <entry key="M5" value="3.0284252836169467" />
+      <entry key="M10" value="4.27656455114179" />
+      <entry key="M15" value="4.98384122584989" />
+      <entry key="M30" value="6.580085713378988" />
+      <entry key="H1" value="8.927539502981352" />
+      <entry key="H2" value="13.773152178185311" />
+      <entry key="H4" value="24.64501178001132" />
+      <entry key="D1" value="58.66252461089553" />
+      <entry key="W1" value="70.69378366783147" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9862333604028117" />
-      <entry key="MS500" value="1.0562727961306" />
-      <entry key="S2" value="1.7904200826948071" />
-      <entry key="S5" value="3.0351823692857294" />
-      <entry key="S10" value="4.2707101741743285" />
-      <entry key="S30" value="6.205718050216255" />
-      <entry key="S60" value="7.803140669045082" />
-      <entry key="M2" value="11.731673510778895" />
-      <entry key="M5" value="23.94841460747563" />
-      <entry key="M10" value="38.065929913283966" />
-      <entry key="M15" value="47.438858577463805" />
-      <entry key="M30" value="69.33215216707781" />
-      <entry key="H1" value="121.33721057645889" />
-      <entry key="H2" value="242.4358140403195" />
-      <entry key="H4" value="440.1068181607539" />
-      <entry key="D1" value="895.566822147045" />
-      <entry key="W1" value="1035.8201059341309" />
+      <entry key="MS100" value="0.9460576467255959" />
+      <entry key="MS500" value="0.9889709193092644" />
+      <entry key="S2" value="1.006117848948968" />
+      <entry key="S5" value="1.2166661185016705" />
+      <entry key="S10" value="1.7136749649263356" />
+      <entry key="S30" value="3.8718929372723765" />
+      <entry key="S60" value="7.493838147896585" />
+      <entry key="M2" value="14.16798261425447" />
+      <entry key="M5" value="29.182315241090894" />
+      <entry key="M10" value="42.95449579348354" />
+      <entry key="M15" value="51.26238672780863" />
+      <entry key="M30" value="71.27095324825645" />
+      <entry key="H1" value="114.85538242612012" />
+      <entry key="H2" value="219.48181039189882" />
+      <entry key="H4" value="420.18929073363955" />
+      <entry key="D1" value="981.9353715635641" />
+      <entry key="W1" value="1175.0854417808443" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -117,41 +143,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;24.19.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;24.13.6&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bestc/IdeaProjects/web_xml_programming/practice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "24.19.0",
+    "javascript.nodejs.core.library.typings.version": "24.13.6",
+    "javascript.preferred.runtime.type.id": "node",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/bestc/AppData/Roaming/JetBrains/IntelliJIdea2026.2/node/versions/24.21.0/node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "two.files.diff.last.used.file": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice" />
@@ -159,6 +185,7 @@
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap03\prac_chap03_2" />
       <recent name="C:\Users\MinGyu\IdeaProjects\web_xml_programming\practice\chap02\mini_project" />
       <recent name="C:\Users\bestc\IdeaProjects\xmlprogramming\source" />
       <recent name="C:\Users\bestc\IdeaProjects\xmlprogramming" />
@@ -167,8 +194,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
       </set>
     </attachedChunks>
   </component>
