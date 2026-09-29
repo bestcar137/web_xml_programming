@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html">
-      <change afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/prac01_inputText.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Update project configuration and rename files under `practice/chap03` and `HTML5/chap_03`&#10;&#10;sketch: hw_chap03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/html/ex3-9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/index_03s2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/index_03s2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/홍길동_20230808.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/홍길동_20230808_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/홍길동_20230808_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_결과.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/HTML5_문서_구조화_연습_HTML_텍스트_결과.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/HTML5_문서_구조화_연습_HTML_텍스트_코드_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/HTML5_문서_구조화_연습_HTML_텍스트_코드_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/HTML5_문서_구조화_연습_HTML_텍스트_코드_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/HTML5_문서_구조화_연습_HTML_텍스트_코드_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/leftframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/leftframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/make_frame_in_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/make_frame_in_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/prac01.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/prac01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/prac01_결과.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/prac01_결과.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/prac01_코드.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/prac01_코드.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/prac02.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/prac02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/rightframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/rightframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/test_iframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/test_iframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/test_iframe_결과.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/test_iframe_결과.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap03/prac/test_iframe_코드.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_1/test_iframe_코드.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/prac01_inputText.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/prac_chap03_2/prac01_inputText.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,61 +49,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000002985667" />
-      <entry key="S2" value="1.0089260863941831" />
-      <entry key="S5" value="1.2181272922653061" />
-      <entry key="S10" value="1.7155835786598765" />
-      <entry key="S30" value="3.86001237693419" />
-      <entry key="S60" value="7.198573577982899" />
-      <entry key="M2" value="12.992027735103829" />
-      <entry key="M5" value="26.198273781647764" />
-      <entry key="M10" value="38.71126107325969" />
-      <entry key="M15" value="46.30492611207681" />
-      <entry key="M30" value="64.70835656994791" />
-      <entry key="H1" value="105.94130478642792" />
-      <entry key="H2" value="205.72285468609476" />
-      <entry key="H4" value="395.5595615200005" />
-      <entry key="D1" value="923.2792752201342" />
-      <entry key="W1" value="1104.3927643845411" />
+      <entry key="MS100" value="1.0000000000001688" />
+      <entry key="MS500" value="1.0027890702728224" />
+      <entry key="S2" value="1.2298078524032254" />
+      <entry key="S5" value="1.5553383646120662" />
+      <entry key="S10" value="1.7490734774018255" />
+      <entry key="S30" value="2.073866489922019" />
+      <entry key="S60" value="2.6212659723712113" />
+      <entry key="M2" value="4.789536146733303" />
+      <entry key="M5" value="15.412323339803484" />
+      <entry key="M10" value="31.54700735496552" />
+      <entry key="M15" value="42.894482489077724" />
+      <entry key="M30" value="66.91290365865295" />
+      <entry key="H1" value="110.95993767969819" />
+      <entry key="H2" value="211.26737583666136" />
+      <entry key="H4" value="401.66279554137105" />
+      <entry key="D1" value="936.6555495744127" />
+      <entry key="W1" value="1121.6022763553142" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.8975821482535232E-109" />
-      <entry key="S2" value="6.601131552631252E-28" />
-      <entry key="S5" value="1.4029724814358193E-11" />
-      <entry key="S10" value="4.764600373789526E-6" />
-      <entry key="S30" value="0.03206308856848988" />
-      <entry key="S60" value="0.33027284107556387" />
-      <entry key="M2" value="1.220779977482983" />
-      <entry key="M5" value="3.0284252836169467" />
-      <entry key="M10" value="4.27656455114179" />
-      <entry key="M15" value="4.98384122584989" />
-      <entry key="M30" value="6.580085713378988" />
-      <entry key="H1" value="8.927539502981352" />
-      <entry key="H2" value="13.773152178185311" />
-      <entry key="H4" value="24.64501178001132" />
-      <entry key="D1" value="58.66252461089553" />
-      <entry key="W1" value="70.69378366783147" />
+      <entry key="MS500" value="3.4618147863773303E-90" />
+      <entry key="S2" value="4.3134618086004736E-23" />
+      <entry key="S5" value="1.1322242627927437E-9" />
+      <entry key="S10" value="3.372199969046293E-5" />
+      <entry key="S30" value="0.03647371298623599" />
+      <entry key="S60" value="0.24466228492865927" />
+      <entry key="M2" value="0.712376219709213" />
+      <entry key="M5" value="2.0114750188736767" />
+      <entry key="M10" value="3.6933253211083037" />
+      <entry key="M15" value="4.817763478510821" />
+      <entry key="M30" value="7.040631250953861" />
+      <entry key="H1" value="9.850853465343633" />
+      <entry key="H2" value="14.938928483932884" />
+      <entry key="H4" value="25.90243200251847" />
+      <entry key="D1" value="60.3685856913482" />
+      <entry key="W1" value="72.64316381027666" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9460576467255959" />
-      <entry key="MS500" value="0.9889709193092644" />
-      <entry key="S2" value="1.006117848948968" />
-      <entry key="S5" value="1.2166661185016705" />
-      <entry key="S10" value="1.7136749649263356" />
-      <entry key="S30" value="3.8718929372723765" />
-      <entry key="S60" value="7.493838147896585" />
-      <entry key="M2" value="14.16798261425447" />
-      <entry key="M5" value="29.182315241090894" />
-      <entry key="M10" value="42.95449579348354" />
-      <entry key="M15" value="51.26238672780863" />
-      <entry key="M30" value="71.27095324825645" />
-      <entry key="H1" value="114.85538242612012" />
-      <entry key="H2" value="219.48181039189882" />
-      <entry key="H4" value="420.18929073363955" />
-      <entry key="D1" value="981.9353715635641" />
-      <entry key="W1" value="1175.0854417808443" />
+      <entry key="MS100" value="6.632903213660583E-5" />
+      <entry key="MS500" value="0.14635040632856938" />
+      <entry key="S2" value="0.7553516691811041" />
+      <entry key="S5" value="1.2767908033873678" />
+      <entry key="S10" value="1.584323696445745" />
+      <entry key="S30" value="2.0451793501707125" />
+      <entry key="S60" value="2.8237668742403352" />
+      <entry key="M2" value="5.469241524778584" />
+      <entry key="M5" value="17.393995818778677" />
+      <entry key="M10" value="35.21256106078462" />
+      <entry key="M15" value="47.687717532975064" />
+      <entry key="M30" value="73.93540013832491" />
+      <entry key="H1" value="120.79658908913675" />
+      <entry key="H2" value="226.19178337699532" />
+      <entry key="H4" value="427.54981582070786" />
+      <entry key="D1" value="997.0176418087732" />
+      <entry key="W1" value="1194.2443207962874" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -271,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790237067320</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update project configuration and rename files under `practice/chap03` and `HTML5/chap_03`&#10;&#10;sketch: hw_chap03">
+      <option name="closed" value="true" />
+      <created>1790657875469</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1790657875469</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +296,8 @@
     <MESSAGE value="mini_project.html 완성" />
     <MESSAGE value="update: add mini_project.html" />
     <MESSAGE value="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html" />
+    <MESSAGE value="Update project configuration and rename files under `practice/chap03` and `HTML5/chap_03`&#10;&#10;sketch: hw_chap03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update project configuration and rename files under `practice/chap03` and `HTML5/chap_03`&#10;&#10;sketch: hw_chap03" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
