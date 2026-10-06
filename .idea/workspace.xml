@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Add detailed HTML5 structure and update project configuration to refine `prac_chap03_2` implementation">
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_03/project/고양이 소개 웹페이지 스토리보드.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_03/project/수정된 고양이 소개 웹 폼 스토리보드.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_03/project/예시1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_03/project/예시2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_03/project/예시3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_03/project/참고1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_03/project/참고2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_03/project/참고3.html" afterDir="false" />
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Remove outdated HTML files and update media paths in `practice/chap03` project configuration">
+      <change afterPath="$PROJECT_DIR$/practice/chap04/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/external.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/prac01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/prac02.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +25,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -59,59 +52,59 @@
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0000000024039155" />
-      <entry key="S60" value="1.0000572529253473" />
-      <entry key="M2" value="1.0136274058585182" />
-      <entry key="M5" value="1.8660990174065892" />
-      <entry key="M10" value="6.518111364741125" />
-      <entry key="M15" value="12.198464570817846" />
-      <entry key="M30" value="25.529422112764824" />
-      <entry key="H1" value="47.744998354666905" />
-      <entry key="H2" value="111.4412401089312" />
-      <entry key="H4" value="276.1087542649153" />
-      <entry key="D1" value="1015.4177686019849" />
-      <entry key="W1" value="1353.861875367535" />
+      <entry key="S2" value="1.0000000000012716" />
+      <entry key="S5" value="1.0000187170607124" />
+      <entry key="S10" value="1.006101623227734" />
+      <entry key="S30" value="1.5338867979536488" />
+      <entry key="S60" value="3.8445363954342366" />
+      <entry key="M2" value="10.423760333740525" />
+      <entry key="M5" value="26.209398953864426" />
+      <entry key="M10" value="39.76248518586966" />
+      <entry key="M15" value="48.509116723981585" />
+      <entry key="M30" value="66.31654006423739" />
+      <entry key="H1" value="91.86304274911437" />
+      <entry key="H2" value="155.25269996912388" />
+      <entry key="H4" value="317.62587780267773" />
+      <entry key="D1" value="1063.5543986916289" />
+      <entry key="W1" value="1409.9839716081015" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="5.3556955976258395E-258" />
-      <entry key="S5" value="1.7191421757184627E-103" />
-      <entry key="S10" value="5.7679002094134975E-52" />
-      <entry key="S30" value="1.3591798647782474E-17" />
-      <entry key="S60" value="5.898445071781648E-9" />
-      <entry key="M2" value="1.3901310685777516E-4" />
-      <entry key="M5" value="0.0742851792736943" />
-      <entry key="M10" value="0.7782356191592678" />
-      <entry key="M15" value="1.8391465018952946" />
-      <entry key="M30" value="4.643310990983765" />
-      <entry key="H1" value="8.798995608854007" />
-      <entry key="H2" value="17.04003353293651" />
-      <entry key="H4" value="32.21897515910708" />
-      <entry key="D1" value="87.2122685234901" />
-      <entry key="W1" value="111.14461109698391" />
+      <entry key="MS100" value="1.8158993129164627E-213" />
+      <entry key="MS500" value="2.830207991094629E-43" />
+      <entry key="S2" value="2.309531222541429E-11" />
+      <entry key="S5" value="6.140202386178214E-5" />
+      <entry key="S10" value="0.01084650505968751" />
+      <entry key="S30" value="0.44453280904073234" />
+      <entry key="S60" value="1.294548726314102" />
+      <entry key="M2" value="2.6263038154478107" />
+      <entry key="M5" value="4.924631512981893" />
+      <entry key="M10" value="6.692287679542894" />
+      <entry key="M15" value="7.933731125447375" />
+      <entry key="M30" value="10.957699641121069" />
+      <entry key="H1" value="15.483848604937206" />
+      <entry key="H2" value="23.92977197891915" />
+      <entry key="H4" value="39.28753417178268" />
+      <entry key="D1" value="95.35832760692738" />
+      <entry key="W1" value="119.98937747354043" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8066417592221263" />
-      <entry key="MS500" value="0.9579352182226964" />
-      <entry key="S2" value="0.9893137269832234" />
-      <entry key="S5" value="0.9957117085734725" />
-      <entry key="S10" value="0.997853550664361" />
-      <entry key="S30" value="0.9992840066799513" />
-      <entry key="S60" value="0.9996983149486806" />
-      <entry key="M2" value="1.0135188575769607" />
-      <entry key="M5" value="1.939099090943996" />
-      <entry key="M10" value="7.2914796851130435" />
-      <entry key="M15" value="14.029927594127358" />
-      <entry key="M30" value="30.162602646855813" />
-      <entry key="H1" value="56.53379059245767" />
-      <entry key="H2" value="128.47029518837192" />
-      <entry key="H4" value="308.3152474357345" />
-      <entry key="D1" value="1102.6226731533827" />
-      <entry key="W1" value="1465.0050881584846" />
+      <entry key="MS100" value="8.053637150713471E-5" />
+      <entry key="MS500" value="0.15177436054938084" />
+      <entry key="S2" value="0.6241652744568185" />
+      <entry key="S5" value="0.8282204021413463" />
+      <entry key="S10" value="0.9238154361171074" />
+      <entry key="S30" value="1.8942604389118955" />
+      <entry key="S60" value="5.022225197103927" />
+      <entry key="M2" value="12.89785102181388" />
+      <entry key="M5" value="30.987675844554296" />
+      <entry key="M10" value="46.34879723607861" />
+      <entry key="M15" value="56.36043604750396" />
+      <entry key="M30" value="77.22258163158364" />
+      <entry key="H1" value="107.3145751906037" />
+      <entry key="H2" value="179.16016196349113" />
+      <entry key="H4" value="356.8952571919672" />
+      <entry key="D1" value="1158.9043555237974" />
+      <entry key="W1" value="1529.9717984456727" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -148,6 +141,7 @@
     "javascript.preferred.runtime.type.id": "node",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/HTML5/chap_03/project",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -173,6 +167,7 @@
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap03\project" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap03\prac_chap03_2" />
       <recent name="C:\Users\MinGyu\IdeaProjects\web_xml_programming\practice\chap02\mini_project" />
       <recent name="C:\Users\bestc\IdeaProjects\xmlprogramming\source" />
@@ -299,7 +294,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790667129734</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add comprehensive HTML5 structures and project updates for &quot;우리 집 고양이&quot; mini-project.">
+      <option name="closed" value="true" />
+      <created>1791262947744</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1791262947744</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Remove outdated HTML files and update media paths in `practice/chap03` project configuration">
+      <option name="closed" value="true" />
+      <created>1791263133363</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1791263133363</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +354,9 @@
     <MESSAGE value="Add new HTML test files, update `prac_chap03_2` structure, and refine project configuration" />
     <MESSAGE value="Add new HTML form test, refine `prac_chap03_2` structure, and update project configuration" />
     <MESSAGE value="Add detailed HTML5 structure and update project configuration to refine `prac_chap03_2` implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add detailed HTML5 structure and update project configuration to refine `prac_chap03_2` implementation" />
+    <MESSAGE value="Add comprehensive HTML5 structures and project updates for &quot;우리 집 고양이&quot; mini-project." />
+    <MESSAGE value="Remove outdated HTML files and update media paths in `practice/chap03` project configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove outdated HTML files and update media paths in `practice/chap03` project configuration" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
