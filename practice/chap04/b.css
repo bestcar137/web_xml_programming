@@ -1,0 +1,35 @@
+h3, li { /* 태그 이름 선택자 (brown) */
+  color: brown;
+}
+
+div > div > strong { /* 자식 선택자 (배경색 노랑) */
+  background-color: yellow;
+}
+
+ul strong { /* 자손 선택자 (blue) */
+  color: blue;
+}
+
+.warning { /* class 선택자 (red) */
+  color: red;
+}
+
+body.main { /* class 선택자 (배경색 aliceblue) */
+  background-color: aliceblue;
+}
+
+#list { /* id 선택자 (배경색 mistyrose) */
+  background-color: mistyrose;
+}
+
+#list span { /* 자손 선택자 (green) */
+  color: green;
+}
+
+h3:first-letter { /* 가상 클래스 선택자 (red) */
+  color: red;
+}
+
+li:hover { /* 가상 클래스 선택자 (배경색 yellowgreen) */
+  background-color: yellowgreen;
+}

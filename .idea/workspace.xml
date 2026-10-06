@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Add new assets and images for `practice/chap04`, update project configuration.">
-      <change afterPath="$PROJECT_DIR$/practice/chap04/prac02_2.html" afterDir="false" />
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Update `workspace.xml`, add new assets and images for `practice/chap04`, and rename files to refine project structure.">
+      <change afterPath="$PROJECT_DIR$/practice/chap04/b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/prac03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/실습3_css_차민규_24117000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/실습3_결과_차민규_24117000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/실습3_코드_차민규_24117000.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/chap04/prac02.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap04/prac02_1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -48,61 +51,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000188063" />
-      <entry key="MS500" value="1.007159358109684" />
-      <entry key="S2" value="1.3127341808172168" />
-      <entry key="S5" value="1.8268937281193263" />
-      <entry key="S10" value="2.246653014461508" />
-      <entry key="S30" value="2.7315709592686046" />
-      <entry key="S60" value="3.2111799877521094" />
-      <entry key="M2" value="4.255242617684466" />
-      <entry key="M5" value="7.24800142747887" />
-      <entry key="M10" value="15.747616997102377" />
-      <entry key="M15" value="26.1260095530703" />
-      <entry key="M30" value="53.12309379362193" />
-      <entry key="H1" value="89.92792391500181" />
-      <entry key="H2" value="158.56605189698234" />
-      <entry key="H4" value="320.6941464052563" />
-      <entry key="D1" value="1080.344609193081" />
-      <entry key="W1" value="1440.7170453817348" />
+      <entry key="MS100" value="1.0000007387875656" />
+      <entry key="MS500" value="1.074899510728843" />
+      <entry key="S2" value="2.018808513422157" />
+      <entry key="S5" value="3.170947618076505" />
+      <entry key="S10" value="4.118292684931825" />
+      <entry key="S30" value="6.1582541391344305" />
+      <entry key="S60" value="7.960417761540035" />
+      <entry key="M2" value="10.786899839002208" />
+      <entry key="M5" value="21.68229616544003" />
+      <entry key="M10" value="39.00410501834726" />
+      <entry key="M15" value="53.116019936341225" />
+      <entry key="M30" value="87.13745925532564" />
+      <entry key="H1" value="134.99313906130345" />
+      <entry key="H2" value="211.7007382057275" />
+      <entry key="H4" value="375.6756480748511" />
+      <entry key="D1" value="1153.6393317491384" />
+      <entry key="W1" value="1531.5846457241537" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="8.729848463847E-312" />
-      <entry key="S5" value="4.1607903449277276E-125" />
-      <entry key="S10" value="8.928662284592858E-63" />
-      <entry key="S30" value="4.1661606347291695E-21" />
-      <entry key="S60" value="1.253240719707392E-10" />
-      <entry key="M2" value="2.584062492786854E-5" />
-      <entry key="M5" value="0.04892794313089439" />
-      <entry key="M10" value="0.6670620152134926" />
-      <entry key="M15" value="1.7055791743043434" />
-      <entry key="M30" value="5.080618615024375" />
-      <entry key="H1" value="10.543323154064542" />
-      <entry key="H2" value="19.746396859674768" />
-      <entry key="H4" value="35.6885926431323" />
-      <entry key="D1" value="93.8435440727963" />
-      <entry key="W1" value="119.71521213571373" />
+      <entry key="MS500" value="2.9606896791527173E-140" />
+      <entry key="S2" value="1.311741390544306E-35" />
+      <entry key="S5" value="1.1146519727111616E-14" />
+      <entry key="S10" value="1.0557712098286841E-7" />
+      <entry key="S30" value="0.00476360509130363" />
+      <entry key="S60" value="0.07868463550862012" />
+      <entry key="M2" value="0.5176747143662142" />
+      <entry key="M5" value="2.916468001949375" />
+      <entry key="M10" value="5.991174393836758" />
+      <entry key="M15" value="7.925372316444115" />
+      <entry key="M30" value="11.931589119861828" />
+      <entry key="H1" value="17.952402236782934" />
+      <entry key="H2" value="27.763702442378428" />
+      <entry key="H4" value="44.30223304639503" />
+      <entry key="D1" value="104.9518508390153" />
+      <entry key="W1" value="132.37054080705767" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.590977817835945E-7" />
-      <entry key="MS500" value="0.048161202287798" />
-      <entry key="S2" value="0.5083191835847073" />
-      <entry key="S5" value="1.1508272052963457" />
-      <entry key="S10" value="1.76560480124882" />
-      <entry key="S30" value="2.52176226638453" />
-      <entry key="S60" value="3.098371172611255" />
-      <entry key="M2" value="4.195527461563697" />
-      <entry key="M5" value="7.268276731242386" />
-      <entry key="M10" value="16.3890019406975" />
-      <entry key="M15" value="27.8032965033017" />
-      <entry key="M30" value="58.17416332375688" />
-      <entry key="H1" value="100.44635217618602" />
-      <entry key="H2" value="178.29256909322527" />
-      <entry key="H4" value="356.36550590437827" />
-      <entry key="D1" value="1174.1797909640059" />
-      <entry key="W1" value="1560.4306926160677" />
+      <entry key="MS100" value="0.9592648182778083" />
+      <entry key="MS500" value="1.0658541363936287" />
+      <entry key="S2" value="2.0144345529281815" />
+      <entry key="S5" value="3.1682511473508304" />
+      <entry key="S10" value="4.116562931474435" />
+      <entry key="S30" value="6.161933007913883" />
+      <entry key="S60" value="8.036196208973672" />
+      <entry key="M2" value="11.29256362779413" />
+      <entry key="M5" value="24.561075516048515" />
+      <entry key="M10" value="44.950587820250036" />
+      <entry key="M15" value="60.99842408663823" />
+      <entry key="M30" value="99.03128605245331" />
+      <entry key="H1" value="152.91465131179186" />
+      <entry key="H2" value="239.44042689665832" />
+      <entry key="H4" value="419.9582408887227" />
+      <entry key="D1" value="1258.5822385504405" />
+      <entry key="W1" value="1663.9535191336008" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -324,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791264620332</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update `workspace.xml`, add new assets and images for `practice/chap04`, and rename files to refine project structure.">
+      <option name="closed" value="true" />
+      <created>1791266222345</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1791266222345</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,9 +384,11 @@
     <MESSAGE value="Add new HTML and CSS files for `practice/chap04`, update project configuration." />
     <MESSAGE value="Add new media assets and update project configuration for `practice/chap04`." />
     <MESSAGE value="Update `workspace.xml` and add new assets for `practice/chap04`" />
-    <MESSAGE value="Add new HTML, CSS, and image files for `practice/chap04`, update project configuration." />
     <MESSAGE value="Add new assets and images for `practice/chap04`, update project configuration." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new assets and images for `practice/chap04`, update project configuration." />
+    <MESSAGE value="Add new HTML, renamed and additional assets for `practice/chap04`, update project configuration." />
+    <MESSAGE value="Add new HTML, CSS, and image files for `practice/chap04`, update project configuration." />
+    <MESSAGE value="Update `workspace.xml`, add new assets and images for `practice/chap04`, and rename files to refine project structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update `workspace.xml`, add new assets and images for `practice/chap04`, and rename files to refine project structure." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
