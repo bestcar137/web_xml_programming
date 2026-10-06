@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Update `workspace.xml`, add new assets and images for `practice/chap04`, and rename files to refine project structure.">
-      <change afterPath="$PROJECT_DIR$/practice/chap04/b.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/prac03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/실습3_css_차민규_24117000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/실습3_결과_차민규_24117000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/실습3_코드_차민규_24117000.png" afterDir="false" />
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Add new HTML, CSS files and images for `practice/chap04`, update `workspace.xml`, and refine project structure.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1189" />
+    <option name="cachedIndexableFilesCount" value="1197" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -51,61 +47,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000007387875656" />
-      <entry key="MS500" value="1.074899510728843" />
-      <entry key="S2" value="2.018808513422157" />
-      <entry key="S5" value="3.170947618076505" />
-      <entry key="S10" value="4.118292684931825" />
-      <entry key="S30" value="6.1582541391344305" />
-      <entry key="S60" value="7.960417761540035" />
-      <entry key="M2" value="10.786899839002208" />
-      <entry key="M5" value="21.68229616544003" />
-      <entry key="M10" value="39.00410501834726" />
-      <entry key="M15" value="53.116019936341225" />
-      <entry key="M30" value="87.13745925532564" />
-      <entry key="H1" value="134.99313906130345" />
-      <entry key="H2" value="211.7007382057275" />
-      <entry key="H4" value="375.6756480748511" />
-      <entry key="D1" value="1153.6393317491384" />
-      <entry key="W1" value="1531.5846457241537" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000723443263" />
+      <entry key="S5" value="1.0025995290866052" />
+      <entry key="S10" value="1.088366005090638" />
+      <entry key="S30" value="2.1268605620988126" />
+      <entry key="S60" value="4.105018449423978" />
+      <entry key="M2" value="7.987461677787493" />
+      <entry key="M5" value="19.460973047075193" />
+      <entry key="M10" value="37.24945285759139" />
+      <entry key="M15" value="51.955621400988925" />
+      <entry key="M30" value="87.16817643503514" />
+      <entry key="H1" value="136.33510903728967" />
+      <entry key="H2" value="214.04024932557024" />
+      <entry key="H4" value="378.429702480616" />
+      <entry key="D1" value="1157.9791655699228" />
+      <entry key="W1" value="1537.2697471440038" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.9606896791527173E-140" />
-      <entry key="S2" value="1.311741390544306E-35" />
-      <entry key="S5" value="1.1146519727111616E-14" />
-      <entry key="S10" value="1.0557712098286841E-7" />
-      <entry key="S30" value="0.00476360509130363" />
-      <entry key="S60" value="0.07868463550862012" />
-      <entry key="M2" value="0.5176747143662142" />
-      <entry key="M5" value="2.916468001949375" />
-      <entry key="M10" value="5.991174393836758" />
-      <entry key="M15" value="7.925372316444115" />
-      <entry key="M30" value="11.931589119861828" />
-      <entry key="H1" value="17.952402236782934" />
-      <entry key="H2" value="27.763702442378428" />
-      <entry key="H4" value="44.30223304639503" />
-      <entry key="D1" value="104.9518508390153" />
-      <entry key="W1" value="132.37054080705767" />
+      <entry key="MS500" value="1.0520347485756602E-67" />
+      <entry key="S2" value="1.8009743237556744E-17" />
+      <entry key="S5" value="2.0054092253907943E-7" />
+      <entry key="S10" value="4.478179573465402E-4" />
+      <entry key="S30" value="0.0765828120942799" />
+      <entry key="S60" value="0.28653290224879385" />
+      <entry key="M2" value="0.7098668758919042" />
+      <entry key="M5" value="2.70133104077576" />
+      <entry key="M10" value="5.750596902804655" />
+      <entry key="M15" value="7.821913263492098" />
+      <entry key="M30" value="12.094331615459344" />
+      <entry key="H1" value="18.32256714610715" />
+      <entry key="H2" value="28.278353019254986" />
+      <entry key="H4" value="44.91652542878701" />
+      <entry key="D1" value="105.80023728851883" />
+      <entry key="W1" value="133.34323980656123" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9592648182778083" />
-      <entry key="MS500" value="1.0658541363936287" />
-      <entry key="S2" value="2.0144345529281815" />
-      <entry key="S5" value="3.1682511473508304" />
-      <entry key="S10" value="4.116562931474435" />
-      <entry key="S30" value="6.161933007913883" />
-      <entry key="S60" value="8.036196208973672" />
-      <entry key="M2" value="11.29256362779413" />
-      <entry key="M5" value="24.561075516048515" />
-      <entry key="M10" value="44.950587820250036" />
-      <entry key="M15" value="60.99842408663823" />
-      <entry key="M30" value="99.03128605245331" />
-      <entry key="H1" value="152.91465131179186" />
-      <entry key="H2" value="239.44042689665832" />
-      <entry key="H4" value="419.9582408887227" />
-      <entry key="D1" value="1258.5822385504405" />
-      <entry key="W1" value="1663.9535191336008" />
+      <entry key="MS100" value="0.42044820762685725" />
+      <entry key="MS500" value="0.8408964152537145" />
+      <entry key="S2" value="0.9576033416122975" />
+      <entry key="S5" value="0.9852697672605918" />
+      <entry key="S10" value="1.0776418209061966" />
+      <entry key="S30" value="2.1857965881563266" />
+      <entry key="S60" value="4.370047231799391" />
+      <entry key="M2" value="8.675256987689446" />
+      <entry key="M5" value="22.127406883391572" />
+      <entry key="M10" value="42.95810501416874" />
+      <entry key="M15" value="59.73621574786938" />
+      <entry key="M30" value="99.22524057374835" />
+      <entry key="H1" value="154.62680210457904" />
+      <entry key="H2" value="242.29447835239446" />
+      <entry key="H4" value="423.3264945953371" />
+      <entry key="D1" value="1263.7704278664246" />
+      <entry key="W1" value="1670.6113136338217" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -123,42 +119,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "git.auto.fetch.suggestion.counter": "1",
-    "ignore.virus.scanning.warn.message": "true",
-    "javascript.nodejs.core.library.configured.version": "24.21.0",
-    "javascript.nodejs.core.library.typings.version": "24.19.0",
-    "javascript.preferred.runtime.type.id": "node",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/HTML5/chap_03/project",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "C:/Users/bestc/AppData/Roaming/JetBrains/IntelliJIdea2026.2/node/versions/24.21.0/node",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
-    "two.files.diff.last.used.file": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;24.21.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;24.19.0&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bestc/IdeaProjects/web_xml_programming/HTML5/chap_03/project&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/bestc/AppData/Roaming/JetBrains/IntelliJIdea2026.2/node/versions/24.21.0/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;cn.yiiguxing.plugin.translate&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\HTML5\chap_03\project" />
@@ -335,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791266222345</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add new HTML, CSS files and images for `practice/chap04`, update `workspace.xml`, and refine project structure.">
+      <option name="closed" value="true" />
+      <created>1791268566115</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1791268566116</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,9 +369,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Revert &quot;20260908&quot;&#10;&#10;This reverts commit 965f4f55f63e25189d3c87cb6360768208e011d3." />
-    <MESSAGE value="20260908:&#10; " />
-    <MESSAGE value="Add new project configuration files" />
     <MESSAGE value="crashed file reload" />
     <MESSAGE value="delete error folder: source/HTML5" />
     <MESSAGE value="Add practice/chap03&#10;20260922" />
@@ -388,7 +389,12 @@
     <MESSAGE value="Add new HTML, renamed and additional assets for `practice/chap04`, update project configuration." />
     <MESSAGE value="Add new HTML, CSS, and image files for `practice/chap04`, update project configuration." />
     <MESSAGE value="Update `workspace.xml`, add new assets and images for `practice/chap04`, and rename files to refine project structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update `workspace.xml`, add new assets and images for `practice/chap04`, and rename files to refine project structure." />
+    <MESSAGE value="Update `workspace.xml`, add new HTML, CSS, and images for `practice/chap04`, and refine project structure." />
+    <MESSAGE value="Update `workspace.xml`, add new HTML, CSS, and image assets for `practice/chap04`, and refine project structure." />
+    <MESSAGE value="Add new HTML (`prac03.html`) and CSS (`b.css`) files, media assets for `practice/chap04`, and update `workspace.xml` to refine project structure." />
+    <MESSAGE value="Add new HTML, CSS, and image files for `practice/chap04`, update `workspace.xml`, and refine project structure." />
+    <MESSAGE value="Add new HTML, CSS files and images for `practice/chap04`, update `workspace.xml`, and refine project structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new HTML, CSS files and images for `practice/chap04`, update `workspace.xml`, and refine project structure." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
