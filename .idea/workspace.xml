@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Add new HTML, CSS files and images for `practice/chap04`, update `workspace.xml`, and refine project structure.">
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Update `workspace.xml`, refine project structure, and modify `차민규_24117000.html` to include new references.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791268566116</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Update `workspace.xml`, refine project structure, and modify `차민규_24117000.html` to include new references.">
+      <option name="closed" value="true" />
+      <created>1791269004325</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1791269004325</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,11 +376,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="crashed file reload" />
-    <MESSAGE value="delete error folder: source/HTML5" />
-    <MESSAGE value="Add practice/chap03&#10;20260922" />
-    <MESSAGE value="mini_project.html 완성" />
-    <MESSAGE value="update: add mini_project.html" />
     <MESSAGE value="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html" />
     <MESSAGE value="Update project configuration and rename files under `practice/chap03` and `HTML5/chap_03`&#10;&#10;sketch: hw_chap03" />
     <MESSAGE value="Update project configuration and refactor `prac_chap03_2/prac01_inputText.html` structure" />
@@ -394,7 +396,12 @@
     <MESSAGE value="Add new HTML (`prac03.html`) and CSS (`b.css`) files, media assets for `practice/chap04`, and update `workspace.xml` to refine project structure." />
     <MESSAGE value="Add new HTML, CSS, and image files for `practice/chap04`, update `workspace.xml`, and refine project structure." />
     <MESSAGE value="Add new HTML, CSS files and images for `practice/chap04`, update `workspace.xml`, and refine project structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new HTML, CSS files and images for `practice/chap04`, update `workspace.xml`, and refine project structure." />
+    <MESSAGE value="Add new HTML, CSS, and images for `practice/chap04`, update `workspace.xml`, and refine project configuration." />
+    <MESSAGE value="Update `workspace.xml`, refine project configuration, and add new HTML changes for `chap_03/project`." />
+    <MESSAGE value="Add new media references and content updates for `chap_03/project`, modify `workspace.xml`, and refine project configuration." />
+    <MESSAGE value="Update `workspace.xml` to refine configuration, adjust task settings, and update project metadata" />
+    <MESSAGE value="Update `workspace.xml`, refine project structure, and modify `차민규_24117000.html` to include new references." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update `workspace.xml`, refine project structure, and modify `차민규_24117000.html` to include new references." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
