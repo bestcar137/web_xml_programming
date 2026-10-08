@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Update `workspace.xml`, refine project structure, and modify `차민규_24117000.html` to include new references.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Remove outdated HTML files from `practice/chap03/project` to clean up project structure." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1197" />
+    <option name="cachedIndexableFilesCount" value="1191" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -346,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791269004325</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Remove outdated HTML files from `practice/chap03/project` to clean up project structure.">
+      <option name="closed" value="true" />
+      <created>1791435896818</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1791435896818</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +382,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update: add mini_project.html and update project structure&#10;update: HTML5/chap_02/project/24117000_차민규.html" />
     <MESSAGE value="Update project configuration and rename files under `practice/chap03` and `HTML5/chap_03`&#10;&#10;sketch: hw_chap03" />
     <MESSAGE value="Update project configuration and refactor `prac_chap03_2/prac01_inputText.html` structure" />
     <MESSAGE value="Add new HTML test files, update `prac_chap03_2` structure, and refine project configuration" />
@@ -401,7 +406,8 @@
     <MESSAGE value="Add new media references and content updates for `chap_03/project`, modify `workspace.xml`, and refine project configuration." />
     <MESSAGE value="Update `workspace.xml` to refine configuration, adjust task settings, and update project metadata" />
     <MESSAGE value="Update `workspace.xml`, refine project structure, and modify `차민규_24117000.html` to include new references." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update `workspace.xml`, refine project structure, and modify `차민규_24117000.html` to include new references." />
+    <MESSAGE value="Remove outdated HTML files from `practice/chap03/project` to clean up project structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove outdated HTML files from `practice/chap03/project` to clean up project structure." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
