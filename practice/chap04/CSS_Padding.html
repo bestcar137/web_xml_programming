@@ -1,0 +1,43 @@
+<!--
+https://www.w3schools.com/css/css_challenges_padding.asp
+
+Instructions
+Inside the editor, complete the following steps:
+  1. Set the .box1 padding using individual sides: padding-top 20px, padding-right 30px, padding-bottom 20px, padding-left 30px
+  2. Add a .box2 rule: set the same padding using the 4-value shorthand: 20px 30px 20px 30px
+-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>CSS_Padding</title>
+  <style>
+    .box1 {
+      background-color: #04AA6D;
+      color: white;
+      /* padding-top, padding-right, padding-bottom, padding-left */
+      padding-top: 20px;
+      padding-right: 30px;
+      padding-bottom: 20px;
+      padding-left: 30px;
+      /*  padding: 20px 30px; 으로 축약 가능*/
+    }
+
+    /* add .box2 rule with padding shorthand */
+    .box2 {
+      background-color: #2196F3;
+      color: white;
+      padding: 20px 30px 20px 30px;
+      /*  padding: 20px 30px; 으로 축약 가능*/
+    }
+  </style>
+</head>
+<body>
+
+<div class="box1">Individual padding sides</div>
+<br>
+<div class="box2" style="background-color:#2196F3;color:white;">Padding shorthand (same result)</div>
+
+</body>
+</html>
