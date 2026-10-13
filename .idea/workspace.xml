@@ -18,20 +18,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="feat: Add `lang=&quot;ko&quot;` attribute to HTML files in `practice/chap04` for localization">
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Borders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Box_Model.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Box_Model.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Height_Width.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Height_Width.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Margins.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Margins.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Padding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Padding.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-18.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-18.html" afterDir="false" />
-    </list>
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="feat: 새로운 CSS 챌린지 파일 및 이미지 추가, `practice/chap04` 디렉토리 구조 업데이트" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,61 +58,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="4.197154049680574E-36" />
-      <entry key="MS500" value="8.45931286937994E-8" />
-      <entry key="S2" value="0.023966408133803584" />
-      <entry key="S5" value="0.4738438728002712" />
-      <entry key="S10" value="1.479110618927943" />
-      <entry key="S30" value="3.5292038431662616" />
-      <entry key="S60" value="5.096661643021289" />
-      <entry key="M2" value="8.010365313728936" />
-      <entry key="M5" value="16.717216463930374" />
-      <entry key="M10" value="27.17652886598945" />
-      <entry key="M15" value="35.950727779353684" />
-      <entry key="M30" value="64.87226328736052" />
-      <entry key="H1" value="125.19084646366412" />
-      <entry key="H2" value="225.8329095779392" />
-      <entry key="H4" value="405.158561807982" />
-      <entry key="D1" value="1246.2618083367765" />
-      <entry key="W1" value="1677.9040141358078" />
-    </decayedCancelled>
-    <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000089733" />
-      <entry key="S5" value="1.0000381224404722" />
-      <entry key="S10" value="1.0061746832303653" />
-      <entry key="S30" value="1.1924448494715667" />
-      <entry key="S60" value="1.5614449073987093" />
-      <entry key="M2" value="2.3016773720867647" />
-      <entry key="M5" value="4.453595288577098" />
-      <entry key="M10" value="7.043787665576469" />
-      <entry key="M15" value="9.037516587527698" />
-      <entry key="M30" value="14.468598071847877" />
-      <entry key="H1" value="24.085317798059055" />
-      <entry key="H2" value="38.62264873714239" />
-      <entry key="H4" value="59.52973259689183" />
-      <entry key="D1" value="130.52409682559306" />
-      <entry key="W1" value="163.21527807712548" />
+      <entry key="S2" value="1.0000000000005933" />
+      <entry key="S5" value="1.0000181034027218" />
+      <entry key="S10" value="1.0066368831670527" />
+      <entry key="S30" value="1.5650389472120865" />
+      <entry key="S60" value="3.1892075178784163" />
+      <entry key="M2" value="6.47740888535249" />
+      <entry key="M5" value="15.617344911856474" />
+      <entry key="M10" value="26.753229059980104" />
+      <entry key="M15" value="35.90970488949651" />
+      <entry key="M30" value="65.12246388578605" />
+      <entry key="H1" value="125.53959060129424" />
+      <entry key="H2" value="226.4419844605092" />
+      <entry key="H4" value="406.0145959379452" />
+      <entry key="D1" value="1248.1630598153986" />
+      <entry key="W1" value="1680.6926727528005" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="4.6892093840718454E-176" />
+      <entry key="MS500" value="8.594486328687993E-36" />
+      <entry key="S2" value="1.7134046619754014E-9" />
+      <entry key="S5" value="3.33587250743518E-4" />
+      <entry key="S10" value="0.024504874117021215" />
+      <entry key="S30" value="0.6459979210382111" />
+      <entry key="S60" value="1.711789783822642" />
+      <entry key="M2" value="3.169399627691321" />
+      <entry key="M5" value="5.978543780206636" />
+      <entry key="M10" value="8.955454580382776" />
+      <entry key="M15" value="11.136089220854224" />
+      <entry key="M30" value="16.78402054493147" />
+      <entry key="H1" value="26.53835761273571" />
+      <entry key="H2" value="41.19488842485794" />
+      <entry key="H4" value="62.20508005985499" />
+      <entry key="D1" value="133.40735587015604" />
+      <entry key="W1" value="166.19448065602887" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="8.848450008803898E-8" />
-      <entry key="MS500" value="0.03884843185571494" />
-      <entry key="S2" value="0.4569840763636186" />
-      <entry key="S5" value="1.107478539141733" />
-      <entry key="S10" value="2.1986757270359165" />
-      <entry key="S30" value="4.560749769540158" />
-      <entry key="S60" value="6.554939243145543" />
-      <entry key="M2" value="10.243243786638475" />
-      <entry key="M5" value="21.12390517488571" />
-      <entry key="M10" value="34.18377429017373" />
-      <entry key="M15" value="44.95600472577107" />
-      <entry key="M30" value="79.31188466775703" />
-      <entry key="H1" value="149.2481185482798" />
-      <entry key="H2" value="264.43030111170424" />
-      <entry key="H4" value="464.6667447179489" />
-      <entry key="D1" value="1376.7760283640937" />
-      <entry key="W1" value="1841.1174312386688" />
+      <entry key="MS100" value="0.9592641193252643" />
+      <entry key="MS500" value="0.9917167307382933" />
+      <entry key="S2" value="0.9979227194250289" />
+      <entry key="S5" value="0.9993785340740304" />
+      <entry key="S10" value="1.024796719169476" />
+      <entry key="S30" value="2.1497438082472446" />
+      <entry key="S60" value="4.814838994928981" />
+      <entry key="M2" value="9.56612844850882" />
+      <entry key="M5" value="21.536468635095193" />
+      <entry key="M10" value="35.66391757466599" />
+      <entry key="M15" value="47.00753251318968" />
+      <entry key="M30" value="81.87425972302717" />
+      <entry key="H1" value="152.04823221911008" />
+      <entry key="H2" value="267.6107443898412" />
+      <entry key="H4" value="468.19766936413714" />
+      <entry key="D1" value="1381.5604521990172" />
+      <entry key="W1" value="1846.8852790350777" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -412,7 +399,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791868737108</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="feat: 새로운 CSS 챌린지 파일 및 이미지 추가, `practice/chap04` 디렉토리 구조 업데이트">
+      <option name="closed" value="true" />
+      <created>1791871637836</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1791871637836</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,8 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add new HTML and CSS files for `practice/chap04`, update project configuration." />
-    <MESSAGE value="Add new media assets and update project configuration for `practice/chap04`." />
     <MESSAGE value="Update `workspace.xml` and add new assets for `practice/chap04`" />
     <MESSAGE value="Add new assets and images for `practice/chap04`, update project configuration." />
     <MESSAGE value="Add new HTML, renamed and additional assets for `practice/chap04`, update project configuration." />
@@ -467,7 +460,9 @@
     <MESSAGE value="feat: Add new CSS examples and update project structure in `practice/chap04`" />
     <MESSAGE value="feat: Add new CSS challenge files and update `practice/chap04` structure" />
     <MESSAGE value="feat: Add `lang=&quot;ko&quot;` attribute to HTML files in `practice/chap04` for localization" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add `lang=&quot;ko&quot;` attribute to HTML files in `practice/chap04` for localization" />
+    <MESSAGE value="feat: Add new CSS challenge files and images for `practice/chap04`, update project structure" />
+    <MESSAGE value="feat: 새로운 CSS 챌린지 파일 및 이미지 추가, `practice/chap04` 디렉토리 구조 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 새로운 CSS 챌린지 파일 및 이미지 추가, `practice/chap04` 디렉토리 구조 업데이트" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
