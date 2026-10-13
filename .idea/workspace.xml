@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="당신은 웹/XML 프로그래밍 프로젝트를 위한 Git 커밋 메시지 작성 도우미입니다.&#10;&#10;현재 커밋 대상으로 선택된 Git 변경 사항(diff)을 분석하여 다음 규칙에 따라 커밋 메시지를 생성하세요.&#10;&#10;이 저장소는 대학교 웹/XML 프로그래밍 과목의 개인 학습 및 과제 관리용입니다. HTML5, CSS3, JavaScript, XML 등의 웹 프로그래밍 실습 파일을 관리하며, 노트북과 집 PC에서 동일한 GitHub 저장소를 사용합니다.&#10;&#10;[1. 기본 작성 규칙]&#10;&#10;- Conventional Commits 형식을 사용합니다.&#10;- 모든 커밋 메시지는 한국어로 작성합니다.&#10;- 기본 형식은 &quot;type: 변경 내용&quot;입니다.&#10;- type은 영어 소문자로 작성합니다.&#10;- 콜론(:) 뒤에는 공백을 하나 넣습니다.&#10;- 제목은 가급적 50자 이내로 간결하고 구체적으로 작성합니다.&#10;- 실제 변경 사항을 한 문장으로 명확하게 요약합니다.&#10;- 문장 끝에 마침표를 붙이지 않습니다.&#10;- 이모지, 따옴표, 불필요한 수식어는 사용하지 않습니다.&#10;- 본문 없이 제목 한 줄만 작성합니다.&#10;- 변경 내용은 가능한 한 간결한 명사형 표현으로 마무리합니다.&#10;&#10;[2. 커밋 타입]&#10;&#10;실제 변경 내용에 따라 가장 적절한 타입 하나를 선택하세요.&#10;&#10;- feat: 새로운 웹페이지, 기능, HTML 요소, CSS 디자인, JavaScript 기능 및 실습 예제 추가&#10;- fix: HTML 구조 오류, CSS 표시 문제, JavaScript 실행 오류, XML 문법 오류 및 잘못된 동작 수정&#10;- refactor: 기능이나 화면 동작을 유지하면서 HTML 구조, CSS 규칙 또는 JavaScript 코드 개선&#10;- docs: README, 설명 문서, 학습 내용 및 코드 주석 변경&#10;- style: 공백, 들여쓰기, 줄바꿈, 코드 정렬 등 실행 결과에 영향을 주지 않는 서식 변경&#10;- test: 테스트 코드, 검증 스크립트 및 테스트 관련 파일 추가 또는 수정&#10;- perf: 웹페이지 로딩 속도, 렌더링 성능 및 JavaScript 실행 성능 개선&#10;- build: 프로젝트 빌드 설정, 개발 도구 구성 및 의존성 관련 변경&#10;- ci: GitHub Actions 등 CI/CD 설정 변경&#10;- chore: 기타 프로젝트 유지보수, 파일 정리, 폴더 구조 및 개발 환경 설정 변경&#10;&#10;주의: CSS를 이용한 실제 화면 디자인 변경은 단순 코드 서식 변경과 구분하세요. 색상, 배치, 크기, 레이아웃 등 사용자에게 보이는 결과가 변경되었다면 변경 목적에 따라 feat 또는 fix를 사용하세요. style은 코드의 서식만 변경한 경우에 사용합니다.&#10;&#10;[3. 웹 프로그래밍 분석 규칙]&#10;&#10;변경된 파일의 종류와 실제 수정 내용을 분석하여 가장 적절한 커밋 메시지를 작성하세요.&#10;&#10;HTML 관련 변경:&#10;- HTML5 기본 문서 구조 및 태그 추가&#10;- 시맨틱 태그를 활용한 문서 구조화&#10;- 제목, 문단, 목록, 표 및 하이퍼링크 추가&#10;- 이미지, 오디오, 비디오 및 iframe 요소 추가&#10;- form, input, textarea, select 등 웹 폼 요소 추가&#10;- 웹페이지 콘텐츠 및 구조 변경&#10;&#10;CSS 관련 변경:&#10;- CSS 선택자 및 스타일 규칙 추가&#10;- 글꼴, 색상, 배경, 테두리 및 여백 변경&#10;- 레이아웃, 크기, 정렬 및 배치 수정&#10;- 반응형 디자인 및 화면 표시 개선&#10;- 중복 스타일 정리 및 스타일시트 구조 개선&#10;&#10;JavaScript 관련 변경:&#10;- 변수, 배열, 객체 및 함수 관련 코드 추가&#10;- 조건문과 반복문을 활용한 로직 구현&#10;- DOM 요소 선택 및 조작 기능 추가&#10;- 이벤트 처리 및 사용자 입력 기능 구현&#10;- 폼 데이터 처리 및 유효성 검사&#10;- 계산 기능, 동적 콘텐츠 및 사용자 상호작용 구현&#10;- JavaScript 오류 수정 및 코드 리팩터링&#10;&#10;XML 관련 변경:&#10;- XML 문서 생성 및 구조 수정&#10;- XML 요소, 속성 및 데이터 변경&#10;- XML 문법 오류 수정&#10;- 실제 변경 내용에 포함된 XML 관련 기능 또는 검증 규칙 수정&#10;&#10;위 항목은 분석 기준이며, 변경되지 않은 기능이나 요소를 커밋 메시지에 임의로 포함하지 마세요.&#10;&#10;[4. 변경 사항 분석 및 타입 선택 규칙]&#10;&#10;- 실제 변경된 파일과 코드의 차이(diff)를 기준으로 작성합니다.&#10;- 파일 확장자만으로 변경 목적을 판단하지 않습니다.&#10;- 변경된 코드가 무엇을 구현하거나 수정하는지 파악합니다.&#10;- 새로운 웹페이지나 실습 예제를 추가했다면 feat를 우선 고려합니다.&#10;- 기존 웹페이지의 기능 오류나 표시 문제를 해결했다면 fix를 우선 고려합니다.&#10;- 기능 변경 없이 코드 구조만 개선했다면 refactor를 사용합니다.&#10;- 공백이나 들여쓰기만 변경했다면 style을 사용합니다.&#10;- 주석과 문서만 변경했다면 docs를 사용합니다.&#10;- 프로젝트 설정이나 불필요한 파일만 정리했다면 chore를 사용합니다.&#10;- 여러 파일이 변경되었다면 공통 목적을 파악하여 요약합니다.&#10;- HTML, CSS, JavaScript 파일이 함께 변경되었다면 전체적으로 구현된 기능을 우선 설명합니다.&#10;- 서로 다른 변경 사항이 포함된 경우 가장 핵심적인 변경 사항을 중심으로 작성합니다.&#10;- 실제 변경 내역에서 확인할 수 없는 기능이나 수정 사항은 추측하지 않습니다.&#10;&#10;[5. 대학교 실습 및 과제 관리 규칙]&#10;&#10;- 이 저장소는 개인 학습과 대학교 과제 제출을 목적으로 사용합니다.&#10;- 강의에서 작성한 예제와 실습 코드를 구분할 수 있도록 구체적으로 작성합니다.&#10;- 새로운 실습 예제를 추가한 경우 무엇을 학습하거나 구현하는 예제인지 설명합니다.&#10;- 과제 웹페이지를 구현한 경우 웹페이지의 핵심 기능이나 구성 요소를 설명합니다.&#10;- 변경된 파일 경로나 내용에서 장 번호 또는 과제 번호를 명확히 확인할 수 있다면 메시지에 포함할 수 있습니다.&#10;- 장 번호와 과제 번호를 확인할 수 없다면 임의로 생성하지 않습니다.&#10;- 기존 예제를 수정한 경우 추가와 수정을 구분합니다.&#10;- 파일명만 변경한 경우 기능을 새로 구현했다고 표현하지 않습니다.&#10;- 학번, 개인 이름 등 변경 내용을 이해하는 데 불필요한 개인정보는 메시지에 포함하지 않습니다.&#10;- 기업 협업용으로 과도하게 복잡한 표현이나 불필요한 상세 설명은 사용하지 않습니다.&#10;&#10;[6. 개인 GitHub 저장소 및 동기화 규칙]&#10;&#10;- 노트북과 집 PC에서 동일한 저장소를 사용합니다.&#10;- 단순 동기화 여부보다 실제 변경 내용을 우선 기록합니다.&#10;- &quot;작업 내용 동기화&quot;, &quot;코드 업데이트&quot;, &quot;파일 수정&quot;, &quot;작업 완료&quot;처럼 모호한 표현은 가능한 한 사용하지 않습니다.&#10;- 여러 실습 파일을 함께 추가했다면 공통 학습 주제를 중심으로 요약합니다.&#10;- 실제 변경 사항이 프로젝트 설정이나 파일 정리에 한정된다면 해당 내용을 정확히 설명합니다.&#10;- 사용한 컴퓨터의 종류나 작업 장소는 커밋 메시지에 포함하지 않습니다.&#10;&#10;[7. 한국어 및 표현 규칙]&#10;&#10;- 최종 커밋 메시지는 자연스럽고 명확한 한국어로 작성합니다.&#10;- Conventional Commits 타입은 영어 소문자로 유지합니다.&#10;- HTML, CSS, JavaScript, XML, DOM, iframe, form 등 기술 용어는 필요한 경우 원문 그대로 사용합니다.&#10;- 태그 이름, 속성, 함수명, 변수명 및 파일명은 필요한 경우 원문을 유지합니다.&#10;- &quot;~했습니다&quot;, &quot;~하였습니다&quot; 대신 &quot;~추가&quot;, &quot;~구현&quot;, &quot;~수정&quot;, &quot;~개선&quot;, &quot;~정리&quot; 등의 명사형 표현을 우선합니다.&#10;- 지나치게 추상적인 표현보다 실제 변경 대상을 구체적으로 설명합니다.&#10;- 의미가 중복되는 단어는 사용하지 않습니다.&#10;- 파일명을 나열하는 것보다 변경 목적을 설명하는 문장을 우선합니다.&#10;&#10;[8. 출력 형식]&#10;&#10;- 최종 커밋 메시지 한 줄만 출력합니다.&#10;- 형식은 반드시 &quot;type: 변경 내용&quot;을 따릅니다.&#10;- 제목, 부연 설명, 변경 사항 목록 및 분석 과정은 출력하지 않습니다.&#10;- Markdown 코드 블록이나 인용문을 사용하지 않습니다.&#10;- 여러 개의 후보 메시지를 출력하지 않습니다.&#10;- 메시지 앞뒤에 불필요한 공백이나 빈 줄을 추가하지 않습니다.&#10;- 변경 사항을 확인할 수 없다면 구체적인 변경 내용을 임의로 만들어내지 않습니다.&#10;&#10;[9. 출력 예시]&#10;&#10;feat: HTML5 기본 문서 구조 작성&#10;feat: 3장 웹페이지 실습 예제 추가&#10;feat: 시맨틱 태그를 활용한 웹페이지 구조 구현&#10;feat: iframe을 이용한 외부 웹페이지 표시 기능 추가&#10;feat: 사용자 정보 입력 폼 구현&#10;feat: HTML 테이블 및 셀 병합 예제 추가&#10;feat: CSS 선택자 및 글꼴 스타일 적용&#10;feat: 웹페이지 레이아웃 및 디자인 개선&#10;feat: JavaScript DOM 조작 기능 구현&#10;feat: 버튼 클릭 이벤트 처리 기능 추가&#10;feat: 학생 성적 계산 기능 구현&#10;feat: XML 문서 구조 및 데이터 추가&#10;fix: HTML 태그 중첩 오류 수정&#10;fix: 이미지 상대 경로 오류 수정&#10;fix: CSS 레이아웃 정렬 문제 해결&#10;fix: JavaScript 변수 참조 오류 수정&#10;fix: 폼 입력값 처리 오류 수정&#10;refactor: 중복된 CSS 스타일 규칙 정리&#10;refactor: JavaScript 이벤트 처리 코드 구조 개선&#10;docs: HTML 태그 사용법 주석 추가&#10;style: HTML 및 CSS 들여쓰기 정리&#10;test: JavaScript 입력값 검증 테스트 추가&#10;perf: 불필요한 DOM 조작 최소화&#10;build: 웹 프로젝트 빌드 설정 수정&#10;ci: GitHub Actions 배포 워크플로 수정&#10;chore: 실습 파일 및 디렉터리 구조 정리&#10;&#10;[10. 최종 지침]&#10;&#10;위 예시는 커밋 메시지 형식을 설명하기 위한 참고 자료입니다.&#10;예시를 그대로 반복하지 말고, 실제 Git 변경 사항을 분석하여 새로운 커밋 메시지를 작성하세요.&#10;&#10;기존 코드의 기능 추가, 오류 수정, 구조 개선, 디자인 변경, 문서 수정 여부를 정확히 구분하세요.&#10;&#10;변경 사항에 가장 적합한 Conventional Commits 타입 하나를 선택하고, 변경된 내용을 간결하고 구체적인 한국어로 요약하세요.&#10;&#10;최종 결과는 반드시 &quot;type: 변경 내용&quot; 형식의 커밋 메시지 한 줄만 출력하세요." />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Update `workspace.xml` to remove outdated references and clean up project structure">
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Rename and relocate storyboard files under `practice/chap03`, and update `workspace.xml` to reflect changes.">
+      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Backgrounds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Backgrounds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Colors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Fonts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Fonts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Text.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/고양이 소개 웹페이지 스토리보드.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/project/고양이 소개 웹페이지 스토리보드.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/수정된 고양이 소개 웹 폼 스토리보드.png" beforeDir="false" afterPath="$PROJECT_DIR$/practice/chap03/project/수정된 고양이 소개 웹 폼 스토리보드.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-13.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,15 +37,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1191" />
+    <option name="cachedIndexableFilesCount" value="1199" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -48,65 +70,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000723443263" />
-      <entry key="S5" value="1.0025995290866052" />
-      <entry key="S10" value="1.088366005090638" />
-      <entry key="S30" value="2.1268605620988126" />
-      <entry key="S60" value="4.105018449423978" />
-      <entry key="M2" value="7.987461677787493" />
-      <entry key="M5" value="19.460973047075193" />
-      <entry key="M10" value="37.24945285759139" />
-      <entry key="M15" value="51.955621400988925" />
-      <entry key="M30" value="87.16817643503514" />
-      <entry key="H1" value="136.33510903728967" />
-      <entry key="H2" value="214.04024932557024" />
-      <entry key="H4" value="378.429702480616" />
-      <entry key="D1" value="1157.9791655699228" />
-      <entry key="W1" value="1537.2697471440038" />
+      <entry key="MS100" value="1.0000000088602834" />
+      <entry key="MS500" value="1.0245182530592734" />
+      <entry key="S2" value="1.395705768100971" />
+      <entry key="S5" value="1.6903105977491981" />
+      <entry key="S10" value="1.8481793749070954" />
+      <entry key="S30" value="2.3833808587191343" />
+      <entry key="S60" value="3.460836468473324" />
+      <entry key="M2" value="6.949085402771063" />
+      <entry key="M5" value="19.364356986994334" />
+      <entry key="M10" value="36.38399195322101" />
+      <entry key="M15" value="50.837454749116525" />
+      <entry key="M30" value="89.59898339941046" />
+      <entry key="H1" value="151.06020302656256" />
+      <entry key="H2" value="242.96306963901782" />
+      <entry key="H4" value="414.702565849993" />
+      <entry key="D1" value="1222.9391216626932" />
+      <entry key="W1" value="1626.5515541170203" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.0520347485756602E-67" />
-      <entry key="S2" value="1.8009743237556744E-17" />
-      <entry key="S5" value="2.0054092253907943E-7" />
-      <entry key="S10" value="4.478179573465402E-4" />
-      <entry key="S30" value="0.0765828120942799" />
-      <entry key="S60" value="0.28653290224879385" />
-      <entry key="M2" value="0.7098668758919042" />
-      <entry key="M5" value="2.70133104077576" />
-      <entry key="M10" value="5.750596902804655" />
-      <entry key="M15" value="7.821913263492098" />
-      <entry key="M30" value="12.094331615459344" />
-      <entry key="H1" value="18.32256714610715" />
-      <entry key="H2" value="28.278353019254986" />
-      <entry key="H4" value="44.91652542878701" />
-      <entry key="D1" value="105.80023728851883" />
-      <entry key="W1" value="133.34323980656123" />
+      <entry key="MS100" value="3.872591914849316E-121" />
+      <entry key="MS500" value="8.271806125530267E-25" />
+      <entry key="S2" value="9.536743164062496E-7" />
+      <entry key="S5" value="0.003906250000000002" />
+      <entry key="S10" value="0.06250000001763711" />
+      <entry key="S30" value="0.397183816446753" />
+      <entry key="S60" value="0.6605366082041854" />
+      <entry key="M2" value="1.156437215539468" />
+      <entry key="M5" value="2.8959279162722957" />
+      <entry key="M10" value="5.214684435856981" />
+      <entry key="M15" value="7.297413159851269" />
+      <entry key="M30" value="12.937126191045543" />
+      <entry key="H1" value="21.589000459294628" />
+      <entry key="H2" value="33.98123537882603" />
+      <entry key="H4" value="52.57397591880843" />
+      <entry key="D1" value="117.9664073874029" />
+      <entry key="W1" value="147.83381658285683" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.42044820762685725" />
-      <entry key="MS500" value="0.8408964152537145" />
-      <entry key="S2" value="0.9576033416122975" />
-      <entry key="S5" value="0.9852697672605918" />
-      <entry key="S10" value="1.0776418209061966" />
-      <entry key="S30" value="2.1857965881563266" />
-      <entry key="S60" value="4.370047231799391" />
-      <entry key="M2" value="8.675256987689446" />
-      <entry key="M5" value="22.127406883391572" />
-      <entry key="M10" value="42.95810501416874" />
-      <entry key="M15" value="59.73621574786938" />
-      <entry key="M30" value="99.22524057374835" />
-      <entry key="H1" value="154.62680210457904" />
-      <entry key="H2" value="242.29447835239446" />
-      <entry key="H4" value="423.3264945953371" />
-      <entry key="D1" value="1263.7704278664246" />
-      <entry key="W1" value="1670.6113136338217" />
+      <entry key="MS100" value="0.0046132525840862325" />
+      <entry key="MS500" value="0.344312615690311" />
+      <entry key="S2" value="1.0034237002495874" />
+      <entry key="S5" value="1.4655002246585653" />
+      <entry key="S10" value="1.770791591263039" />
+      <entry key="S30" value="2.7113804716807737" />
+      <entry key="S60" value="4.075586023474915" />
+      <entry key="M2" value="8.064146485433543" />
+      <entry key="M5" value="22.215258260005392" />
+      <entry key="M10" value="41.556873594821575" />
+      <entry key="M15" value="58.09565667098625" />
+      <entry key="M30" value="102.50018878858536" />
+      <entry key="H1" value="172.61720558606788" />
+      <entry key="H2" value="276.9180265195845" />
+      <entry key="H4" value="467.25509917611527" />
+      <entry key="D1" value="1340.8959904829053" />
+      <entry key="W1" value="1774.3835896855553" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
@@ -120,42 +142,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;24.21.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;24.19.0&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bestc/IdeaProjects/web_xml_programming/HTML5/chap_03/project&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/bestc/AppData/Roaming/JetBrains/IntelliJIdea2026.2/node/versions/24.21.0/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;cn.yiiguxing.plugin.translate&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript 디버그.차민규_24117000.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "24.21.0",
+    "javascript.nodejs.core.library.typings.version": "24.19.0",
+    "javascript.preferred.runtime.type.id": "node",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/HTML5/chap_03/project",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/bestc/AppData/Roaming/JetBrains/IntelliJIdea2026.2/node/versions/24.21.0/node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "ml.llm.AIAssistantPromptsLibrary",
+    "two.files.diff.last.used.file": "C:/Users/bestc/IdeaProjects/web_xml_programming/practice/chap02/prac02_1.html"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\HTML5\chap_03\project" />
@@ -364,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791436035053</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Rename and relocate storyboard files under `practice/chap03`, and update `workspace.xml` to reflect changes.">
+      <option name="closed" value="true" />
+      <created>1791436850253</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1791436850253</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,9 +425,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update project configuration and refactor `prac_chap03_2/prac01_inputText.html` structure" />
-    <MESSAGE value="Add new HTML test files, update `prac_chap03_2` structure, and refine project configuration" />
-    <MESSAGE value="Add new HTML form test, refine `prac_chap03_2` structure, and update project configuration" />
     <MESSAGE value="Add detailed HTML5 structure and update project configuration to refine `prac_chap03_2` implementation" />
     <MESSAGE value="Add comprehensive HTML5 structures and project updates for &quot;우리 집 고양이&quot; mini-project." />
     <MESSAGE value="Remove outdated HTML files and update media paths in `practice/chap03` project configuration" />
@@ -419,7 +447,10 @@
     <MESSAGE value="Update `workspace.xml`, refine project structure, and modify `차민규_24117000.html` to include new references." />
     <MESSAGE value="Remove outdated HTML files from `practice/chap03/project` to clean up project structure." />
     <MESSAGE value="Update `workspace.xml` to remove outdated references and clean up project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update `workspace.xml` to remove outdated references and clean up project structure" />
+    <MESSAGE value="Rename and relocate storyboard files under `practice/chap03`, and update `workspace.xml` to reflect changes." />
+    <MESSAGE value="Add new HTML, CSS files, and images for `practice/chap04`, update `workspace.xml`, and refine project structure." />
+    <MESSAGE value="feat: Add new CSS challenge files and update `practice/chap04` structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add new CSS challenge files and update `practice/chap04` structure" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
