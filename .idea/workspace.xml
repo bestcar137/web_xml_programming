@@ -18,18 +18,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="Rename and relocate storyboard files under `practice/chap03`, and update `workspace.xml` to reflect changes.">
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Backgrounds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Backgrounds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Colors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Colors.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Fonts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Fonts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chap04/CSS_Text.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-13.html" afterDir="false" />
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="feat: Add new CSS challenge files and update `practice/chap04` structure">
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-18.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-19.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-20.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/html/ex4-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/index_04.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/index_04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_04/project/홍길동_20230808.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_04/project/홍길동_20230808.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,61 +79,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000088602834" />
-      <entry key="MS500" value="1.0245182530592734" />
-      <entry key="S2" value="1.395705768100971" />
-      <entry key="S5" value="1.6903105977491981" />
-      <entry key="S10" value="1.8481793749070954" />
-      <entry key="S30" value="2.3833808587191343" />
-      <entry key="S60" value="3.460836468473324" />
-      <entry key="M2" value="6.949085402771063" />
-      <entry key="M5" value="19.364356986994334" />
-      <entry key="M10" value="36.38399195322101" />
-      <entry key="M15" value="50.837454749116525" />
-      <entry key="M30" value="89.59898339941046" />
-      <entry key="H1" value="151.06020302656256" />
-      <entry key="H2" value="242.96306963901782" />
-      <entry key="H4" value="414.702565849993" />
-      <entry key="D1" value="1222.9391216626932" />
-      <entry key="W1" value="1626.5515541170203" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000106994213835" />
+      <entry key="S2" value="1.0948948508009557" />
+      <entry key="S5" value="1.6253607578579672" />
+      <entry key="S10" value="2.2749312017468952" />
+      <entry key="S30" value="3.2149629392130885" />
+      <entry key="S60" value="3.6616804541421915" />
+      <entry key="M2" value="4.191298969704035" />
+      <entry key="M5" value="8.207898867300795" />
+      <entry key="M10" value="20.595230176523604" />
+      <entry key="M15" value="34.03972317716416" />
+      <entry key="M30" value="72.83258624887172" />
+      <entry key="H1" value="136.4788591613168" />
+      <entry key="H2" value="231.6860836561212" />
+      <entry key="H4" value="405.5794331008144" />
+      <entry key="D1" value="1220.9010669556656" />
+      <entry key="W1" value="1630.2110725137923" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.872591914849316E-121" />
-      <entry key="MS500" value="8.271806125530267E-25" />
-      <entry key="S2" value="9.536743164062496E-7" />
-      <entry key="S5" value="0.003906250000000002" />
-      <entry key="S10" value="0.06250000001763711" />
-      <entry key="S30" value="0.397183816446753" />
-      <entry key="S60" value="0.6605366082041854" />
-      <entry key="M2" value="1.156437215539468" />
-      <entry key="M5" value="2.8959279162722957" />
-      <entry key="M10" value="5.214684435856981" />
-      <entry key="M15" value="7.297413159851269" />
-      <entry key="M30" value="12.937126191045543" />
-      <entry key="H1" value="21.589000459294628" />
-      <entry key="H2" value="33.98123537882603" />
-      <entry key="H4" value="52.57397591880843" />
-      <entry key="D1" value="117.9664073874029" />
-      <entry key="W1" value="147.83381658285683" />
+      <entry key="MS100" value="4.530406404507592E-5" />
+      <entry key="MS500" value="0.13527808056571541" />
+      <entry key="S2" value="0.606647711867565" />
+      <entry key="S5" value="0.8505541517248916" />
+      <entry key="S10" value="1.083307182584787" />
+      <entry key="S30" value="1.539394481724755" />
+      <entry key="S60" value="1.8296376005399024" />
+      <entry key="M2" value="2.1853535994708198" />
+      <entry key="M5" value="3.115870922278769" />
+      <entry key="M10" value="5.032668425376437" />
+      <entry key="M15" value="7.028830165771627" />
+      <entry key="M30" value="12.722079086482406" />
+      <entry key="H1" value="21.753687437039897" />
+      <entry key="H2" value="34.68606579725007" />
+      <entry key="H4" value="53.77399835454059" />
+      <entry key="D1" value="120.28585581839437" />
+      <entry key="W1" value="150.7117454886985" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0046132525840862325" />
-      <entry key="MS500" value="0.344312615690311" />
-      <entry key="S2" value="1.0034237002495874" />
-      <entry key="S5" value="1.4655002246585653" />
-      <entry key="S10" value="1.770791591263039" />
-      <entry key="S30" value="2.7113804716807737" />
-      <entry key="S60" value="4.075586023474915" />
-      <entry key="M2" value="8.064146485433543" />
-      <entry key="M5" value="22.215258260005392" />
-      <entry key="M10" value="41.556873594821575" />
-      <entry key="M15" value="58.09565667098625" />
-      <entry key="M30" value="102.50018878858536" />
-      <entry key="H1" value="172.61720558606788" />
-      <entry key="H2" value="276.9180265195845" />
-      <entry key="H4" value="467.25509917611527" />
-      <entry key="D1" value="1340.8959904829053" />
-      <entry key="W1" value="1774.3835896855553" />
+      <entry key="MS100" value="5.397274333204879E-5" />
+      <entry key="MS500" value="0.17960771502612624" />
+      <entry key="S2" value="1.1307369264702816" />
+      <entry key="S5" value="2.135093990783547" />
+      <entry key="S10" value="3.1328896286064474" />
+      <entry key="S30" value="4.651284790993148" />
+      <entry key="S60" value="5.4319792706683065" />
+      <entry key="M2" value="6.341941210015355" />
+      <entry key="M5" value="11.299533038828027" />
+      <entry key="M10" value="25.6013381109517" />
+      <entry key="M15" value="41.04032531907122" />
+      <entry key="M30" value="85.52451893149694" />
+      <entry key="H1" value="158.20321088605243" />
+      <entry key="H2" value="266.34688639725573" />
+      <entry key="H4" value="459.3323460676184" />
+      <entry key="D1" value="1341.1773768484902" />
+      <entry key="W1" value="1780.9210295604685" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -395,7 +404,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791436850253</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="feat: Add new CSS challenge files and update `practice/chap04` structure">
+      <option name="closed" value="true" />
+      <created>1791868433575</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1791868433576</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,8 +442,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add detailed HTML5 structure and update project configuration to refine `prac_chap03_2` implementation" />
-    <MESSAGE value="Add comprehensive HTML5 structures and project updates for &quot;우리 집 고양이&quot; mini-project." />
     <MESSAGE value="Remove outdated HTML files and update media paths in `practice/chap03` project configuration" />
     <MESSAGE value="Add new HTML and CSS files for `practice/chap04`, update project configuration." />
     <MESSAGE value="Add new media assets and update project configuration for `practice/chap04`." />
@@ -449,6 +464,8 @@
     <MESSAGE value="Update `workspace.xml` to remove outdated references and clean up project structure" />
     <MESSAGE value="Rename and relocate storyboard files under `practice/chap03`, and update `workspace.xml` to reflect changes." />
     <MESSAGE value="Add new HTML, CSS files, and images for `practice/chap04`, update `workspace.xml`, and refine project structure." />
+    <MESSAGE value="feat: Add CSS challenge files and images for `practice/chap04`, update `workspace.xml`" />
+    <MESSAGE value="feat: Add new CSS examples and update project structure in `practice/chap04`" />
     <MESSAGE value="feat: Add new CSS challenge files and update `practice/chap04` structure" />
     <option name="LAST_COMMIT_MESSAGE" value="feat: Add new CSS challenge files and update `practice/chap04` structure" />
   </component>
