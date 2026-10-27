@@ -1,0 +1,118 @@
+/* CSS 4장 복습용: 기본 선택자, 글자/색상, 배경, 테두리, 여백, 크기 */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #263238;
+  background-color: #f5f5f1;
+  line-height: 1.6;
+  font-family: Arial, "Malgun Gothic", sans-serif;
+}
+
+header {
+  padding: 28px 16px;
+  background-color: #466b45;
+  text-align: center;
+  /* 그 외 웹브라우저 결과 참조 */
+  color: white;
+}
+
+header h1 {
+  margin-bottom: 8px;
+  font-size: 30px;
+}
+
+header p {
+  margin: 0;
+}
+
+nav {
+  padding: 10px;
+  background-color: #e2eadb;
+  /* 그 외 웹브라우저 결과 참조 */
+  text-align: center;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  /* 블릿 표시안함 (몰라서 구글 검색함) */
+  list-style-type: none;
+}
+
+nav li {
+  /* 인라인으로 표시 (몰라서 구글 검색함) */
+  display: inline;
+  margin: 0 12px;
+}
+
+a {
+  color: #345a32;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+main {
+  width: 90%;
+  max-width: 900px;
+  margin: 24px auto;
+}
+
+section, aside {
+  margin-bottom: 24px;
+  padding: 18px;
+  background-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d4ddcf;
+  border-radius: 8px;
+}
+
+h2 {
+  margin-top: 0;
+  color: #466b45;
+  border-bottom: 2px solid #b8cbaa;
+  padding-bottom: 6px;
+}
+
+article {
+  margin: 16px 0;
+  padding: 14px;
+  border: 1px solid #e0e5dc;
+  background-color: #fbfcf9;
+}
+
+article h3 {
+  margin-top: 0;
+  color: #435842;
+}
+
+article img {
+  /* 블록으로 표시 (몰라서 구글 검색함) */
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  margin: 10px auto;
+  border: 3px solid #e2eadb;
+}
+
+ol {
+  padding-left: 28px;
+}
+
+footer {
+  padding: 16px;
+  background-color: #435842;
+  font-size: 14px;
+  /* 그 외 웹브라우저 결과 참조 */
+  color: white;
+  text-align: center;
+}
