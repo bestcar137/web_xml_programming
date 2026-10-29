@@ -1,0 +1,156 @@
+/* 중간고사 이후 복습 과제 수업물에서 참고 */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: #38312c;
+  background-color: #f7f2e9;
+  font-family: Arial, "Malgun Gothic", sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+header {
+  padding: 26px 16px;
+  color: white;
+  background-color: #863e32;
+  text-align: center;
+}
+
+header h1 {
+  margin: 8px 0;
+  font-size: 30px;
+}
+
+header p {
+  margin: 4px 0;
+}
+
+.student {
+  font-size: 14px;
+}
+
+nav {
+  padding: 10px 16px;
+  background-color: #eadcc7;
+  text-align: center;
+}
+
+nav p {
+  margin: 0;
+}
+
+a {
+  color: #79392e;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+main {
+  width: 92%;
+  max-width: 860px;
+  margin: 24px auto;
+}
+
+section {
+  margin-bottom: 24px;
+  padding: 22px;
+  border: 1px solid #d9ccbb;
+  border-radius: 6px;
+  background-color: white;
+}
+
+h2 {
+  margin-top: 0;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #c9a77c;
+  color: #79392e;
+  font-size: 23px;
+}
+
+h3 {
+  margin-top: 0;
+  font-size: 19px;
+  color: #704d32;
+}
+
+article, aside {
+  margin-top: 18px;
+  padding: 16px;
+  border-left: 4px solid #c9a77c;
+  background-color: #faf5ec;
+}
+
+article p, aside p {
+  margin-bottom: 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+caption {
+  margin-bottom: 8px;
+  font-weight: bold;
+  text-align: left;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #d9ccbb;
+  text-align: left;
+}
+
+thead {
+  background-color: #efe3d1;
+}
+
+tbody th {
+  color: #79392e;
+}
+
+.note {
+  color: #655b50;
+  font-size: 14px;
+}
+
+dt {
+  margin-top: 16px;
+  font-weight: bold;
+  color: #79392e;
+}
+
+dd {
+  margin-left: 18px;
+}
+
+ol {
+  padding-left: 26px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+footer {
+  padding: 16px;
+  background-color: #58483b;
+  color: white;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer p {
+  margin: 4px 0;
+}
+
+footer a {
+  color: #fff0d5;
+}
