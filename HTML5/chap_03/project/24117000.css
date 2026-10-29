@@ -1,0 +1,230 @@
+/* 중간고사 이후 수업 자료에서 참고 */
+
+* {
+box-sizing: border-box;
+}
+
+body {
+margin: 0 auto;
+padding: 16px;
+max-width: 1200px;
+background-color: #f6f3ee;
+color: #38352f;
+font-family: Arial, "Malgun Gothic", sans-serif;
+font-size: 16px;
+line-height: 1.7;
+}
+
+header {
+padding: 24px 16px;
+background-color: #756551;
+color: white;
+text-align: center;
+border: 2px solid #625340;
+border-radius: 8px;
+}
+
+h1 {
+margin: 0 0 10px;
+font-size: 30px;
+}
+
+header p {
+margin: 0;
+}
+
+nav {
+margin: 16px 0;
+padding: 12px;
+background-color: #e9dfd0;
+border: 1px solid #d3c5b2;
+border-radius: 6px;
+text-align: center;
+}
+
+nav p {
+margin: 0;
+}
+
+nav a {
+display: inline-block;
+margin: 4px;
+padding: 4px 8px;
+font-weight: bold;
+}
+
+a {
+color: #76512e;
+text-decoration: underline;
+}
+
+a:hover {
+color: #a64827;
+}
+
+section {
+margin: 20px 0;
+padding: 16px;
+background-color: white;
+border: 1px solid #d9cfc1;
+border-radius: 8px;
+}
+
+article {
+margin: 16px 0;
+padding: 14px;
+background-color: #fcfaf6;
+border: 1px solid #e4dbcf;
+}
+
+h2 {
+margin: 0 0 14px;
+padding-bottom: 6px;
+color: #6a533c;
+font-size: 23px;
+border-bottom: 2px solid #d8c7b0;
+}
+
+h3 {
+margin: 0 0 10px;
+color: #715c45;
+font-size: 19px;
+}
+
+p {
+margin: 10px 0;
+}
+
+hr {
+margin: 20px 0;
+border: 0;
+border-top: 1px solid #d9cfc1;
+}
+
+/* 기본 속성 선택자로 목차 iframe과 본문 iframe의 너비 지정 */
+iframe {
+height: 650px;
+max-width: 100%;
+background-color: white;
+border: 2px solid #cdbda8;
+vertical-align: top;
+}
+
+iframe[name="menu_frame"] {
+width: 23%;
+}
+
+iframe[name="content_frame"] {
+width: 75%;
+}
+
+dl {
+padding: 14px;
+background-color: #f0e9df;
+border: 1px solid #dfd2c1;
+}
+
+dt {
+margin-top: 8px;
+color: #6a533c;
+font-weight: bold;
+}
+
+dd {
+margin-left: 20px;
+margin-bottom: 8px;
+}
+
+ul {
+padding-left: 26px;
+list-style-type: disc;
+}
+
+li {
+margin: 6px 0;
+}
+
+details {
+margin: 14px 0;
+padding: 12px;
+background-color: #f1ece4;
+border: 1px solid #d8c7b0;
+}
+
+summary {
+color: #6a533c;
+font-weight: bold;
+}
+
+figure {
+margin: 18px 0;
+padding: 12px;
+text-align: center;
+background-color: white;
+border: 1px solid #dfd2c1;
+}
+
+img {
+max-width: 100%;
+height: auto;
+border: 3px solid #e6dccd;
+border-radius: 6px;
+}
+
+figcaption {
+margin-top: 8px;
+color: #756551;
+font-size: 14px;
+}
+
+fieldset {
+min-width: 0;
+padding: 16px;
+border: 2px solid #d8c7b0;
+border-radius: 6px;
+}
+
+legend {
+padding: 0 8px;
+color: #6a533c;
+font-weight: bold;
+}
+
+input, textarea {
+font-family: Arial, "Malgun Gothic", sans-serif;
+font-size: 16px;
+}
+
+#visitor-name, textarea {
+width: 100%;
+max-width: 480px;
+padding: 8px;
+color: #38352f;
+background-color: white;
+border: 1px solid #bdaa92;
+border-radius: 4px;
+}
+
+input[type="submit"], input[type="reset"] {
+margin: 4px 6px 4px 0;
+padding: 8px 18px;
+color: white;
+background-color: #756551;
+border: 1px solid #625340;
+border-radius: 4px;
+}
+
+footer {
+margin-top: 24px;
+padding: 16px;
+background-color: #e9dfd0;
+color: #5c4d3b;
+font-size: 14px;
+text-align: center;
+border-top: 2px solid #cdbda8;
+}
+
+small {
+color: #756551;
+font-size: 13px;
+}

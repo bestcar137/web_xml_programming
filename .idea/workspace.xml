@@ -17,18 +17,24 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="feat: CSS 챌린지 결과 이미지 압축파일 및 프로젝트 설정 업데이트">
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_04/review/images/cafeteria.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_04/review/images/campus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_04/review/images/library.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_04/review/problem1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_04/review/problem1_결과_24117000-차민규.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_04/review/problem2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_04/review/problem2_결과_24117000-차민규.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_04/review/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/chap_04/review/style1.css" afterDir="false" />
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="feat: CSS 4장 리뷰용 HTML, CSS, 이미지 파일 추가 및 프로젝트 설정 업데이트">
+      <change afterPath="$PROJECT_DIR$/HTML5/chap_03/project/24117000.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +42,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1217" />
+    <option name="cachedIndexableFilesCount" value="1219" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -69,62 +75,74 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000020667341" />
-      <entry key="MS500" value="1.0183260536130012" />
-      <entry key="S2" value="1.3946489841481726" />
-      <entry key="S5" value="1.9207505529538667" />
-      <entry key="S10" value="2.457804181579329" />
-      <entry key="S30" value="3.8379791387337217" />
-      <entry key="S60" value="4.910237950725334" />
-      <entry key="M2" value="5.806752243593036" />
-      <entry key="M5" value="7.2544650107761806" />
-      <entry key="M10" value="9.872665122924843" />
-      <entry key="M15" value="13.113836019614528" />
-      <entry key="M30" value="28.384160773631034" />
-      <entry key="H1" value="74.35413859078938" />
-      <entry key="H2" value="172.25731622427008" />
-      <entry key="H4" value="355.15336054826906" />
-      <entry key="D1" value="1237.6304666137057" />
-      <entry key="W1" value="1709.2366604158674" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000137" />
+      <entry key="S2" value="1.0006082702224461" />
+      <entry key="S5" value="1.0517176309396878" />
+      <entry key="S10" value="1.2274225875860492" />
+      <entry key="S30" value="1.666008606224608" />
+      <entry key="S60" value="2.372381432917363" />
+      <entry key="M2" value="3.8986198699869705" />
+      <entry key="M5" value="6.702101788746559" />
+      <entry key="M10" value="9.964589609010957" />
+      <entry key="M15" value="13.371326986868704" />
+      <entry key="M30" value="28.44195944415956" />
+      <entry key="H1" value="73.77221900841066" />
+      <entry key="H2" value="171.24289198430182" />
+      <entry key="H4" value="354.03324369575625" />
+      <entry key="D1" value="1237.812075165054" />
+      <entry key="W1" value="1710.8776865436348" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.116065574E-314" />
-      <entry key="S5" value="2.624677116691501E-126" />
-      <entry key="S10" value="1.6200855275853498E-63" />
-      <entry key="S30" value="1.174480960454619E-21" />
-      <entry key="S60" value="3.4270701218248806E-11" />
-      <entry key="M2" value="5.854392006475332E-6" />
-      <entry key="M5" value="0.008477587608763083" />
-      <entry key="M10" value="0.15799857911975002" />
-      <entry key="M15" value="0.6347170130413117" />
-      <entry key="M30" value="3.850995488378704" />
-      <entry key="H1" value="12.882929805879805" />
-      <entry key="H2" value="29.2964950865455" />
-      <entry key="H4" value="53.39908756588523" />
-      <entry key="D1" value="133.15142971556367" />
-      <entry key="W1" value="170.2486468174727" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.4313355252254965E-137" />
+      <entry key="S10" value="4.93085745608763E-69" />
+      <entry key="S30" value="1.7020571930750278E-23" />
+      <entry key="S60" value="4.125599587091307E-12" />
+      <entry key="M2" value="2.031252165326506E-6" />
+      <entry key="M5" value="0.005551177361769213" />
+      <entry key="M10" value="0.12785260752451924" />
+      <entry key="M15" value="0.5511685285927039" />
+      <entry key="M30" value="3.588600769889206" />
+      <entry key="H1" value="12.43628621518049" />
+      <entry key="H2" value="28.784169291486798" />
+      <entry key="H4" value="52.93011691522103" />
+      <entry key="D1" value="132.95581510665215" />
+      <entry key="W1" value="170.21289363678954" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7631296061589893" />
-      <entry key="MS500" value="0.9649495922462872" />
-      <entry key="S2" value="1.3770749897893235" />
-      <entry key="S5" value="1.908401026832545" />
-      <entry key="S10" value="2.43790210964394" />
-      <entry key="S30" value="3.806311711435244" />
-      <entry key="S60" value="4.883144862448985" />
-      <entry key="M2" value="5.788514428550146" />
-      <entry key="M5" value="7.25357914734726" />
-      <entry key="M10" value="10.023725718716724" />
-      <entry key="M15" value="13.741307114150283" />
-      <entry key="M30" value="32.2245109921817" />
-      <entry key="H1" value="87.22112628076833" />
-      <entry key="H2" value="201.5347324525925" />
-      <entry key="H4" value="408.53349234051905" />
-      <entry key="D1" value="1370.772027137527" />
-      <entry key="W1" value="1879.4834014523615" />
+      <entry key="MS100" value="0.5703818579342118" />
+      <entry key="MS500" value="0.8937851623569177" />
+      <entry key="S2" value="0.9729192624127586" />
+      <entry key="S5" value="1.0403154003670443" />
+      <entry key="S10" value="1.2213041750721172" />
+      <entry key="S30" value="1.6632147141090499" />
+      <entry key="S60" value="2.3678867937905363" />
+      <entry key="M2" value="3.89165580603584" />
+      <entry key="M5" value="6.701262016754287" />
+      <entry key="M10" value="10.086697230114847" />
+      <entry key="M15" value="13.916116003434315" />
+      <entry key="M30" value="32.020596484790694" />
+      <entry key="H1" value="86.19309388802758" />
+      <entry key="H2" value="200.00830509300502" />
+      <entry key="H4" value="406.9445658282239" />
+      <entry key="D1" value="1370.7580346644065" />
+      <entry key="W1" value="1881.088674669019" />
     </decayedShown>
+  </component>
+  <component name="Non-shared Debug Profiles">
+    <debug-profiles>
+      <debug-profile>
+        <option name="id" value="0c9397d7-36df-41df-a600-f4942bfff531" />
+        <option name="type" value="gdb" />
+        <option name="name" value="C:\mingw64\bin\gdb.exe" />
+        <settings>
+          <option name="executable" value="C:\mingw64\bin\gdb.exe" />
+        </settings>
+      </debug-profile>
+    </debug-profiles>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -144,14 +162,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "CidrDebugProfileConversion": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript 디버그.차민규_24117000.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "git.auto.fetch.suggestion.counter": "1",
@@ -194,6 +217,17 @@
       <recent name="C:\Users\bestc\IdeaProjects\xmlprogramming" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [],
+  "modificationCount": 1
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
