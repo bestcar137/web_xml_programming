@@ -1,0 +1,225 @@
+<!--
+5장 미니 프로젝트
+1. HTML5/chap_05/media 폴더와 HTML5/font에 있는 이미지를 사용하여 '여행을 떠나요' 웹 페이지를 만든다.
+2. 2장~5장에서 배운 HTML 태그와 CSS를 최대한 많이 사용한다.
+3. 필요하다면 2장, 3장, 4장의 media 폴더에 있는 햄버거, 동물, 음식 이미지를 활용해도 된다.
+4. 이미지 파일을 다른 폴더로 옮겨서는 안 되며, 경로를 입력하여 활용한다.
+5. 과제를 작성할 때 HTML5/chap_02/project 폴더의 홍길동_20230808.html을 사용한다.
+6. 해당 HTML 파일 이름을 자신의 이름과 학번으로 변경한다.
+7. 외부 CSS 파일을 사용하는 경우 파일 이름은 '학번.css'로 한다.
+
+웹 페이지 상단에는 디자인을 고려하여 이름과 학번을 반드시 넣는다.
+과제 조건을 준수한다면 어떤 웹 페이지를 만들어도 상관없다.
+멋진 '여행을 떠나요' 웹 페이지를 만들어 보자.
+
+
+
+1차 작업 (2026-11-10)
+ - css 없이 html만 작성. 시맨틱 태그, 웹 폼 반드시 포함.
+
+2차 작업
+~~~~~~(2026-11-10 이후에)~~~~~~~~
+ - css 작업하기
+-->
+
+
+<!--
+기초 틀 작성
+주제: 내가 여행을 가봤던 나라들과 그 나라들에 대한 리뷰
+가봤던 나라:
+  일본  // 특이사항: 5번 정도 가봄. 혼자서는 2번
+  미국
+  홍콩
+  등등
+
+
+-->
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <!-- 자신이 만드는 웹 페이지의 제목을 넣어시오 -->
+  <title>여행을 떠나요</title>
+
+  <!-- 이름과 학번을 정확하게 쓰시오 -->
+  <h3>Report 5장: 이름: 차민규 학번: 24117000</h3>
+  <hr>
+</head>
+
+<body>
+<!-- 이 이후부터 자신의 여행 이야기를 만드시오 -->
+<header id="top">
+  <p class="student">Project 5장 &middot; 차민규 &middot; 24117000</p>
+  <h1>내가 가봤던 나라들</h1>
+  <p>세상을 더 넓게 바라볼 수 있게 된 이야기</p>
+</header>
+
+<nav>
+  <!--  <h3 id="#intro">개요</h3>-->
+  <h3 id="#visit">내가 가봤던 나라 목록</h3>
+  <p>
+    <a href="#japan">일본</a> |
+    <a href="#usa">미국</a> |
+    <a href="#hong">홍콩</a> |
+    <a href="#korea">대한민국</a>
+  </p>
+  <p><a href="#form">가고싶은 나라 설문조사</a></p>
+</nav>
+
+<main>
+  <!--<section id="intro">-->
+  <div>
+    <p>
+      세상을 넓게 바라봐야 한다는 부모님의 말씀에, 어렸을 때부터 여러 나라를 여행해 보았다.<br>
+      어렸을 때는 부모님과, 때로는 단체 집단(태권도 도장)과도 함께 여행을 떠나보았다.
+      성인이 된 뒤로는 혼자 여행을 가고는 한다.<br>
+      여행을 떠날 때마다 새로운 것을 배우고, 새로운 것을 경험하며, 새로운 것을 느끼게 된다.<br>
+      <a href="#top">맨 위로</a>
+    </p>
+  </div>
+
+  <section id="japan">
+    <h2>일본</h2>
+    <img src="../../chap_05/media/japan.jpg" width="300" alt="일본">
+    <p>
+      내가 가장 처음으로 가본 해외이자, 가장 많이 가본 나라이며, 가장 좋아하는 나라이다.<br>
+      부모님과 함께 약 3번정도 가봤고, 다니던 태권도 도장에서 문화 교류를 위해 2번 가봤다.<br>
+      성인이 된 뒤로는 혼자 여행을 즐기는 나라이다.
+    </p>
+
+    <h3>일본 사진</h3>
+    <img src="../../chap_05/media/japan1.jpg" width="300" alt="일본사진1">
+    <img src="../../chap_05/media/japan2.jpg" width="300" alt="일본사진2">
+
+    <h4>가장 기억에 남는 것들</h4>
+    <p>일본에 여러 번 가본 뒤, 가장 기억에 남는 것들이 몇가지 있다.<br>
+      가장 먼저, 4장 미니프로젝트에서 다뤘던 내용인 라멘이다.<br>
+      일본에 갈 때마다 여러 라멘 가게를 방문하며, 다양한 라멘을 먹어보며 비교하는 것이 즐겁다.<br>
+      그리고 삿포로에 갔을 때, 맥주 박물관에 방문해 보았는데, 다양한 맥주를 볼 수 있었고, 맥주에 대한 역사와 문화를 배울 수 있었다.<br>
+    </p>
+
+    <a href="#top">맨 위로</a>
+  </section>
+
+
+  <section id="usa">
+    <h2>미국</h2>
+    <img src="../../chap_05/media/usa.jpg" width="300" alt="미국">
+    <p>
+      초등학교 6학년 때 태권도 도장에서 문화 교류를 위해 가봤던 나라이다.<br>
+      어렸을 때라 영어도 거의 하지 못했고, 미국을 가는것이 얼마나 힘든 것인지 몰랐기 때문에 다시 한 번 가보고 싶은 나라이다.<br>
+    </p>
+
+    <h3>미국 사진</h3>
+    <img src="../../chap_05/media/usa1.jpg" width="300" alt="미국사진1">
+    <img src="../../chap_05/media/usa2.jpg" width="300" alt="미국사진2">
+
+    <h4>가장 기억에 남는 것들</h4>
+    <p>
+      미국에 가본 뒤, 가장 기억에 남는 것들이 몇가지 있다.<br>
+      미국을 여행하면서, 미국 가정에서 홈스테이를 했는데, 한국의 문화와 미국의 문화가 달라서 신기한 경험이었고, 세상을 더 넓은 시야로 볼 수 있는 계기가 되었다.<br>
+      미국의 태권도 도장도 방문해 보았는데, 태권도가 지구 반대편인 미국에도 인지도가 있다는 것에 놀랐다.<br>
+    </p>
+
+    <a href="#top">맨 위로</a>
+  </section>
+
+
+  <section id="hong">
+    <h2>홍콩</h2>
+    <img src="../../chap_05/media/hongkong.jpg" width="300" alt="홍콩">
+    <p>
+      중학교 때 가족들과 갔었는데, 물가가 비싸서 놀랐다.<br>
+      홍콩에 가기 전까지는 홍콩=중국이라는 잘못된 생각을 가지고 있었는데, 홍콩의 여러 관광지를 방문해보며 홍콩 야경의 아름다움을 느낄 수 있었다.<br>
+    </p>
+
+    <h3>홍콩 사진</h3>
+    <img src="../../chap_05/media/hongkong1.jpg" width="300" alt="홍콩사진1">
+    <img src="../../chap_05/media/hongkong2.jpg" width="300" alt="홍콩사진2">
+
+    <h4>가장 기억에 남는 것들</h4>
+    <p>
+      홍콩에 가본 뒤, 가장 기억에 남는 것들이 몇가지 있다.<br>
+      홍콩 여행을 하면서, 홍콩의 다양한 음식을 먹어보았는데, 가족들은 입맛에 안 맞는다고 하였지만 나는 맛있게 먹었던 기억이 있다.<br>
+      무엇보다 기억에 남는 것은, 홍콩 고유의 아름다운 야경이었다. 이 때 보았던 풍경이, 아직도 기억에 남는다.<br>
+    </p>
+
+    <a href="#top">맨 위로</a>
+  </section>
+
+
+  <section id="korea">
+    <h2>대한민국</h2>
+    <img src="../../chap_05/media/korea.jpg" width="300" alt="대한민국">
+    <p>
+      해외여행에서는 낯선 문화를 접하는 재미가 있지만, 국내 여행에서는 익숙하다고 생각했던 우리나라의 새로운 모습을 발견하는 재미가 있다.<br>
+      같은 음식도 지역에 따라 이름이나 만드는 방법이 조금씩 다르고, 같은 한국어를 써도 말투에서 그 지역의 특색이 느껴진다.<br>
+      앞으로는 국내 여행을 갈 때 유명한 관광지를 둘러보는 것과 함께, 그 지역 시장에 들러 평소에 먹어 보지 못한 음식도 맛보고 싶다.
+    </p>
+
+    <h3>대한민국 사진</h3>
+    <img src="../../chap_05/media/korea1.jpg" width="300" alt="대한민국사진1">
+    <img src="../../chap_05/media/korea2.jpg" width="300" alt="대한민국사진2">
+
+    <h4>그래도 역시 가장 좋은 나라는 우리나라</h4>
+    <p>여러 나라를 가보았지만, 그래도 우리나라만큼 좋은 나라가 없다고 생각했다.<br>
+      좁은 땅이지만, 다양한 문화가 살아있어 좋은 나라라고 생각한다.<br>
+    </p>
+
+    <a href="#top">맨 위로</a>
+  </section>
+
+  <section id="form">
+    <h2>가고 싶은 나라 설문조사</h2>
+    <article>
+      <p>여러 나라를 다니며 가장 기억에 남았던 것은, 일본에서 먹었던 라멘과 홍콩에서 보았던 야경입니다.
+        여러분은 어디로 여행을 떠나서 무엇을 해 보고 싶나요? 아니면 가장 기억에 남았던 것은 무엇인가요?</p>
+
+      <form action="#form" method="get">
+        <fieldset>
+          <legend>나의 다음 여행</legend>
+
+          <p>
+            <label for="traveler-name">닉네임</label><br>
+            <input type="text" id="traveler-name" name="nickname"
+                   placeholder="닉네임을 입력해 주세요." required>
+          </p>
+
+          <fieldset>
+            <legend>소개한 여행지 중 가장 가 보고 싶은 곳은 어디인가요?</legend>
+            <label><input type="radio" name="destination" value="일본" required> 일본</label>
+            <label><input type="radio" name="destination" value="미국"> 미국</label>
+            <label><input type="radio" name="destination" value="홍콩"> 홍콩</label>
+            <label><input type="radio" name="destination" value="대한민국"> 대한민국</label>
+          </fieldset>
+
+          <p>
+            <label for="travel-reason">그곳에서 무엇을 해 보고 싶나요?</label><br>
+            <textarea id="travel-reason" name="reason" rows="5" cols="50"
+                      placeholder="예) 삿포로에서 눈 축제를 경험해 보고 싶어요."
+                      required></textarea>
+          </p>
+
+          <p>
+            <input type="submit" value="설문 제출">
+            <input type="reset" value="초기화">
+          </p>
+        </fieldset>
+      </form>
+    </article>
+
+    <p><a href="#top">맨 위로</a></p>
+  </section>
+
+
+</main>
+
+<footer>
+  <p>여행을 떠나요 &middot; 차민규 &middot; 24117000</p>
+  <a href="#top">맨 위로</a>
+  <hr>
+</footer>
+
+</body>
+</html>
