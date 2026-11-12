@@ -1,0 +1,337 @@
+/* 5장 미니 프로젝트 - 차민규 24117000
+   4장 ex4-6~10: 선택자, ex4-12~20: 색상, 글꼴, 여백, 테두리
+   5장 ex5-2: inline-block, ex5-14: 입력 양식, ex5-16: 그림자
+   너비 제한과 박스 크기는 chap_04/review/style.css 참고 */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #f3f6f5;
+  color: #293d42;
+  font-family: "Malgun Gothic", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+/* 상단 제목과 이름, 학번 */
+header {
+  padding: 40px 6%;
+  background-color: #173f49;
+  color: white;
+  text-align: center;
+  border-bottom: 6px solid #d4ae72;
+}
+
+header h1 {
+  margin: 14px 0;
+  font-size: 36px;
+}
+
+header h3 {
+  margin: 0 0 12px;
+  font-size: 14px;
+  font-weight: normal;
+  color: #dceae8;
+}
+
+header p {
+  margin: 8px 0;
+}
+
+.student {
+  color: #f1cf98;
+  font-size: 14px;
+}
+
+header hr {
+  width: 60px;
+  margin: 18px auto;
+  border: 0;
+  border-top: 1px solid #d4ae72;
+}
+
+/* 여행지 이동 메뉴 - 5장의 inline-block 사용 */
+nav {
+  padding: 18px 5%;
+  background-color: #e3eeeb;
+  text-align: center;
+}
+
+nav h3 {
+  margin: 0 0 10px;
+  font-size: 18px;
+}
+
+nav p {
+  margin: 6px 0;
+}
+
+a {
+  color: #24675f;
+  text-decoration: underline;
+}
+
+a:hover, a:focus {
+  color: #8a4c24;
+}
+
+/* 5장 ex5-17~18: 링크에 마우스를 올리면 부드럽게 이동 */
+nav a {
+  transition: 0.5s;
+  display: inline-block;
+  margin: 4px;
+  padding: 6px 16px;
+  border: 1px solid #b6cfca;
+  border-radius: 6px;
+  background-color: white;
+  text-decoration: none;
+}
+
+nav a:hover, nav a:focus {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 8px #c9d8d3;
+  background-color: #173f49;
+  color: white;
+}
+
+/* 본문 너비와 여행지별 영역 */
+main {
+  width: 90%;
+  max-width: 960px;
+  margin: 32px auto;
+}
+
+main > div {
+  margin-bottom: 28px;
+  padding: 18px 24px;
+  border-left: 4px solid #d4ae72;
+  background-color: #fffaf0;
+}
+
+section {
+  transition: 0.4s;
+  margin-bottom: 30px;
+  padding: 26px 5%;
+  border: 1px solid #d9e3df;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 4px 12px #e0e7e4;
+}
+
+section h2 {
+  transition: 0.4s;
+  margin: 0 0 22px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #d4ae72;
+  color: #173f49;
+  font-size: 27px;
+}
+
+section h3 {
+  transition: 0.4s;
+  margin: 26px 0 12px;
+  color: #24675f;
+  font-size: 20px;
+}
+
+section h4 {
+  transition: 0.4s;
+  margin: 24px 0 10px;
+  color: #24675f;
+  font-size: 18px;
+}
+
+section p {
+  margin: 16px 0;
+}
+
+/* 사진의 원래 비율을 유지하고 좁은 화면에서는 너비를 제한 */
+section img {
+  transition: 0.4s;
+  width: 300px;
+  max-width: 100%;
+  height: auto;
+  margin: 6px 8px 6px 0;
+  padding: 5px;
+  border: 1px solid #d9e3df;
+  border-radius: 6px;
+  background-color: #f3f6f5;
+}
+
+/* 설문 - 속성 선택자와 :focus 사용 (ex4-8, ex5-14) */
+#form {
+  background-color: #f8fbfa;
+}
+
+fieldset {
+  min-width: 0;
+  margin: 20px 0;
+  padding: 18px 5%;
+  border: 1px solid #b6cfca;
+  border-radius: 8px;
+}
+
+legend {
+  padding: 0 8px;
+  color: #173f49;
+  font-weight: bold;
+}
+
+label {
+  display: inline-block;
+  margin: 4px 12px 4px 0;
+}
+
+input, textarea {
+  font-family: "Malgun Gothic", Arial, sans-serif;
+  font-size: 16px;
+}
+
+input[type="text"], textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #9bb8b1;
+  border-radius: 5px;
+  background-color: white;
+  color: #293d42;
+  line-height: 1.6;
+}
+
+input[type="text"] {
+  max-width: 360px;
+}
+
+input[type="text"]:focus, textarea:focus {
+  background-color: #fff8e9;
+  border-color: #24675f;
+}
+
+input[type="submit"], input[type="reset"] {
+  margin: 4px 8px 4px 0;
+  padding: 10px 20px;
+  border: 1px solid #24675f;
+  border-radius: 5px;
+  background-color: #24675f;
+  color: white;
+}
+
+input[type="reset"] {
+  background-color: white;
+  color: #24675f;
+}
+
+input[type="submit"]:hover, input[type="submit"]:focus,
+input[type="reset"]:hover, input[type="reset"]:focus {
+  background-color: #173f49;
+  color: white;
+}
+
+footer {
+  padding: 24px 5%;
+  background-color: #173f49;
+  color: white;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer a {
+  color: #f1cf98;
+}
+
+footer a:hover, footer a:focus {
+  color: white;
+}
+
+footer hr {
+  border: 0;
+  border-top: 1px solid #50717a;
+}
+
+/* 5장 ex5-18의 @keyframes와 translateY 사용
+   각 글자를 inline-block으로 만들고 0.12초 간격으로 시작 */
+header h1 span {
+  display: inline-block;
+  animation: title-wave 1.6s infinite;
+}
+
+header h1 span:nth-child(2) {
+  animation-delay: 0.12s;
+}
+
+header h1 span:nth-child(3) {
+  animation-delay: 0.24s;
+}
+
+header h1 span:nth-child(4) {
+  animation-delay: 0.36s;
+}
+
+header h1 span:nth-child(5) {
+  animation-delay: 0.48s;
+}
+
+header h1 span:nth-child(6) {
+  animation-delay: 0.60s;
+}
+
+header h1 span:nth-child(7) {
+  animation-delay: 0.72s;
+}
+
+header h1 span:nth-child(8) {
+  animation-delay: 0.84s;
+}
+
+@keyframes title-wave {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  25% {
+    transform: translateY(-8px);
+  }
+  50% {
+    transform: translateY(0px);
+  }
+  75% {
+    transform: translateY(8px);
+  }
+}
+
+/* 본문 효과 - 5장 ex5-16~19의 그림자, 전환, 변형 활용 */
+section:hover {
+  border-color: #9bb8b1;
+  box-shadow: 0 8px 18px #cad8d2;
+}
+
+/* 사진에 마우스를 올리면 원래 크기의 1.03배로 확대 */
+section img:hover {
+  transform: scale(1.03, 1.03);
+  border-color: #d4ae72;
+  box-shadow: 0 5px 12px #b7c7c1;
+}
+
+/* 여행지 제목은 색상과 글자 그림자로 강조 */
+section h2:hover {
+  color: #8a4c24;
+  text-shadow: 2px 2px 4px #e5d5bd;
+}
+
+/* 사진 제목과 추억 소제목은 살짝 위로 이동 */
+section h3:hover, section h4:hover {
+  transform: translateY(-3px);
+  color: #8a4c24;
+}
+
+/* 본문의 맨 위로 링크 */
+main a[href="#top"] {
+  display: inline-block;
+  transition: 0.3s;
+}
+
+main a[href="#top"]:hover, main a[href="#top"]:focus {
+  transform: translateY(-3px);
+  text-shadow: 1px 1px 3px #d4ae72;
+}
