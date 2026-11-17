@@ -30,9 +30,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="feat: 5장 여행 후기 페이지에 설문을 추가하고 CSS 전환·커서 예제 구현&#10;&#10;- HTML5/chap_02/project/차민규_24117000.html: 여행지 4곳의 후기와 사진, 섹션 바로가기, 다음 여행지 설문 폼 추가&#10;- HTML5/chap_02/project/홍길동_20230808.html: 프로젝트 작성용 HTML 템플릿 추가&#10;- practice/chap05/prac01.html: 마우스를 올리면 글자 크기가 5초에 걸쳐 500%로 커지는 전환 효과 구현&#10;- practice/chap05/prac02.html: CSS cursor 속성값 5종을 비교하는 예제 추가&#10;- practice/chap05/*.png: W3Schools의 2D·3D 변환, 전환, 애니메이션 실습 화면 캡처 4장 추가&#10;- HTML5/chap_05/html/ex5-19.html: 줄 끝 공백과 파일 끝 줄바꿈 정리&#10;- .idea/workspace.xml: IntelliJ 변경 목록과 작업 설정 갱신">
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_02/project/차민규_24117000.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_02/project/차민규_24117000.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1240" />
+    <option name="cachedIndexableFilesCount" value="1242" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -195,7 +194,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.AIAssistantPromptsLibrary&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown&quot;,
     &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/bestc/IdeaProjects/web_xml_programming/HTML5/chap_04/review/problem2.html&quot;
   }
 }</component>
@@ -216,9 +215,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="Application" factoryName="Application">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -489,7 +488,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794295911183</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="feat: 5장 여행 웹페이지에 CSS 디자인과 애니메이션 추가&#10;&#10;- HTML5/chap_02/project/24117000.css: 페이지 배색, 본문 배치, 여행지 영역과 설문 폼 스타일 추가&#10;- HTML5/chap_02/project/24117000.css: 제목 글자별 물결 애니메이션과 메뉴 이동·사진 확대·그림자 효과 구현&#10;- HTML5/chap_02/project/차민규_24117000.html: 외부 CSS 연결 및 제목을 글자별 span으로 구성&#10;- .idea/workspace.xml: IntelliJ 변경 목록, 실행 설정과 작업 기록 갱신">
+      <option name="closed" value="true" />
+      <created>1794447415370</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1794447415370</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update `workspace.xml`, refine project structure, and modify `차민규_24117000.html` to include new references." />
     <MESSAGE value="Remove outdated HTML files from `practice/chap03/project` to clean up project structure." />
     <MESSAGE value="Update `workspace.xml` to remove outdated references and clean up project structure" />
     <MESSAGE value="Rename and relocate storyboard files under `practice/chap03`, and update `workspace.xml` to reflect changes." />
@@ -544,7 +550,8 @@
     <MESSAGE value="feat: HTML과 CSS를 활용한 웹 프로그래밍 실습 파일 추가&#10;&#10;- HTML5/chap_04/project/차민규_24117000.html: 나만의 음식 이야기 웹페이지 구조 작성 및 CSS 연결&#10;- HTML5/chap_04/project/홍길동_20230808.html: 이전 프로젝트 HTML 파일 삭제&#10;- practice/Web_01/problem1.html: 웹페이지 주요 시설 및 일정 안내 구조 작성&#10;- practice/Web_01/problem2.html: 주요 시설 안내 웹페이지와 스타일 적용&#10;- practice/Web_01/style.css: 웹페이지 레이아웃 및 디자인 스타일 추가&#10;- practice/Web_01/images/campus.svg: 캠퍼스 이미지 SVG 파일 추가&#10;- practice/Web_01/images/library.svg: 도서관 이미지 SVG 파일 추가&#10;- practice/Web_01/images/cafeteria.svg: 학생 식당 이미지 SVG 파일 추가&#10;- HTML5/chap_04/project/24117000.css: 음식 이야기 웹페이지 전용 CSS 스타일 추가" />
     <MESSAGE value="feat: 3장 및 4장 미니프로젝트 파일 추가&#10;&#10;- HTML5/chap_03/project/3장 미니프로젝트_24117000-차민규.zip: 3장 미니프로젝트 파일 추가&#10;- HTML5/chap_04/project/4장 미니프로젝트_24117000-차민규.zip: 4장 미니프로젝트 파일 추가" />
     <MESSAGE value="feat: 5장 여행 후기 페이지에 설문을 추가하고 CSS 전환·커서 예제 구현&#10;&#10;- HTML5/chap_02/project/차민규_24117000.html: 여행지 4곳의 후기와 사진, 섹션 바로가기, 다음 여행지 설문 폼 추가&#10;- HTML5/chap_02/project/홍길동_20230808.html: 프로젝트 작성용 HTML 템플릿 추가&#10;- practice/chap05/prac01.html: 마우스를 올리면 글자 크기가 5초에 걸쳐 500%로 커지는 전환 효과 구현&#10;- practice/chap05/prac02.html: CSS cursor 속성값 5종을 비교하는 예제 추가&#10;- practice/chap05/*.png: W3Schools의 2D·3D 변환, 전환, 애니메이션 실습 화면 캡처 4장 추가&#10;- HTML5/chap_05/html/ex5-19.html: 줄 끝 공백과 파일 끝 줄바꿈 정리&#10;- .idea/workspace.xml: IntelliJ 변경 목록과 작업 설정 갱신" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 5장 여행 후기 페이지에 설문을 추가하고 CSS 전환·커서 예제 구현&#10;&#10;- HTML5/chap_02/project/차민규_24117000.html: 여행지 4곳의 후기와 사진, 섹션 바로가기, 다음 여행지 설문 폼 추가&#10;- HTML5/chap_02/project/홍길동_20230808.html: 프로젝트 작성용 HTML 템플릿 추가&#10;- practice/chap05/prac01.html: 마우스를 올리면 글자 크기가 5초에 걸쳐 500%로 커지는 전환 효과 구현&#10;- practice/chap05/prac02.html: CSS cursor 속성값 5종을 비교하는 예제 추가&#10;- practice/chap05/*.png: W3Schools의 2D·3D 변환, 전환, 애니메이션 실습 화면 캡처 4장 추가&#10;- HTML5/chap_05/html/ex5-19.html: 줄 끝 공백과 파일 끝 줄바꿈 정리&#10;- .idea/workspace.xml: IntelliJ 변경 목록과 작업 설정 갱신" />
+    <MESSAGE value="feat: 5장 여행 웹페이지에 CSS 디자인과 애니메이션 추가&#10;&#10;- HTML5/chap_02/project/24117000.css: 페이지 배색, 본문 배치, 여행지 영역과 설문 폼 스타일 추가&#10;- HTML5/chap_02/project/24117000.css: 제목 글자별 물결 애니메이션과 메뉴 이동·사진 확대·그림자 효과 구현&#10;- HTML5/chap_02/project/차민규_24117000.html: 외부 CSS 연결 및 제목을 글자별 span으로 구성&#10;- .idea/workspace.xml: IntelliJ 변경 목록, 실행 설정과 작업 기록 갱신" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 5장 여행 웹페이지에 CSS 디자인과 애니메이션 추가&#10;&#10;- HTML5/chap_02/project/24117000.css: 페이지 배색, 본문 배치, 여행지 영역과 설문 폼 스타일 추가&#10;- HTML5/chap_02/project/24117000.css: 제목 글자별 물결 애니메이션과 메뉴 이동·사진 확대·그림자 효과 구현&#10;- HTML5/chap_02/project/차민규_24117000.html: 외부 CSS 연결 및 제목을 글자별 span으로 구성&#10;- .idea/workspace.xml: IntelliJ 변경 목록, 실행 설정과 작업 기록 갱신" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
