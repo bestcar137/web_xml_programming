@@ -5,7 +5,7 @@
 ## 주요 자료 바로가기
 
 | 구분                 | 위치 및 내용                                                                                                    |
-|----------------------|-----------------------------------------------------------------------------------------------------------------|
+| -------------------- | --------------------------------------------------------------------------------------------------------------- |
 | 수업 예제            | [HTML5](HTML5/): 1~12장 예제와 장별 안내 페이지                                                                 |
 | 개인 실습            | [practice](practice/): 장별 실습, 미니프로젝트, 결과 이미지                                                     |
 | 캠퍼스 생활 안내     | [practice/Web_01](practice/Web_01/): HTML·CSS 페이지와 SVG 이미지                                               |
@@ -48,20 +48,20 @@ web_xml_programming/
 
 ## 장별 수업 자료
 
-| 장 | 학습 내용                     | 안내 페이지                                  |
-|----|-------------------------------|----------------------------------------------|
-| 1  | HTML5와 웹 프로그래밍         | [index_01.html](HTML5/chap_01/index_01.html) |
-| 2  | HTML5로 기본 문서 만들기      | [index_02.html](HTML5/chap_02/index_02.html) |
-| 3  | 문서 구조화와 웹 폼           | [index_03.html](HTML5/chap_03/index_03.html) |
-| 4  | CSS3로 웹 페이지 꾸미기       | [index_04.html](HTML5/chap_04/index_04.html) |
-| 5  | CSS3의 고급 기능              | [index_05.html](HTML5/chap_05/index_05.html) |
-| 6  | 자바스크립트와 ES6            | [index_06.html](HTML5/chap_06/index_06.html) |
-| 7  | 자바스크립트 객체 다루기      | [index_07.html](HTML5/chap_07/index_07.html) |
-| 8  | 문서 객체모델 이해하기        | [index_08.html](HTML5/chap_08/index_08.html) |
-| 9  | 이벤트 처리하기               | [index_09.html](HTML5/chap_09/index_09.html) |
-| 10 | 브라우저 객체모델과 반응형 웹 | [index_10.html](HTML5/chap_10/index_10.html) |
-| 11 | 캔버스로 그림 그리기          | [index_11.html](HTML5/chap_11/index_11.html) |
-| 12 | 도전! 프로젝트                | [index_12.html](HTML5/chap_12/index_12.html) |
+| 장  | 학습 내용                     | 안내 페이지                                  |
+| --- | ----------------------------- | -------------------------------------------- |
+| 1   | HTML5와 웹 프로그래밍         | [index_01.html](HTML5/chap_01/index_01.html) |
+| 2   | HTML5로 기본 문서 만들기      | [index_02.html](HTML5/chap_02/index_02.html) |
+| 3   | 문서 구조화와 웹 폼           | [index_03.html](HTML5/chap_03/index_03.html) |
+| 4   | CSS3로 웹 페이지 꾸미기       | [index_04.html](HTML5/chap_04/index_04.html) |
+| 5   | CSS3의 고급 기능              | [index_05.html](HTML5/chap_05/index_05.html) |
+| 6   | 자바스크립트와 ES6            | [index_06.html](HTML5/chap_06/index_06.html) |
+| 7   | 자바스크립트 객체 다루기      | [index_07.html](HTML5/chap_07/index_07.html) |
+| 8   | 문서 객체모델 이해하기        | [index_08.html](HTML5/chap_08/index_08.html) |
+| 9   | 이벤트 처리하기               | [index_09.html](HTML5/chap_09/index_09.html) |
+| 10  | 브라우저 객체모델과 반응형 웹 | [index_10.html](HTML5/chap_10/index_10.html) |
+| 11  | 캔버스로 그림 그리기          | [index_11.html](HTML5/chap_11/index_11.html) |
+| 12  | 도전! 프로젝트                | [index_12.html](HTML5/chap_12/index_12.html) |
 
 장별 폴더의 `html/`에는 개별 예제, `media/`에는 관련 이미지·미디어, `project/`에는 프로젝트 자료가 들어 있습니다. 이 하위 폴더 구성은 장마다 다릅니다. 1장은 `HTML/`, `CSS/`,
 `jscript/`로 구분하며, 4장에는 `review/`, 12장에는 `horse/`, `rainbow/`, `slot/` 프로젝트 폴더가 있습니다.
@@ -69,7 +69,7 @@ web_xml_programming/
 ## 개인 실습 및 프로젝트
 
 | 위치                                | 주요 내용                                                      |
-|-------------------------------------|----------------------------------------------------------------|
+| ----------------------------------- | -------------------------------------------------------------- |
 | [practice/chap01](practice/chap01/) | 자기소개 과제, 기초 HTML 실습과 결과 화면                      |
 | [practice/chap02](practice/chap02/) | 목록·시간표 실습, 햄버거 소개 미니프로젝트와 이미지            |
 | [practice/chap03](practice/chap03/) | 문서 구조, iframe, 입력 폼 실습 및 미니프로젝트 자료           |
