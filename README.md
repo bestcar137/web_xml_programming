@@ -83,7 +83,7 @@ web_xml_programming/
   `HTML5/chap_05/media/`의 사진을 사용합니다.
 - `HTML5/chap_05/project/`에는 제공된 `홍길동_20230808.html` 템플릿과 `20230808.css`가 있습니다.
 - `HTML5/chap_03/project/`, `HTML5/chap_04/project/`에는 HTML·CSS 원본과 제출용 ZIP 파일이 함께 있습니다.
-- `HTML5/chap_06/project/`에는 날짜·시간 표시와 색상 변경 예제가 있습니다.
+- [6장 미니프로젝트](HTML5/chap_06/project/README.md)에는 가위바위보 게임, 사용자 입력으로 글자색을 바꾸는 실습과 제출용 ZIP이 있습니다.
 
 ## 실행 방법
 
@@ -115,6 +115,11 @@ npm run build
 복사하지 않습니다. 전체 수업 자료를 웹에 배포하려면 배포 대상과 경로를 추가로 구성해야 합니다.
 
 `js/app.js`는 현재 비어 있습니다. `npm test`는 테스트가 구성되지 않았다는 메시지와 함께 종료하는 기본 명령입니다.
+
+### 코드 서식
+
+개발 의존성으로 Prettier 3.10.1을 사용합니다. `.prettierrc.json`은 빈 객체이므로 기본 서식 규칙을 적용하며, IntelliJ의 `.idea/prettier.xml`에는 자동 설정 감지와 저장 시 실행이 설정되어 있습니다.
+`npm ci` 후 저장소 루트에서 `npx prettier --check "HTML5/chap_06/project/p*_차민규_24117000.html"`로 두 실습 파일의 서식을 확인할 수 있습니다.
 
 ### Java 초기 프로젝트
 

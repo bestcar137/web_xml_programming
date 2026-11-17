@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>사용자 입력으로 색상 바꾸기</title>
+    <link rel="stylesheet" href="style_js.css" />
+  </head>
+  <body>
+    <script>
+      document.write("이름: 차민규, 학번:24117000 <hr>");
+      /* 이하 부터 사용자 입력으로 색상 바꾸기 코드 작성 */
+      function change() {
+        const colors = document.getElementById("input").value;
+        const alter = document.getElementById("alter");
+        alter.style.color = colors;
+      }
+    </script>
+    <h1 id="alter">Change Colors</h1>
+    <hr />
+    <input type="text" id="input" />
+    <br />
+    <button onclick="change()">Start</button>
+  </body>
+</html>
