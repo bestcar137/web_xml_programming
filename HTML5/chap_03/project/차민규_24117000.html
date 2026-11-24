@@ -6,133 +6,146 @@
 4. 제출하는 과제는 반드시 구조화된 문서여야 한다. 따라서 시맨틱 태그 <header>, <nav>, <section>, <article>, <footer> 를 포함하며,
 <iframe> 태그를 사용하여 프레임을 만들어야 한다.
 -->
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="24117000.css">
-  <!-- 자신이 만드는 웹 페이지의 제목을 넣어시오 -->
-  <title>우리 집 고양이</title>
-  <!-- 이름과 학번을 정확하게 쓰시오 -->
-  <h3 id="top">Project 3장: 이름: 차민규 학번: 24117000</h3>
-  <hr>
-</head>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="24117000.css" />
+    <!-- 자신이 만드는 웹 페이지의 제목을 넣어시오 -->
+    <title>우리 집 고양이</title>
+    <!-- 이름과 학번을 정확하게 쓰시오 -->
+    <h3 id="top">Project 3장: 이름: 차민규 학번: 24117000</h3>
+    <hr />
+  </head>
 
-<body>
-<!-- 이 이후부터 자신만의 동물 이야기를 만드시오 -->
+  <body>
+    <!-- 이 이후부터 자신만의 동물 이야기를 만드시오 -->
 
-<!-- <header> 사용 -->
-<header>
-  <h1>우리 집 고양이</h1>
-  <p>
-    주인을 닮아 잘생긴 고양이 우리 집 고양이 <b>'룬'</b>을 소개합니다.
-  </p>
-</header>
+    <!-- <header> 사용 -->
+    <header>
+      <h1>우리 집 고양이</h1>
+      <p>주인을 닮아 잘생긴 고양이 우리 집 고양이 <b>'룬'</b>을 소개합니다.</p>
+    </header>
 
-<!-- <nav> 사용할 용도가 있으면 작성 -->
-<nav>
-  <p>
-    <a href="#story">고양이 이야기</a>
-    | <a href="#visitor">방문자 설문</a>
-  </p>
-</nav>
+    <!-- <nav> 사용할 용도가 있으면 작성 -->
+    <nav>
+      <p>
+        <a href="#story">고양이 이야기</a>
+        | <a href="#visitor">방문자 설문</a>
+      </p>
+    </nav>
 
+    <hr />
 
-<hr>
+    <!-- <section>으로 <h2>로 되어있는 부분 <article class="left"> 로 목차.  -->
+    <section id="story">
+      <h2>룬과 함께하는 고양이 이야기</h2>
 
-<!-- <section>으로 <h2>로 되어있는 부분 <article class="left"> 로 목차.  -->
-<section id="story">
-  <h2>룬과 함께하는 고양이 이야기</h2>
+      <p>왼쪽 목차를 클릭하면 오른쪽에 해당 내용이 나타납니다.</p>
 
-  <p>
-    왼쪽 목차를 클릭하면 오른쪽에 해당 내용이 나타납니다.
-  </p>
+      <article>
+        <h3>목차 &amp; 본문</h3>
 
-  <article>
-    <h3>목차 &amp; 본문</h3>
+        <!-- 왼쪽: 목차 -->
+        <iframe
+          src="차민규_24117000_2.html"
+          name="menu_frame"
+          title="고양이 이야기 목차"
+          width="250"
+          height="650"
+        >
+        </iframe>
 
-    <!-- 왼쪽: 목차 -->
-    <iframe
-      src="차민규_24117000_2.html"
-      name="menu_frame"
-      title="고양이 이야기 목차"
-      width="250"
-      height="650">
-    </iframe>
+        <!-- 오른쪽: 본문 -->
+        <iframe
+          src="차민규_24117000_3.html"
+          name="content_frame"
+          title="고양이 이야기 본문"
+          width="740"
+          height="650"
+        >
+        </iframe>
+      </article>
+    </section>
 
-    <!-- 오른쪽: 본문 -->
-    <iframe
-      src="차민규_24117000_3.html"
-      name="content_frame"
-      title="고양이 이야기 본문"
-      width="740"
-      height="650">
-    </iframe>
-  </article>
-</section>
+    <hr />
 
-<hr>
+    <section id="visitor">
+      <h2>룬에게 한마디</h2>
+      <article>
+        <p>룬에게 하고싶은 메시지를 남겨주세요.</p>
 
-<section id="visitor">
-  <h2>룬에게 한마디</h2>
-  <article>
-    <p>
-      룬에게 하고싶은 메시지를 남겨주세요.
-    </p>
+        <form action="차민규_24117000_2.html#visitor" method="get">
+          <fieldset>
+            <legend>룬에게 한마디</legend>
 
-    <form action="차민규_24117000_2.html#visitor" method="get">
-      <fieldset>
-        <legend>
-          룬에게 한마디
-        </legend>
+            <p>
+              <label for="visitor-name">닉네임: </label>
+              <input
+                type="text"
+                id="visitor-name"
+                name="visitor_name"
+                placeholder="닉네임 입력"
+                required
+              />
+            </p>
 
-        <p>
-          <label for="visitor-name">닉네임: </label>
-          <input type="text" id="visitor-name" name="visitor_name" placeholder="닉네임 입력" required>
-        </p>
+            <p>
+              룬의 가장 귀여운 매력은?<br />
+              <label
+                ><input type="radio" name="charm" value="quiet" checked />조용한
+                성격</label
+              >
+              <label
+                ><input type="radio" name="charm" value="sleep" />잠자는
+                모습</label
+              >
+              <label
+                ><input type="radio" name="charm" value="follow" />졸졸
+                따라오기</label
+              >
+            </p>
 
-        <p>
-          룬의 가장 귀여운 매력은?<br>
-          <label><input type="radio" name="charm" value="quiet" checked>조용한 성격</label>
-          <label><input type="radio" name="charm" value="sleep">잠자는 모습</label>
-          <label><input type="radio" name="charm" value="follow">졸졸 따라오기</label>
-        </p>
+            <p>
+              <label for="message">남기고 싶은 말:</label><br />
+              <textarea
+                id="message"
+                name="message"
+                rows="5"
+                cols="50"
+                placeholder="룬에게 해주고 싶은 말을 남겨 주세요."
+                required
+              ></textarea>
+            </p>
 
-        <p>
-          <label for="message">남기고 싶은 말:</label><br>
-          <textarea id="message" name="message" rows="5" cols="50" placeholder="룬에게 해주고 싶은 말을 남겨 주세요."
-                    required></textarea>
-        </p>
+            <p>
+              <input type="submit" value="제출" />
+              <input type="reset" value="초기화" />
+            </p>
+          </fieldset>
+        </form>
+      </article>
+    </section>
 
-        <p>
-          <input type="submit" value="제출">
-          <input type="reset" value="초기화">
-        </p>
-      </fieldset>
-    </form>
+    <footer>
+      <hr />
 
-  </article>
-</section>
+      <p>
+        품종 설명 참고:
+        <a href="https://cfa.org/breed/persian/" target="_blank" rel="noopener"
+          >CFA 페르시안 소개</a
+        >
+      </p>
 
+      <p>자료 조사: 구글 검색 및 ai</p>
 
-<footer>
-  <hr>
-
-  <p>
-    품종 설명 참고: <a href="https://cfa.org/breed/persian/" target="_blank" rel="noopener">CFA 페르시안 소개</a>
-  </p>
-
-  <p>
-    자료 조사: 구글 검색 및 ai
-  </p>
-
-  <p>
-    <a href="#top">맨 위로</a>
-  </p>
-</footer>
-<!-- <article class="left"> 의 목차 클릭 시 <article class="right"> 로 내용이 나옴 -->
-<!-- 내용은 <h2> 밑에 작성되어 있는 것으로 표시. -->
-<!--
+      <p>
+        <a href="#top">맨 위로</a>
+      </p>
+    </footer>
+    <!-- <article class="left"> 의 목차 클릭 시 <article class="right"> 로 내용이 나옴 -->
+    <!-- 내용은 <h2> 밑에 작성되어 있는 것으로 표시. -->
+    <!--
 <h2>우리 집 고양이 소개</h2>
 이름: 룬(Rune)
 종 : 페르시안 실버 친칠라
@@ -140,14 +153,14 @@
 특징: 조용함. 잠이 많음. 졸졸 따라다님.
 -->
 
-<!--
+    <!--
 <h2>페르시안 실버 친칠라란?</h2>    //
 페르시안 친칠라는 순종 페르시안 중에서 털 색상의 패턴이 친칠라 형태인 개체들이다. 절대로 페르시안과 별개의 종이 아니다.
 페르시안 친칠라라는 이름은 털의 패턴이 설치류인 친칠라의 털 패턴과 유사하다는 데에서 붙여진 세부 명칭이다. 그 외에는 다른 페르시안과 전혀 다를 것이 없다.
 -->
 
-<!--
+    <!--
 이후 추가 내용 작성
 -->
-</body>
+  </body>
 </html>
