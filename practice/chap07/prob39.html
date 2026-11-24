@@ -1,0 +1,27 @@
+<!-- 출력 결과가 다음과 같도록 빈칸을 채워 사용자 객체를 정의하는 코드를 완성하시오. -->
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>출력 결과가 같도록 빈칸 채우기</title>
+    <link rel="stylesheet" href="style_js.css" />
+  </head>
+  <body>
+    <script>
+      function Person(name, age) {
+        this.name = name;
+        this.age = age;
+        this.intro = function () {
+          document.write(
+            "My name: " + this.name + ", age: " + this.age + "<hr>",
+          );
+        };
+      }
+      let person1 = new Person("cho", 23);
+      let person2 = new Person("kim", 24);
+      person1.intro();
+      person2.intro();
+    </script>
+  </body>
+</html>

@@ -30,12 +30,30 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="">
+    <list default="true" id="44591d72-baa4-4043-9890-58fc8c715828" name="변경" comment="style(chap_03): 나만의 동물 이야기 HTML 및 CSS 코드 포맷팅 통일&#10;&#10;- HTML 파일 3개의 들여쓰기, 줄바꿈 및 공백 정리&#10;- DOCTYPE 선언을 소문자 표기로 통일&#10;- meta, link, hr, input, img 등 빈 요소의 표기 방식 통일&#10;- HTML 태그 및 속성 배치 정리&#10;- CSS 다중 선택자의 줄바꿈 및 들여쓰기 정리&#10;- 기존 웹페이지의 기능과 콘텐츠 유지">
+      <change afterPath="$PROJECT_DIR$/practice/chap07/prac01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap07/prac02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap07/prob35.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap07/prob36.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap07/prob37.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap07/prob38.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap07/prob39.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/chap07/style_js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/24117000.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/24117000.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_03/project/차민규_24117000_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/chap_07/html/ex7-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +62,6 @@
   </component>
   <component name="EmbeddingIndexingInfo">
     <option name="cachedIndexableFilesCount" value="1243" />
-    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,59 +95,59 @@
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.000000002143665" />
-      <entry key="S10" value="1.0000654637928557" />
-      <entry key="S30" value="1.0639734640596614" />
-      <entry key="S60" value="1.357694585992135" />
-      <entry key="M2" value="1.845812400794405" />
-      <entry key="M5" value="2.4934748829953106" />
-      <entry key="M10" value="4.905688561910809" />
-      <entry key="M15" value="10.333944533246916" />
-      <entry key="M30" value="39.410668187538334" />
-      <entry key="H1" value="123.5774440985311" />
-      <entry key="H2" value="284.5379090079354" />
-      <entry key="H4" value="536.7240678820725" />
-      <entry key="D1" value="1653.2495684457494" />
-      <entry key="W1" value="2317.703549557879" />
+      <entry key="S2" value="1.0000011043021728" />
+      <entry key="S5" value="1.0078735959690341" />
+      <entry key="S10" value="1.1892813396316722" />
+      <entry key="S30" value="3.45225782897229" />
+      <entry key="S60" value="7.542924161025162" />
+      <entry key="M2" value="14.350174113610754" />
+      <entry key="M5" value="27.59588863463771" />
+      <entry key="M10" value="40.754451404548476" />
+      <entry key="M15" value="50.62389285417281" />
+      <entry key="M30" value="74.68824459070058" />
+      <entry key="H1" value="128.99415648195142" />
+      <entry key="H2" value="263.5144664366971" />
+      <entry key="H4" value="514.7404461302816" />
+      <entry key="D1" value="1699.3361930196716" />
+      <entry key="W1" value="2429.8624769926646" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="2.4909871320049348E-143" />
-      <entry key="S10" value="4.990978994150278E-72" />
-      <entry key="S30" value="1.7089484313390707E-24" />
-      <entry key="S60" value="1.3092610641561705E-12" />
-      <entry key="M2" value="1.2196343385940913E-6" />
-      <entry key="M5" value="0.006975241586233339" />
-      <entry key="M10" value="0.16563377933584789" />
-      <entry key="M15" value="0.5380057228925383" />
-      <entry key="M30" value="2.4097302135012004" />
-      <entry key="H1" value="7.5624015773634925" />
-      <entry key="H2" value="19.54684416607531" />
-      <entry key="H4" value="44.09861084196783" />
-      <entry key="D1" value="149.60174917162098" />
-      <entry key="W1" value="205.7942776684811" />
+      <entry key="MS500" value="6.936799317246161E-109" />
+      <entry key="S2" value="9.974525376140843E-28" />
+      <entry key="S5" value="2.1187899676919473E-11" />
+      <entry key="S10" value="6.339610445348426E-6" />
+      <entry key="S30" value="0.02919836584012649" />
+      <entry key="S60" value="0.24198923952072382" />
+      <entry key="M2" value="0.7177116398285903" />
+      <entry key="M5" value="1.5351118165177362" />
+      <entry key="M10" value="2.177131152374683" />
+      <entry key="M15" value="2.59444203342252" />
+      <entry key="M30" value="3.561801483494366" />
+      <entry key="H1" value="6.267486370799978" />
+      <entry key="H2" value="15.151994522876452" />
+      <entry key="H4" value="37.34608380342938" />
+      <entry key="D1" value="147.23313625620602" />
+      <entry key="W1" value="209.31783097428493" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8766057213160351" />
-      <entry key="MS500" value="0.974004268543241" />
-      <entry key="S2" value="0.9934367347173356" />
-      <entry key="S5" value="0.9973695086471717" />
-      <entry key="S10" value="0.9987487798557784" />
-      <entry key="S30" value="1.063348882938239" />
-      <entry key="S60" value="1.3569562601404037" />
-      <entry key="M2" value="1.8450905541749218" />
-      <entry key="M5" value="2.499868492969762" />
-      <entry key="M10" value="5.069370492692816" />
-      <entry key="M15" value="10.86796258187177" />
-      <entry key="M30" value="41.81078441896906" />
-      <entry key="H1" value="131.1237966539047" />
-      <entry key="H2" value="304.0650251072335" />
-      <entry key="H4" value="580.8021993834324" />
-      <entry key="D1" value="1802.8395592000136" />
-      <entry key="W1" value="2523.4954444662567" />
+      <entry key="MS100" value="0.04094979387057384" />
+      <entry key="MS500" value="0.5277768588189834" />
+      <entry key="S2" value="0.8523405337640069" />
+      <entry key="S5" value="0.945922967499602" />
+      <entry key="S10" value="1.1571281715717354" />
+      <entry key="S30" value="3.4559631327588134" />
+      <entry key="S60" value="7.740999819854777" />
+      <entry key="M2" value="15.015569948217413" />
+      <entry key="M5" value="29.089823815710847" />
+      <entry key="M10" value="42.90190102175174" />
+      <entry key="M15" value="53.19326703403871" />
+      <entry key="M30" value="78.23007358623317" />
+      <entry key="H1" value="135.2435597194919" />
+      <entry key="H2" value="278.6475475031835" />
+      <entry key="H4" value="552.0668489971115" />
+      <entry key="D1" value="1846.5573159337873" />
+      <entry key="W1" value="2639.177821609978" />
     </decayedShown>
   </component>
   <component name="Non-shared Debug Profiles">
@@ -180,11 +197,11 @@
     "git-widget-placeholder": "master",
     "git.auto.fetch.suggestion.counter": "1",
     "ignore.virus.scanning.warn.message": "true",
-    "javascript.nodejs.core.library.configured.version": "24.21.0",
+    "javascript.nodejs.core.library.configured.version": "24.19.0",
     "javascript.nodejs.core.library.typings.version": "24.19.2",
     "javascript.preferred.runtime.type.id": "node",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/bestc/IdeaProjects/web_xml_programming/HTML5/chap_06/project",
+    "last_opened_file_path": "C:/Users/MinGyu/IdeaProjects/web_xml_programming/practice/chap07",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
@@ -192,25 +209,25 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "C:/Users/bestc/AppData/Roaming/JetBrains/IntelliJIdea2026.2/node/versions/24.21.0/node",
+    "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\MinGyu\\IdeaProjects\\web_xml_programming\\node_modules\\prettier",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "reference.idesettings.emmet.xml",
     "ts.external.directory.path": "D:\\JetBrains\\Apps\\IntelliJ IDEA\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "two.files.diff.last.used.file": "C:/Users/bestc/IdeaProjects/web_xml_programming/HTML5/chap_04/review/problem2.html"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MinGyu\IdeaProjects\web_xml_programming\practice\chap07" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\HTML5\chap_06\project" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\HTML5\chap_02\project" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice\chap05" />
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\practice" />
-      <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\HTML5\chap_04\review" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bestc\IdeaProjects\web_xml_programming\HTML5\chap_03\project" />
@@ -235,6 +252,7 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
       </set>
     </attachedChunks>
   </component>
@@ -502,7 +520,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794447415370</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="style(chap_03): 나만의 동물 이야기 HTML 및 CSS 코드 포맷팅 통일&#10;&#10;- HTML 파일 3개의 들여쓰기, 줄바꿈 및 공백 정리&#10;- DOCTYPE 선언을 소문자 표기로 통일&#10;- meta, link, hr, input, img 등 빈 요소의 표기 방식 통일&#10;- HTML 태그 및 속성 배치 정리&#10;- CSS 다중 선택자의 줄바꿈 및 들여쓰기 정리&#10;- 기존 웹페이지의 기능과 콘텐츠 유지">
+      <option name="closed" value="true" />
+      <created>1795493940888</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1795493940888</updated>
+    </task>
+    <task id="LOCAL-00034" summary="style(chap_03): 나만의 동물 이야기 HTML 및 CSS 코드 포맷팅 통일&#10;&#10;- HTML 파일 3개의 들여쓰기, 줄바꿈 및 공백 정리&#10;- DOCTYPE 선언을 소문자 표기로 통일&#10;- meta, link, hr, input, img 등 빈 요소의 표기 방식 통일&#10;- HTML 태그 및 속성 배치 정리&#10;- CSS 다중 선택자의 줄바꿈 및 들여쓰기 정리&#10;- 기존 웹페이지의 기능과 콘텐츠 유지">
+      <option name="closed" value="true" />
+      <created>1795493969524</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1795493969524</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add new HTML, CSS files, and images for `practice/chap04`, update `workspace.xml`, and refine project structure." />
     <MESSAGE value="feat: Add CSS challenge files and images for `practice/chap04`, update `workspace.xml`" />
     <MESSAGE value="feat: Add new CSS examples and update project structure in `practice/chap04`" />
     <MESSAGE value="feat: Add new CSS challenge files and update `practice/chap04` structure" />
@@ -557,7 +590,8 @@
     <MESSAGE value="update: add cat image to chap_03 project" />
     <MESSAGE value="chore: IDE 변경 보관 파일 및 작업 설정 갱신&#10;&#10;- .idea/shelf: 업데이트 전 미커밋 변경 보관 정보 추가&#10;- .idea/workspace.xml: 변경 목록과 IDE 상태 설정 갱신" />
     <MESSAGE value="chore: IntelliJ 작업 설정 및 shelf 파일 정리&#10;&#10;- .idea/shelf: 커밋 전 변경 내용 보관 파일 추가&#10;- .idea/workspace.xml: 작업 목록과 IDE 상태 설정 갱신" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: IntelliJ 작업 설정 및 shelf 파일 정리&#10;&#10;- .idea/shelf: 커밋 전 변경 내용 보관 파일 추가&#10;- .idea/workspace.xml: 작업 목록과 IDE 상태 설정 갱신" />
+    <MESSAGE value="style(chap_03): 나만의 동물 이야기 HTML 및 CSS 코드 포맷팅 통일&#10;&#10;- HTML 파일 3개의 들여쓰기, 줄바꿈 및 공백 정리&#10;- DOCTYPE 선언을 소문자 표기로 통일&#10;- meta, link, hr, input, img 등 빈 요소의 표기 방식 통일&#10;- HTML 태그 및 속성 배치 정리&#10;- CSS 다중 선택자의 줄바꿈 및 들여쓰기 정리&#10;- 기존 웹페이지의 기능과 콘텐츠 유지" />
+    <option name="LAST_COMMIT_MESSAGE" value="style(chap_03): 나만의 동물 이야기 HTML 및 CSS 코드 포맷팅 통일&#10;&#10;- HTML 파일 3개의 들여쓰기, 줄바꿈 및 공백 정리&#10;- DOCTYPE 선언을 소문자 표기로 통일&#10;- meta, link, hr, input, img 등 빈 요소의 표기 방식 통일&#10;- HTML 태그 및 속성 배치 정리&#10;- CSS 다중 선택자의 줄바꿈 및 들여쓰기 정리&#10;- 기존 웹페이지의 기능과 콘텐츠 유지" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

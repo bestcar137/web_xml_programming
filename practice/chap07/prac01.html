@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>[]로 배열 만들기</title>
+    <link rel="stylesheet" href="style_js.css" />
+  </head>
+  <body>
+    <h1>[]로 배열 만들기</h1>
+    <hr />
+    <script>
+      var plots = [20, 5, 8, 15, 20];
+
+      document.write(`var plots = [${plots.join(", ")}]<br>`);
+
+      for (let i = 0; i < plots.length; i++) {
+        for (let j = 0; j < plots[i]; j++) {
+          document.write("*");
+        }
+        document.write(`${plots[i]}<br>`);
+      }
+    </script>
+  </body>
+</html>
